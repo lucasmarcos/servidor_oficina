@@ -1,5 +1,5 @@
 {
-  "inputs": [ "src" ],
+  "inputs": ["src"],
   "compilerOptions": {
     "experimentalDecorators": true,
     "module": "esnext",

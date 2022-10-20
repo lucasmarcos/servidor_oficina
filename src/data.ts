@@ -14,4 +14,4 @@ export const Data = new DataSource({
   entities: [Monitoria],
   subscribers: [],
   migrations: [],
-})
+});
