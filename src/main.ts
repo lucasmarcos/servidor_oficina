@@ -1,6 +1,12 @@
+import "reflect-metadata";
+
 import express from "express";
 
-import "reflect-metadata";
+import { Data } from "./data.js";
+
+Data.initialize()
+.then(() => {})
+.catch((err) => console.log(err));
 
 const server = express();
 
