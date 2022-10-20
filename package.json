@@ -1,7 +1,16 @@
 {
   "type": "module",
   "dependencies": {
+    "@types/node": "^18.11.3",
+    "concurrently": "^7.4.0",
     "express": "^4.18.2",
+    "nodemon": "^2.0.20",
     "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "concurrently npm:watchts npm:watchserver",
+    "watchts": "tsc -w",
+    "watchserver": "nodemon -w dist dist/main.js"
   }
 }
