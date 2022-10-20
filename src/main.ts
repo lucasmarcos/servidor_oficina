@@ -1,5 +1,7 @@
 import express from "express";
 
+import "reflect-metadata";
+
 const server = express();
 
 const port = parseInt(process.env.PORT || "3000");
