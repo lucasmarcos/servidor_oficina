@@ -1,0 +1,8 @@
+services:
+  db:
+    image: docker://postgres:alpine
+    environment:
+      POSTGRES_PASSWORD: 123
+
+  app:
+    build: .
