@@ -3,7 +3,7 @@
 
 ## **Primeiros passos**
 
-node, npm, docker, docker-compose
+node, npm, docker, docker-compose, postgresql
 
 ## **Rodando o projeto**
 
