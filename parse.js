@@ -1,3 +1,6 @@
+// jq .[].disciplina exemplo.json | sed "s/^/{ \"nome\": /" | sed "s/\$/ },/" 
+// jq .[].monitor exemplo.json | sed "s/^/{ \"nome\": /" | sed "s/\$/ },/" 
+
 import { readFileSync } from "fs";
 
 const file = readFileSync("dados_de_exemplo_extraidos_do_portal.txt", "utf-8");

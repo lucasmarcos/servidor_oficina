@@ -1,0 +1,572 @@
+[
+  {
+    "nome": "Fundamentos dos Cálculos em Engenharia"
+  },
+  {
+    "nome": "Fundamentos de Química/EL31I e Química Experimental/EL32K"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 3"
+  },
+  {
+    "nome": "Cálculo Número"
+  },
+  {
+    "nome": "Fundamentos de Programação (CV32A)"
+  },
+  {
+    "nome": "Física III / FS3X3; EA34C; LQM35A"
+  },
+  {
+    "nome": "Física I"
+  },
+  {
+    "nome": "Física 2"
+  },
+  {
+    "nome": "Mecânica Geral 1"
+  },
+  {
+    "nome": "Ciência Dos Materiais Para Engenharia Civil"
+  },
+  {
+    "nome": "Geoprocessamento"
+  },
+  {
+    "nome": "Princípios de Máquinas Elétricas LT35D"
+  },
+  {
+    "nome": "Probabilidade e Estatística/PB3XB"
+  },
+  {
+    "nome": "Algoritmos, Algoritmos e Estruturas de Dados 1 e Algoritmos e Estruturas de Dados 2"
+  },
+  {
+    "nome": "Viab. Econômica, Eng. Econômica, Adm. Financeira"
+  },
+  {
+    "nome": "Arquitetura e Organização de Computadores/Elementos de Lógica Digital"
+  },
+  {
+    "nome": "CÁLCULO DIFERENCIAL E INTEGRAL 1"
+  },
+  {
+    "nome": "Geometria Analítica e Álgebra Linear"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 2"
+  },
+  {
+    "nome": "BANCO DE DADOS 1"
+  },
+  {
+    "nome": "Equações Diferenciais Ordinárias (PP54A)"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral I (PP51A)"
+  },
+  {
+    "nome": "Análise de Circuitos Elétricos 1 (EE54C)"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral I (PP51A)"
+  },
+  {
+    "nome": "Desenho Técnico (TECN51E)"
+  },
+  {
+    "nome": "Física 2 (PP52B) e Física B (Fis102)"
+  },
+  {
+    "nome": "Geometria Analítica e Álgebra Linear (PP51F)"
+  },
+  {
+    "nome": "Química Analítica (EG52C)"
+  },
+  {
+    "nome": "Química Geral (QUI102)"
+  },
+  {
+    "nome": "Sistemas Dinâmicos Lineares (EE55E)"
+  },
+  {
+    "nome": "Operações Unitárias I (PP57A) e II (EL57A)"
+  },
+  {
+    "nome": "Fundamentos de Programação (CC51B); Lógica Matemática (CC51A); Ling. de Programação Estruturada (CC52A); Pesquisa e Ordenação de Dados (CC54C); Computação 1 (PP52G); Estrutura de Dados (CC53C)"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral II (PP52A)"
+  },
+  {
+    "nome": "Sistemas de Controle 1 - SC25EL/ SC25CP e Sistemas Lineares - SL24EL/ SL24CP"
+  },
+  {
+    "nome": "Estrutura de Dados, Pesquisa e Ordenação - ED22S Algoritmos e Estruturas de Dados 1 - AE22CP"
+  },
+  {
+    "nome": "Circuitos Digitais - CD24EL e CD24CP Sistemas Digitais- SD25EL e SD25CP"
+  },
+  {
+    "nome": "Análise de circuitos elétricos 1 - AC24NB e AC24MC"
+  },
+  {
+    "nome": "Física 2 - FI22NB"
+  },
+  {
+    "nome": "Física 1 - FI21NB"
+  },
+  {
+    "nome": "Física 1 - FI21NB"
+  },
+  {
+    "nome": "Equações Diferenciais Ordinárias - ED23NB"
+  },
+  {
+    "nome": "Geometria Analítica e Algebra Linear - GA21NB/ AL32QB/ AL22G/ GA22M/ GA24M/IA25M/AL26M"
+  },
+  {
+    "nome": "Probabilidade e Estatística- PE22NB"
+  },
+  {
+    "nome": "Sistemática Vegetal - SV22G"
+  },
+  {
+    "nome": "Física do Solo - FS23G"
+  },
+  {
+    "nome": "Probabilidade e Estatística - PE22G"
+  },
+  {
+    "nome": "Experimentação Agrícola - EA25G"
+  },
+  {
+    "nome": "Mecânica Geral 1 - MG24NB"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 2 - CD22NB"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 3 - CD23NB"
+  },
+  {
+    "nome": "Variáveis Complexas - VC23NB"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 2 - CD22NB"
+  },
+  {
+    "nome": "Introdução À Análise Matemática - IA27M"
+  },
+  {
+    "nome": "Cálculo Numérico - CN24NB"
+  },
+  {
+    "nome": "Mecânica Geral 1 MG24NB"
+  },
+  {
+    "nome": "Química Geral, Inorgânica 1 e Inorgânica 2 - QU22NB"
+  },
+  {
+    "nome": "Química Analítica 1/QA33QB"
+  },
+  {
+    "nome": "Operações Unitárias 1 e 2 OU34QB/ OU35QB"
+  },
+  {
+    "nome": "Resistência dos Materiais-RM25CV"
+  },
+  {
+    "nome": "Cálculo Numérico CN24NB / CN25M"
+  },
+  {
+    "nome": "Calculo Diferencial e Integral I CD21NB/CA31QB/CD21G/CD23M/CA31M"
+  },
+  {
+    "nome": "Calculo Diferencial e Integral I CD21NB/CA31QB/CD21G/CD23M/CA31M"
+  },
+  {
+    "nome": "QA12I; QA12R e QA31F - QUÍMICA ANALÍTICA QUANTITATIVA, QUÍMICA ANALÍTICA e QUÍMICA ANALÍTICA A"
+  },
+  {
+    "nome": "QUÍMICA ANALÍTICA QUANTITATIVA, QUÍMICA ANALÍTICA E QUÍMICA ANALÍTICA A, código(s) QA12I, QA12R"
+  },
+  {
+    "nome": "CA32F, CA12R, MA41B - CÁLCULO A, Cálculo A, Matemática"
+  },
+  {
+    "nome": "GS15R - Geoprocessamento e Sensoriamento Remoto"
+  },
+  {
+    "nome": "GP38C - Genética de populações"
+  },
+  {
+    "nome": "BF35F"
+  },
+  {
+    "nome": "GG34C - Genética Geral e Humana"
+  },
+  {
+    "nome": "TP13R - Topografia I"
+  },
+  {
+    "nome": "AH33C - Anatomia Humana"
+  },
+  {
+    "nome": "AG21S, CP34F, IN12I - ALGORITMOS 1, COMPUTAÇÃO, INFORMÁTICA"
+  },
+  {
+    "nome": "BT42B, FV43B - ZOOTECNIA"
+  },
+  {
+    "nome": "AL11R, AL21S e MA31F - Álgebra linear, Álgebra linear e Matemática A"
+  },
+  {
+    "nome": "DT11R, DT31F e DT12 - Desenho Técnico e Desenho Técnico Aplicado"
+  },
+  {
+    "nome": "AG22S - Algoritmos 2"
+  },
+  {
+    "nome": "Gestão de Custos GE15A"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral I MA65A"
+  },
+  {
+    "nome": "Pesquisa Operacional 1 AS15A"
+  },
+  {
+    "nome": "Química inorgânica 1 QM82C"
+  },
+  {
+    "nome": "Microbiologia AL32D"
+  },
+  {
+    "nome": "Transferência de Massa EQ67A"
+  },
+  {
+    "nome": "Física 3 FI94A, FI14A, FI64C, FI63C, FI63A, FI85A, FI85B"
+  },
+  {
+    "nome": "Introdução à Administração AD11A"
+  },
+  {
+    "nome": "Expressão Gráfica DE61B"
+  },
+  {
+    "nome": "Física 1 FI92A; FI12A; FI83A"
+  },
+  {
+    "nome": "Fundamentos de Química Orgânica 1 & Química Orgânica 1 QM62A; QM83E"
+  },
+  {
+    "nome": "Computação e Algoritmos IF62B"
+  },
+  {
+    "nome": "(Cálculo Diferencial e Integral 1) e (Cálculo) MA61A e MA31-A"
+  },
+  {
+    "nome": "Desenho de máquina assistido por computador IF62A"
+  },
+  {
+    "nome": "Cálculo Diferencial E Integral 1 MA61A"
+  },
+  {
+    "nome": "Geometria Analítica e Álgebra Linear MA61C e MA91B"
+  },
+  {
+    "nome": "Instalações em Sistemas Industriais EQ66C"
+  },
+  {
+    "nome": "Fundamentos de Química Orgânica 2 QM63B"
+  },
+  {
+    "nome": "Equações Diferenciais e Ordinárias MA63C-EQ31; MA63E-AS31; MA13A EP33"
+  },
+  {
+    "nome": "Cálculo 3 MA63D"
+  },
+  {
+    "nome": "Mecânica dos Sólidos A MM64-A"
+  },
+  {
+    "nome": "Qualidade da Água EA65A"
+  },
+  {
+    "nome": "Topografia EA62B"
+  },
+  {
+    "nome": "Mecânica Geral 1 EB13A"
+  },
+  {
+    "nome": "Equações Diferenciais Ordinárias CV43E / CP43C / ET43A / MA5B"
+  },
+  {
+    "nome": "Mecânica Geral 1 e 2 ET42H/CV43D"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 1 CP41B"
+  },
+  {
+    "nome": "Matemática discreta CP41D"
+  },
+  {
+    "nome": "Fundamentos de Programação TSI31B"
+  },
+  {
+    "nome": "Mecânica dos Solos I e II CV45B e CV46G"
+  },
+  {
+    "nome": "Química Básica Teórica/ Química Geral Teórica CV41H/ ET42L/ PQ51H/ BP41H"
+  },
+  {
+    "nome": "Microbiologia Geral BP42C-BP42A"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 3 ET43B/CP43B/CV43B"
+  },
+  {
+    "nome": "Geometria Analítica e Álgebra Linear CV41D / CP41C / ET41D / BP41B / PQ51L"
+  },
+  {
+    "nome": "Cálculo DIferencial e Integral 1 BP41A"
+  },
+  {
+    "nome": "Fundamentos de Programação CP41F"
+  },
+  {
+    "nome": "Química Analítica/Fundamentos da Química Analítica BP43A / PQ52L"
+  },
+  {
+    "nome": "Química Analítica/Fundamentos da Química Analítica BP43A / PQ52L"
+  },
+  {
+    "nome": "Transferência de Calor (TF66A)"
+  },
+  {
+    "nome": "Desenho Elétrico (DE61A)"
+  },
+  {
+    "nome": "Expressão Gráfica (EX61A e EX61B)"
+  },
+  {
+    "nome": "Expressão Gráfica (EX61A e EX61B)"
+  },
+  {
+    "nome": "Química Geral (QU61A, QQ61A, QM61A, QUCO4A, QU63A, QG71A) e Química Inorgânica (QI62A)"
+  },
+  {
+    "nome": "Sistemas Lineares (SL64A)"
+  },
+  {
+    "nome": "Física 1 (FC62A, FF62A, FS62A, FT61A, FX62A, FTCO2A, FECO3A, FI73A, FX74A)"
+  },
+  {
+    "nome": "Fundamentos de Cálculo em Processos (FC64A)"
+  },
+  {
+    "nome": "Modelagem tridimensional 1 (MO42A), Modelagem tridimensional 2 (MO43B), Modelagem tridimensional 3 (MB44C), Modelagem bidimensional 1 (MB42A), Modelagem bidimensional 2 (MB43B), Modelagem bidimensional 3 (MB44C), Técnicas de montagem (TM41A), Prototipia 1 (PT42A), Prototipia 2 (PT43B), Prototipia 3 (PT44C) e Modelagem e prototipia de acessórios (MD46A)"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 1 (CF61A; CA61A)"
+  },
+  {
+    "nome": "Fundamentos de Programação 1, Fundamentos de Programação 2 e Estruturas de Dados 1 (FDCO1A, FDCO2B e EDCO3A)"
+  },
+  {
+    "nome": "Expressão Gráfica (EG61A)"
+  },
+  {
+    "nome": "Instalações Elétricas 1 (IE65A)"
+  },
+  {
+    "nome": "Teoria das Estruturas 1 (TO65A)"
+  },
+  {
+    "nome": "Teoria das Estruturas 2 (TO66B)"
+  },
+  {
+    "nome": "Análise de Circuitos Elétricos 1 (AC64A)"
+  },
+  {
+    "nome": "Química Orgânica 2 (QO64B), Química Orgânica B (QO74B), Química Orgânica 1 (QO63A), Química Orgânica A (QO73A) e Química Orgânica (QO62A)"
+  },
+  {
+    "nome": "Cálculo Numérico (CLCO5A; CC64A)"
+  },
+  {
+    "nome": "Materiais e Equipamentos Elétricos (MECO1A)"
+  },
+  {
+    "nome": "Expressão Gráfica (EX61A e EX61B)"
+  },
+  {
+    "nome": "Expressão Gráfica (EX61A e EX61B)"
+  },
+  {
+    "nome": "Expressão Gráfica (EX61A e EX61B)"
+  },
+  {
+    "nome": "TERMODINÂMICA 2 (QUI008-5EQ)"
+  },
+  {
+    "nome": "QUI001(parte teórica da Eng. de Alimentos e Ambiental) QUI018- QUI084"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 2 - MAT003 e CD32E"
+  },
+  {
+    "nome": "Geometria Analítica e Álgebra Linear - MAT002"
+  },
+  {
+    "nome": "Fenômenos de Transfêrencia 01/ QUI 007"
+  },
+  {
+    "nome": "QUI024 - INTRODUÇÃO AOS PROCESSOS QUÍMICOS"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral I - MAT001"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral I (MAT001)"
+  },
+  {
+    "nome": "EC72F - Projeto de Edifícios"
+  },
+  {
+    "nome": "SI101B/SI101C - Pensamento Computacional e Fundamentos de Programação / Introdução à Orientação a Objetos"
+  },
+  {
+    "nome": "EM42E - Desenho de Máquinas"
+  },
+  {
+    "nome": "EC71A / EM41D - Cálculo Diferencial e Integral 1"
+  },
+  {
+    "nome": "EC71B/EM41E - Geometria Analítica e Álgebra Linear"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 1 - MA221A CC12H;Matemática Aplicada - MA61F AG1H; Cálculo Aplicado  - MA62A AG2HMatemática Aplicada à Biologia - MA61F AG1H"
+  },
+  {
+    "nome": "Fundamentos da Eletricidade - FI221E"
+  },
+  {
+    "nome": "Estrutura de Dados - CC23C"
+  },
+  {
+    "nome": "Física Geral 2"
+  },
+  {
+    "nome": "Programação Orientada a Objetos"
+  },
+  {
+    "nome": "Eletrônica Digital"
+  },
+  {
+    "nome": "Análise de Circuitos Elétricos 1"
+  },
+  {
+    "nome": "Mecânica Geral I"
+  },
+  {
+    "nome": "Inglês Instrumental"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 2"
+  },
+  {
+    "nome": "Laboratório de Informática"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 3"
+  },
+  {
+    "nome": "Geometria Analítica e Álgebra Linear"
+  },
+  {
+    "nome": "Algoritmos (CC51A)"
+  },
+  {
+    "nome": "Biologia Celular e Molecular e Noções de Biotecnologia (CB31A)"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 1 (BP31A, CC51C, EP31A, EN31A, PG0001, QM31E, MA61A)"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 2 (CC52E, BP32A, EP32A, EN32A, PG0008, QM32B)"
+  },
+  {
+    "nome": "Cálculo Diferencial e Integral 3 (EN33A, PG0016, QM33B)"
+  },
+  {
+    "nome": "Equações Diferenciais Ordinárias (EN33D BP33A EP33A PG0017 QM34B)"
+  },
+  {
+    "nome": "Estruturas de Dados 1 e 2 (CC52A, CC53A)"
+  },
+  {
+    "nome": "Física 1 e Física Geral I (BP32C EN31B PG0005 QM31A)"
+  },
+  {
+    "nome": "Física 2 e Física Geral II (BP33B, EN32B, EP33B, PG0012, QM32A)"
+  },
+  {
+    "nome": "Física 3 e Física Geral 3 (PG0019, EN33B, BP34F, QM33A e EP34B)"
+  },
+  {
+    "nome": "Geometria Analítica e Álgebra Linear (QM31B, PG0002, EN31D, EP31D, BP32F, CC51D, MA61B)"
+  },
+  {
+    "nome": "Mecânica Geral I (EN32D, EP33C, QM32F e PG0021)"
+  },
+  {
+    "nome": "Probabilidade e Estatística (BP33G CC52F PG0009 PG0116 CB35E EP32D QM35E EN32E)"
+  },
+  {
+    "nome": "Química Geral (BP31D PG0003 EN31E EP31E)"
+  },
+  {
+    "nome": "Resistência dos Materiais 1"
+  },
+  {
+    "nome": "Linguagens Formais, Autômatos e Computabilidade"
+  },
+  {
+    "nome": "Gestão e Certificação de Laboratórios- GC38QB"
+  },
+  {
+    "nome": "Expressão gráfica EG21NB"
+  },
+  {
+    "nome": "BQ22G - Bioquímica"
+  },
+  {
+    "nome": "Computação 1 - CP21NB"
+  },
+  {
+    "nome": "Fundamentos De Programação- FP21NB / FP21S"
+  },
+  {
+    "nome": "Fundamentos de Banco de Dados - BD21S"
+  },
+  {
+    "nome": "Física 3- FI23NB"
+  },
+  {
+    "nome": "GA21NB/ AL32QB/ AL22G/ GA22M/ GA24M/IA25M/AL26M - Álgebra Linear e Geometria Analítica/ Introdução à Álgebra Linear"
+  },
+  {
+    "nome": "Sistemas Microcontrolados - SM26EL SM26CP"
+  },
+  {
+    "nome": "Análise de Alimentos (TAL54F / EL55D)"
+  },
+  {
+    "nome": "Álgebra LM35A"
+  },
+  {
+    "nome": "Física Geral 1 EM32G"
+  }
+]
