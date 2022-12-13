@@ -23,39 +23,39 @@ Data.initialize()
 const server = express();
 
 server.get("/monitorias", (_, res) => {
-  res.send(EXEMPLO_MONITORIAS);
+  res.json(EXEMPLO_MONITORIAS);
 });
 
 server.get("/monitoria/:id", (req, res) => {
-  res.send(EXEMPLO_MONITORIAS[req.params.id]);
+  res.json(EXEMPLO_MONITORIAS[req.params.id] || {});
 });
 
 server.get("/monitores", (_, res) => {
-  res.send(EXEMPLO_MONITORES);
+  res.json(EXEMPLO_MONITORES);
 });
 
 server.get("/monitor/:id", (req, res) => {
-  res.send(EXEMPLO_MONITORES[req.params.id]);
+  res.json(EXEMPLO_MONITORES[req.params.id] || {});
 });
 
 server.get("/disciplinas", (_, res) => {
-  res.send(EXMPLO_DISCIPLINAS);
+  res.json(EXMPLO_DISCIPLINAS);
 });
 
 server.get("/disciplina/:id", (req, res) => {
-  res.send(EXMPLO_DISCIPLINAS[req.params.id]);
+  res.json(EXMPLO_DISCIPLINAS[req.params.id] || {});
 });
 
 server.get("/alunos", (_, res) => {
-  res.send(EXEMPLO_ALUNOS);
+  res.json(EXEMPLO_ALUNOS);
 });
 
 server.get("/aluno/:id", (req, res) => {
-  res.send(EXEMPLO_ALUNOS[req.params.id]);
+  res.json(EXEMPLO_ALUNOS[req.params.id] || {});
 });
 
 server.get("/", (_, res) => {
-  res.send("bem-vindo");
+  res.json("bem-vindo");
 });
 
 const port = parseInt(process.env.PORT || "3000");
