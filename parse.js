@@ -5,6 +5,8 @@ const lines = file.split("\n");
 
 let i = 0;
 
+console.log("[")
+
 while(i < lines.length) {
   let monitoria = {};
   monitoria.campus = lines[i++].split(":")[1].trim();
@@ -31,4 +33,7 @@ while(i < lines.length) {
   i++;
 
   console.log(JSON.stringify(monitoria));
+  console.log(",");
 }
+
+console.log("]");
