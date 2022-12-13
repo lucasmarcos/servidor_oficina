@@ -1,4075 +1,2181 @@
  Câmpus: Campo Mourão
 Fundamentos dos Cálculos em Engenharia
 Monitor: Leticia Cremonesi Ganacin
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 19:30 às 23:00
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 13:00 às 13:50
 terça: das 13:00 às 13:50
 quarta: das 08:20 às 12:00 e 18:40 às 20:20
-
-
 Local do Atendimento Presencial: H104
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/anm-aavk-hmt
-
-
  Câmpus: Campo Mourão
 Fundamentos de Química/EL31I e Química Experimental/EL32K
 Monitor: André Luiz Neres Zanella
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 19:30 às 23:00
 quarta: das 18:40 às  20:20
-
-
 Dias e horários de atendimento presencial no campus:
 quarta: das 13:00 às 15:30
 quinta: das 13:00 às 15:30
- 
-
-
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/czs-xqnn-vng
-
-
  Câmpus: Campo Mourão
 Cálculo Diferencial e Integral 3
 Monitor: Nathalie Ladares de Araujo
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 19:30 às 21:10
 quinta: das 13:00 às 16:40
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 08:20 às 12:00
 quarta: das 15:50 às 17:30
-
-
 Local do Atendimento Presencial: H104
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/wrt-jywf-imn
-
-
  Câmpus: Campo Mourão
 Cálculo Número
 Monitor: Emilli Fernanda Cruz de Oliveira
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 19:30 às 21:10
 quinta: das 13:00 às 16:40
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 08:20 às 12:00
 quarta: das 17:30 às 19:30
-
-
 Local do Atendimento Presencial: H104
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/sfw-dprr-npv
-
-
  Câmpus: Campo Mourão
 Fundamentos de Programação (CV32A)
 Monitor: Egon Stolte Neto
-
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 segunda: das 18:40 às 21:10
 terça: das 18:40 às 21:10
 quinta: das 18:40 às 21:10
-
 Dias e horários de atendimento presencial no campus:
-
 quarta: das 18:40 às 21:10
- 
-
-
 Local do Atendimento Presencial: H104
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/osw-jpgq-kfu
-
-
  Câmpus: Campo Mourão
 Física III / FS3X3; EA34C; LQM35A
-Monitor: LUIZ GUSTAVO VIEIRA SAMPAIO   
-
+Monitor: LUIZ GUSTAVO VIEIRA SAMPAIO
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 07:30 às 09:10
 quarta: das 10:20 às 12:00
 sexta: das 10:20 às 12:00
-
 Dias e horários de atendimento presencial no campus:
-
 terça: das 15:50 às 17:30
 quarta: das 13:50  às 15:30
 quinta: das 15:50 às 17:30
- 
-
-
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/dno-unee-rja
-
-
  Câmpus: Campo Mourão
 Física I
-Monitor: Gustavo Honório dos Santos 
-
-
+Monitor: Gustavo Honório dos Santos
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 quarta: das  13:00 às 13:50
 sexta: das  13:00 às 16:40
-
 Dias e horários de atendimento presencial no campus:
-
 terça: das 15:50 às  17:30
 quarta: das 13:50  às 15:30
-quinta: das 13:00 às 15:30 
-
-
+quinta: das 13:00 às 15:30
 Local do Atendimento Presencial: H104
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ery-gcfj-mty
-
-
  Câmpus: Campo Mourão
 Física 2
 Monitor: Gabriel Pitondo Rossini
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 segunda: das 16:40 às 19:30
 terça: das 18:40 às 20:20
 quarta: das 16:40 às 19:30
-
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 08:20 às 10:00
 quarta: das 08:20 às 10:00
 sexta: das 15:50 às 17:30
-
-
 Local do Atendimento Presencial: H104
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/qfi-eikn-mkh
-
-
  Câmpus: Campo Mourão
 Mecânica Geral 1
 Monitor: Marcos Vinicius Ferreira Da Silva
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 segunda: das 18:40 às 21:10
 quarta: das 18:40 às 21:10
 sexta: das 18:40 às 21:10
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 09:10 às 10:00
 terça: das 09:10 às 10:00
 quarta: das 09:10 às 10:00
-
-
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/zpq-mayi-bnp e e-mail: marcossilva.2001@alunos.utfpr.edu.br
-
-
  Câmpus: Campo Mourão
 Ciência Dos Materiais Para Engenharia Civil
 Monitor: Gabriel Baiesteiro Lopes
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 quinta: das 17:30 às 20:30
 sexta: das 17:30 às 19:30
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/vty-hyzm-tpr
-
-
  Câmpus: Campo Mourão
 Geoprocessamento
 Monitor: Kelly Maria Coelho
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 quarta: das 17:30 às 20:20
 quinta: das 17:30 às 20:20
-
-
 Dias e horários de atendimento presencial no campus:
-
 terça: das 15:50 às 18:20
 sexta: das 08:20 às 11:10
-
-
 Local do Atendimento Presencial: F008
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/erd-yyck-psy
-
-
  Câmpus: Campo Mourão
 Princípios de Máquinas Elétricas LT35D
 Monitor: Jonatas Silva Tank
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 segunda: das 10:20 às 12:00
 sexta: das 13:50 às 17:30
-
 Dias e horários de atendimento presencial no campus:
-
 terça: das 15:50 às 17:30
 quarta: das 13:00 às 15:30
-
- 
-
-
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/kmw-myrp-shi
-
-
  Câmpus: Campo Mourão
 Probabilidade e Estatística/PB3XB
 Monitor: Rhenan Batista Martins
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 quarta: das 18:40 às 21:10
 quinta: das 14:40 às 17:30
-
 Dias e horários de atendimento presencial no campus:
 < escreva aqui os dias e horários, por exemplo: >
 segunda: das 13:00 às 13:50 e 17:30  às  18:20
 terça: das 13:00 às 13:50 e 16:40 às 18:20
-quarta: das 13:00 às 13:50 
-
-
+quarta: das 13:00 às 13:50
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/bus-gcgw-oow
-
-
  Câmpus: Campo Mourão
 Algoritmos, Algoritmos e Estruturas de Dados 1 e Algoritmos e Estruturas de Dados 2
 Monitor: Gabriela Paola Sereniski
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 quinta: das 10:20 às 12:00
 sexta: das 19:30 às 23:00
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 17:30 às 18:20
 terça: das 17:30 às 19:30
 quarta: das 17:30 às 18:20
 sexta: das 15:50 às 17:30
-
-
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/iqw-iiwe-git
-
-
  Câmpus: Campo Mourão
 Viab. Econômica, Eng. Econômica, Adm. Financeira
 Monitor: Ana Caroline Teixeira
-
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 14:00 às 17:00 e 19:00 às 21:00
 quinta: das 14:00 às 16:00 e 18:00 às 20:00
 sexta: das 14:00 às 17:00
- 
-
-
 Local do Atendimento Presencial: H104
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/jbt-wqavekc?pli=1&authuser=0
-
-
  Câmpus: Campo Mourão
 Arquitetura e Organização de Computadores/Elementos de Lógica Digital
 Monitor: Breno Farias da Silva
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 11:10 às 12:00
 terça: das 07:30 às 08:20 e 11:10 às 12:00
 quarta: das 11:10 às 12:00
 quinta: das 11:10 às 12:00
 sexta: das 11:10 às 12:00
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 17:30  às 19:30
 quarta: das 19:30 às 21:10
 quinta:  das 17:30  às 19:30
-
-
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/zic-mmox-cqa
-
-
  Câmpus: Campo Mourão
 CÁLCULO DIFERENCIAL E INTEGRAL 1
 Monitor: Gustavo Cesar Moura Figueiredo
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 08:20 às 09:10 e 17:30 às 19:30
 quarta: das 13:00 às 13:50
 sexta: das 09:10 às 11:10
-
 Dias e horários de atendimento presencial no campus:
 terça: das 17:30 às 19:30
 quarta: das 17:30 às 19:30
 quinta:  das 17:30 às 19:30
-
-
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/jyg-eitu-jvy
-
-
  Câmpus: Campo Mourão
 Geometria Analítica e Álgebra Linear
 Monitor: Huesley Silva Candido
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 16:00 às 17:00
 sexta: das 13:00 às 16:00 e 19:00 às 20:00
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 17:00 – 18:00
 quinta: das 17:00 às 21:00
- 
-
-
 Local do Atendimento Presencial: CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/ywy-hzgb-znw
-
-
  Câmpus: Campo Mourão
 Cálculo Diferencial e Integral 2
 Monitor: Daniel Marcelo Evangelista Da Silva
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça:  das 13:00 às 15:30
-sexta: das 18:40 às 21:10 
-
+sexta: das 18:40 às 21:10
 Dias e horários de atendimento presencial no campus:
 segunda: das 13:00 às 15:30
 sexta: das 13:00 às 15:30
-
-
 Local do Atendimento Presencial: H104
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/mre-tvdf-iiu
-
-
  Câmpus: Campo Mourão
 BANCO DE DADOS 1
 Monitor: REGINALDO GREGÓRIO DE SOUZA NETO
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 18:40 às 19:30 e 21:20 às 23:00
 quarta: das  21:20 às 23:00
-
 Dias e horários de atendimento presencial no campus:
 quarta: das 13:00 às 15:30
 quinta: das 13:00 às 13:50 e 17:30 às 18:20
- 
-
-
 Local do Atendimento Presencial: E003
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/oca-icgg-ujs
-
-
  Câmpus: Medianeira
 Equações Diferenciais Ordinárias (PP54A)
 Monitor: ATHOS VICTOR MORAES PELISSARI
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Terça: das 18:40 às 21:10
 Quarta: das 18:40 às 21:10
-
 Dias e horários de atendimento PRESENCIAL no campus:
 Terça: das 16:40 às 18:40
 Quarta: das 16:40 às 18:40
 Quinta: das 16:40 às 18:40
-
- 
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/vrq-qvbu-fbq
-
-
  Câmpus: Medianeira
 Cálculo Diferencial e Integral I (PP51A)
 Monitor: LETÍCIA MARTINS DOS SANTOS
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Quarta: das 18:40 às 20:20
 Sexta: das 09:10 às 11:10 e 18:40 às 20:20
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
 Segunda: das 19:30 às 21:10
 Terça: das 18:40:10 às 20:20
 Quinta: 09:10 às 10:00 e 19:30 às 20:20
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/crv-nbmd-amc
-
-
  Câmpus: Medianeira
 Análise de Circuitos Elétricos 1 (EE54C)
 Monitor: THIAGO RODRIGUES
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Quarta: 20:20 às 22:05
 Quinta: das 20:20 às 22:05
 Sexta: 19:30 às 20:20
-
 Dias e horários de atendimento PRESENCIAL no campus:
 Segunda: 07:30 às 08:20
 Terça: das 10:20 às 12:00 e 15:50 às 17:30
 Quinta: 07:30 às 09:10
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/ohx-rvcp-jkf
-
-
  Câmpus: Medianeira
 Cálculo Diferencial e Integral I (PP51A)
 Monitor: MARCOS ANTÔNIO SEDANO SOLETTI
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Quarta: das 18:40  às  21:10
 Quinta: das 19:30 às  21:10
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda: 19:30 às 21:10
 Terça: das 10:20 às 12:00
-Quinta: das 13:00 às 14:40 
+Quinta: das 13:00 às 14:40
 Sexta: 13:00 às 13:50
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/abv-gqso-pup?authuser=1
-
-
  Câmpus: Medianeira
 Desenho Técnico (TECN51E)
 Monitor: VINICIUS LIMA PASSOLONGO
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Segunda: das 10:20 às 12:00
 Terça: das 13:00 às 15:30
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
 Quarta: das 18:40 às 20:20
 Sexta: das  08:20 às 12:00 e 13:00 às 13:50
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/sck-axvi-wge
-
-
  Câmpus: Medianeira
 Física 2 (PP52B) e Física B (Fis102)
 Monitor: THIAGO FREIRE DE ALMEIDA
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Segunda: 17:50 às 18:40
 Terça: das 13:00 às 13:50 e 17:50 às 18:40
 Quarta: das 17:50 às 18:40
 Quinta: das 13:00 às 13:50 e 17:50 às 18:40
 Sexta: das 17:50 às 18:40
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
 Segunda: das 07:30 às 08:20
 Terça: das 07:30 às 09:10
 Quarta: das 07:30 às 08:20
 Quinta: das 07:30 às 08:20
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/nms-prbe-gqi
-
-
  Câmpus: Medianeira
 Geometria Analítica e Álgebra Linear (PP51F)
 Monitor: UELINTON SOTO SILVA
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Segunda: das 13:00 às 13:50 e 21:20 às 22:05
 Quinta: das 13:00 às 13:50 e 19:30 às 20:20
 Sexta: das 09:10 às 10:00
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
 Segunda: das 08:20 às 10:00 e 19:30 às 21:10
 Terça: das 20:20 às 22:05
 Quinta: das 20:20 às 22:05
 Sexta: 08:20 às 09:10 e 13:00 às 13:50
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ivn-miru-vsq
-
-
  Câmpus: Medianeira
 Química Analítica (EG52C)
 Monitor: ESTELA SALES HEILMANN
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Quarta: das 11:10 às 12:00
 Quinta: das 18:40 às 20:20
 Sábado: das 10:20 às 12:00
- 
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda: das 08:20 às 11:10 e 15:50 às 16:40
 Quarta: das  08:20 às 11:10
 Quinta: das  08:20 às 11:10
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/hby-jjtw-vjq
-
-
  Câmpus: Medianeira
 Química Geral (QUI102)
 Monitor: NATHANA CAVALCANTI DE ALBUQUERQUE SÁ
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
 Segunda: das 18:40 às 20:20
 Terça: das 08:20 às 10:00
 Quarta: das 15:50 às 17:30
-
 Dias e horários de atendimento presencial no campus:
-
 Quarta: das  10:20 às 12:00
 Sexta: das  15:50 às 17:30 e 19:30 às 21:10
- 
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/rti-pvvb-dkk
-
-
  Câmpus: Medianeira
 Sistemas Dinâmicos Lineares (EE55E)
 Monitor: VITOR FELIPE ALEBRANTE
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Terça: das 17:50 às 19:30
 Quinta: das 17:50 às 18:40
 Sexta: das 08:20 às 10:00
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
 Segunda: das 17:50 às 19:30
 Quarta: das 08:20 às 10:00
 Quinta: das 18:40 às 19:30
 Sexta: das 13:00 às 14:40
-
-
 Local do Atendimento Presencial: Sala Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/eek-uyzw-fuc
-
-
  Câmpus: Medianeira
 Operações Unitárias I (PP57A) e II (EL57A)
 Monitor: JORGE FURTADO FERREIRA
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Segunda: das 21:20 às 22:05
 Quarta: das 18:40 às 20:20
 Sexta: das 18:40 às 21:10
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
 Terça: das 13:00 às 17:30
 Quarta: das 13:00 às 15:30
- 
-
-
 Local do Atendimento Presencial: Sala de Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/kna-xisw-hgs
-
-
  Câmpus: Medianeira
 Fundamentos de Programação (CC51B); Lógica Matemática (CC51A); Ling. de Programação Estruturada (CC52A); Pesquisa e Ordenação de Dados (CC54C); Computação 1 (PP52G); Estrutura de Dados (CC53C)
 Monitor: MARLON DANIEL ANGELI
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Segunda: das 09:10 às 12:00
 Sábado: das 08:20 às 11:10
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
 Segunda: das 18:40 às 21:10
 Quarta: das 18:40 às 21:10
 Sexta: das 18:40 às 21:10
-
-
 Local do Atendimento Presencial: Sala de monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/mbt-vueo-ynm
-
-
  Câmpus: Medianeira
 Cálculo Diferencial e Integral II (PP52A)
 Monitor: ALEXANDRE LIMA BRITO
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
-Segunda: das 13:00 às 15:30 
+Segunda: das 13:00 às 15:30
 Quinta: das 07:30 às 09:10
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
-Segunda: das 10:20 às 12:00 
+Segunda: das 10:20 às 12:00
 Quinta: das 09:10 às 10:00
 Sexta: das 11:10 às 12:00 e 18:40 às 21:10
-
-
 Local do Atendimento Presencial: Sala de Monitoria (E12)
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/vgg-uhdc-eri
-
-
  Câmpus: Pato Branco
 Sistemas de Controle 1 - SC25EL/ SC25CP e Sistemas Lineares - SL24EL/ SL24CP
-Monitor: Jessica Miglioranza   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Jessica Miglioranza
+Dias e horários de atendimento remoto para a rede UTFPR:
     Terça-Feira: das 19h30 às 20h20.
-
 Quarta-Feira: das 10h20 às 12h00 e das 19h30 às 20h20.
-
 Sexta-Feira: das 10h20 às 12h00.
-
 Dias e horários de atendimento presencial no campus:
-
     Terça-Feira: das 10h20 às 12h00 e das 15h50 às 17h30.
-
 Quinta-Feira: das 10h20 às 12h00.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ugz-ngds-qhs
-
-
  Câmpus: Pato Branco
 Estrutura de Dados, Pesquisa e Ordenação - ED22S Algoritmos e Estruturas de Dados 1 - AE22CP
-Monitor: João Henrique Pereira Machado   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: João Henrique Pereira Machado
+Dias e horários de atendimento remoto para a rede UTFPR:
     Terça-Feira: das 15h50 às 18h20 e das 18h40 às 21h10.
-
 Dias e horários de atendimento presencial no campus:
-
-    Quarta-Feira: das 13h00 às 15h30. 
-
+    Quarta-Feira: das 13h00 às 15h30.
 Sexta-Feira:     das 13h00 às 15h30.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/dxR33q92
-
-
  Câmpus: Pato Branco
 Circuitos Digitais - CD24EL e CD24CP Sistemas Digitais- SD25EL e SD25CP
-Monitor: Diego Ferreira Mafessoni   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
-    Sexta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00. das 13h50 as 15h30 e das 15h50 às   
-
-16h40.  
-
+Monitor: Diego Ferreira Mafessoni
+Dias e horários de atendimento remoto para a rede UTFPR:
+    Sexta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00. das 13h50 as 15h30 e das 15h50 às
+16h40.
 Dias e horários de atendimento presencial no campus:
-
-    Terça-Feira: das 14h40 às 15h30 e das 15h50 às 17h30. 
-
+    Terça-Feira: das 14h40 às 15h30 e das 15h50 às 17h30.
 Quinta-Feira:     das 14h40 às 15h30 e das 15h50 às 17h30.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/amr-acbu-pyz
-
-
  Câmpus: Pato Branco
 Análise de circuitos elétricos 1 - AC24NB e AC24MC
-Monitor: Lauro Roberto Albuquerque   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Lauro Roberto Albuquerque
+Dias e horários de atendimento remoto para a rede UTFPR:
     Segunda-Feira: das 09h10 às 10h00 e das 10h20 às 12h00.
-
 Quinta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00.
-
 Dias e horários de atendimento presencial no campus:
-
-    Quarta-Feira: das 13h50 às 15h30. 
-
-Quinta-Feira: das 13h50 às 15h30. 
-
+    Quarta-Feira: das 13h50 às 15h30.
+Quinta-Feira: das 13h50 às 15h30.
 Sexta-Feira: das 13h50 às 15h30.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/yhb-rwwu-sik
-
-
  Câmpus: Pato Branco
 Física 2 - FI22NB
-Monitor: Pedro Alan Azevedo de Souza   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
-    Segunda-Feira: das 18h40 às 21h10. 
-
-Quinta-Feira: das 18h40 às 21h10. 
-
+Monitor: Pedro Alan Azevedo de Souza
+Dias e horários de atendimento remoto para a rede UTFPR:
+    Segunda-Feira: das 18h40 às 21h10.
+Quinta-Feira: das 18h40 às 21h10.
 Dias e horários de atendimento presencial no campus:
-
     Quarta-Feira: das 13h00 às 15h30.
-
 Quinta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/dcw-sryv-yts
-
-
  Câmpus: Pato Branco
 Física 1 - FI21NB
-Monitor: Arthur Bender Ferraz   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Arthur Bender Ferraz
+Dias e horários de atendimento remoto para a rede UTFPR:
     Terça-Feira: das 18h40 às 21h10 e das 21h20 às 22h10.
-
-Quarta-Feira: das 19h30 às 20h20. 
-
+Quarta-Feira: das 19h30 às 20h20.
 Dias e horários de atendimento presencial no campus:
-
     Segunda-Feira: das 09h10 às 10h00.
-
 Terça-Feira: das 13h00 às 13h50.
-
-Quarta-Feira: das 13h00 às 15h30. 
-
+Quarta-Feira: das 13h00 às 15h30.
 Sexta-Feira:     das 13h00 às 13h50.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/mpx-qdfm-wrb
-
-
  Câmpus: Pato Branco
 Física 1 - FI21NB
-Monitor: Letícia Cruz   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
-    Quarta-Feira: das 18h40 às 20h20. 
-
-Quinta-Feira: das 18h40 às 20h20. 
-
-Sexta-Feira: das 13h00 às 14h40. 
-
+Monitor: Letícia Cruz
+Dias e horários de atendimento remoto para a rede UTFPR:
+    Quarta-Feira: das 18h40 às 20h20.
+Quinta-Feira: das 18h40 às 20h20.
+Sexta-Feira: das 13h00 às 14h40.
 Dias e horários de atendimento presencial no campus:
-
-    Segunda-Feira: das 13h00 às 13h50. 
-
-Quarta-Feira: das 13h00 às 13h50. 
-
+    Segunda-Feira: das 13h00 às 13h50.
+Quarta-Feira: das 13h00 às 13h50.
 Quinta-Feira: das 08h20 às 10h00 e das 15h50 às 17h30.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/twm-mgsc-rkc
-
-
  Câmpus: Pato Branco
 Equações Diferenciais Ordinárias - ED23NB
-Monitor: Renata Fernanda Nunes   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
-    Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 22h10.  
-
-Quarta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10.  
-
+Monitor: Renata Fernanda Nunes
+Dias e horários de atendimento remoto para a rede UTFPR:
+    Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 22h10.
+Quarta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10.
 Quinta-Feira: das 13h50 às 15h30.
-
 Dias e horários de atendimento presencial no campus:
-
     Terça-Feira: das 13h00 às 13h50.
-
 Quarta-Feira: das 13h00 às 13h50.
-
-Quinta-Feira: das 17h30 às 18h20. 
-
+Quinta-Feira: das 17h30 às 18h20.
 Sexta-Feira:     das 12h00 às 12h50. das 13h00 às 13h50 e das 17h30 às 18h20.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/zrp-jyqn-scq
-
-
  Câmpus: Pato Branco
 Geometria Analítica e Algebra Linear - GA21NB/ AL32QB/ AL22G/ GA22M/ GA24M/IA25M/AL26M
-Monitor: Eduarda Amanda Schneider   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Eduarda Amanda Schneider
+Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-Feira: das 18h40 às 21h10
-
-Terça-Feira: das 18h40 às 21h10   
-
+Terça-Feira: das 18h40 às 21h10
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 07h30 às 08h20
-
 sexta-feira: das 7h30 às 10h00 e 10h20 às 12h00.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/gzs-jucb-hsh
-
-
  Câmpus: Pato Branco
 Probabilidade e Estatística- PE22NB
-Monitor: Vinícius Duarte Virtuoso   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Vinícius Duarte Virtuoso
+Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 23h00
-
 Terça-Feira: das 20h20 às 21h10 e das 21h20 às 23h00
 
-   
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 15h50 às 17h30
-
 Terça-Feira: das 13h00 às 13h50
-
 Quarta-Feira: das 13h00 às 14h40
-
 Sexta-Feira: das 13h00 às 13h50
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/kcw-bdmk-hsy
-
-
  Câmpus: Pato Branco
 Sistemática Vegetal - SV22G
-Monitor:  Eliane Magda Martelli   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor:  Eliane Magda Martelli
+Dias e horários de atendimento remoto para a rede UTFPR:
 Terça- Feira: das 18h40 às 19h30.
-
 Quinta-Feira: das 18h40 às 19h30.
-
 Sexta-Feira: das 13h50 às 15h30 e das 15h50 às 17h30.
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 13h00 às 15h30
-
 Quarta-feira: e das 13h00 às 13h50.
-
 Quinta-Feira: das 15h50 às 17h30.
-
-
 Local do Atendimento Presencial: Laboratório de Botânica
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/tfq-wsmq-efp
-
-
  Câmpus: Pato Branco
 Física do Solo - FS23G
-Monitor: Julia Balbinotti    
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Julia Balbinotti
+Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-Feira: das 17h30 às 18h20.
-
 Quarta-Feira: das 09h10 às 10h00 e das 17h30 às 18h20.
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 16h40 às 17h30.
-
 Terça-Feira: das 10h20 às 11h10.
-
 Quarta-Feira: das 10h20 às 11h10.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/qgc-uyko-yvx
-
-
  Câmpus: Pato Branco
 Probabilidade e Estatística - PE22G
-Monitor: Fernanda Scheibel Nascimento   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Fernanda Scheibel Nascimento
+Dias e horários de atendimento remoto para a rede UTFPR:
     Segunda-Feira: das 16h40 às 18h20 e das 18h40 às 19h30.
-
 Sexta-Feira: das 16h40 às 18h20 e das 18h40 às 19h30.
-
 Dias e horários de atendimento presencial no campus:
-
-    Segunda-Feira: das 07h30 às 08h20. 
-
-Terça-Feira: das 12h00 às 12h50 e das 13h00 às 13h50. 
-
+    Segunda-Feira: das 07h30 às 08h20.
+Terça-Feira: das 12h00 às 12h50 e das 13h00 às 13h50.
 Quarta-Feira: das 07h30 às 08h20.
-
 Quinta-Feira: das 12h00 às 12h50 e das 13h00 às 13h50.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/pxy-wemp-wtv
-
-
  Câmpus: Pato Branco
 Experimentação Agrícola - EA25G
-Monitor: Lahura Ignes Giongo   
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Lahura Ignes Giongo
+Dias e horários de atendimento remoto para a rede UTFPR:
 Sábado: das 09h10 às 12h50.
-
- 
-
 Dias e horários de atendimento presencial no campus:
-
 Terça-Feira: das 09h10 às 10h e das 13h às 13h50
-
 Quinta-Feira: das 11h10 às 12h e das 13h às 13h50.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/rnp-gway-pva
-
-
  Câmpus: Pato Branco
 Mecânica Geral 1 - MG24NB
 Monitor: Matheus Vilarinho Machado Brasilino
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
-    Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 16h40. 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
+    Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 16h40.
 Dias e horários de atendimento presencial no campus:
-
     Quarta-Feira: das 10h20 às 12h00.
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/okg-rmnh-qzp
-
-
  Câmpus: Pato Branco
 Cálculo Diferencial e Integral 2 - CD22NB
 Monitor: Murilo Antonio Severo
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Terça-Feira: das 21h20 às 23h00
-
 Quarta-Feira: das 21h20 às 23h00
-
- 
-
 Quinta-Feira: das 21h20 às 23h00
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 13h00 às 13h50 e das 18h40 às 20h20
-
 Terça-Feira: das 13h00 às 13h50
-
 Quinta-Feira: das 11h10 às 12h00 e das 13h00 às 13h50
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://t.me/calculo2monitoria
-
-
  Câmpus: Pato Branco
 Cálculo Diferencial e Integral 3 - CD23NB
 Monitor: Vinícius Ferraz Pacheco
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-Feira: das 8h20 às 10h00
-
 Quarta-Feira: das 8h20 às 10h00
-
-Sexta-Feira: das 8h20 às 10h00     
-
+Sexta-Feira: das 8h20 às 10h00
 Dias e horários de atendimento presencial no campus:
-
 Terça-Feira: das 13h50 às 15h30
-
 Quarta-Feira: das 13h50 às 15h30
-
 Quinta-Feira: das 13h50 às 15h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ium-xpum-uqv
-
-
  Câmpus: Pato Branco
 Variáveis Complexas - VC23NB
-Monitor: Jeferson Vicari  
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Jeferson Vicari
+Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-Feira: das 7h30 às 9h10
-
-Quinta-Feira:das 19h30 às 21h10 e das 21h20 às 22h10    
-
+Quinta-Feira:das 19h30 às 21h10 e das 21h20 às 22h10
 Dias e horários de atendimento presencial no campus:
-
 Terça-Feira: das 18h40 às 21h10
-
 Quarta-Feira: das 7h30 às 10h00
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/twy-vfkj-zuv
-
-
  Câmpus: Pato Branco
 Cálculo Diferencial e Integral 2 - CD22NB
 Monitor: Letícia Ferreti
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Quinta-Feira: das 12h00 às 12h50 e das 13h00 às 15h30 e das 15h50 às 17h30
-
 Dias e horários de atendimento presencial no campus:
-
-Segunda-Feira: das 16h40 às 18h20 
-
+Segunda-Feira: das 16h40 às 18h20
 Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 17h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://t.me/calculo2monitoria
-
-
  Câmpus: Pato Branco
 Introdução À Análise Matemática - IA27M
 Monitor: João Pedro Galdino Pillar
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Terça-Feira: das 13h50 às 15h30
-
                Sexta-Feira: das 13h50 às 15h30
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 21h20 às  23h00
-
 Terça-Feira: das 18h40 às 19h30
-
 Quinta-Feira: das 18h40 às 19h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.ge.com/rmx-pzqn-zxpoogl
-
-
  Câmpus: Pato Branco
 Cálculo Numérico - CN24NB
-Monitor: Matheus Chaves de Almeida 
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Matheus Chaves de Almeida
+Dias e horários de atendimento remoto para a rede UTFPR:
 Terça-Feira: das 18h40 às 19h30
-
 Quarta-Feira: 18h40 às 20h20
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 13h50 às 14h40
-
 Quinta-Feira: das 13h50 às 15h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/fzn-ihao-dap
-
-
  Câmpus: Pato Branco
 Mecânica Geral 1 MG24NB
-Monitor: Camila Poltroniere 
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Monitor: Camila Poltroniere
+Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-Feira: das 18h40 às 20h20
-
 Terça-Feira: das 18h40 às 20h20
-
-Quinta-Feira: das 18h40 às 20h20    
-
+Quinta-Feira: das 18h40 às 20h20
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 10h20 às 12h00 e das 13h00 às 13h50
-
 Terça-Feira: das 7h30 às 9h10
-
 Quarta-Feira: das 13h00 às 13h50
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/hkd-crxr-zdx
-
-
  Câmpus: Pato Branco
 Química Geral, Inorgânica 1 e Inorgânica 2 - QU22NB
 Monitor: Vitor Sangalli Strabelli
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-Feira: das 13h00 às 14h40
-
 Sexta-Feira: das 8h20 às 9h10 e das 13h00 às 15h30
-
- 
-
 Dias e horários de atendimento presencial no campus:
-
-Segunda-Feira: das 14h40 às 15h30 e das 15h50 às 17h30 
-
+Segunda-Feira: das 14h40 às 15h30 e das 15h50 às 17h30
 Terça-Feira: das 13h00 às 15h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/ovf-shrk-vhk
-
-
  Câmpus: Pato Branco
 Química Analítica 1/QA33QB
 Monitor: Hodikson Paz
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
-Segunda-Feira: 13h50 às 15h30 e das 15h50 às 16h40 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
+Segunda-Feira: 13h50 às 15h30 e das 15h50 às 16h40
 Dias e horários de atendimento presencial no campus:
-
 Quarta-Feira: das 11h10 às 12h00 e das 15h50 às 17h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/unu-nrph-ykt
-
-
  Câmpus: Pato Branco
 Operações Unitárias 1 e 2 OU34QB/ OU35QB
 Monitor: Danilo Damico Brauna Avanso Urzulin
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
-Quinta-Feira: das 9h10 às 10h00 e das 10h20 ás 12h00 
-
+Quinta-Feira: das 9h10 às 10h00 e das 10h20 ás 12h00
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 13h00 às 15h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/apt-ztog-vwn
-
-
  Câmpus: Pato Branco
 Resistência dos Materiais-RM25CV
 Monitor: Andre Matheus
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Quarta-Feira: das 13H50 às 15h30 e das 15h50 às 16h40
-
         Quinta-Feira:  das 13H50 às 15h30 e das 15h50 às 16h40
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 13H50 às 15h30 e das 15h50 às 16h40
-
         Terça-Feira: das 13H50 às 15h30 e das 15h50 às 16h40
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ein-mawh-iyh
-
-
  Câmpus: Pato Branco
 Cálculo Numérico CN24NB / CN25M
 Monitor: João Vitor Padoin
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Quarta-Feira: das 16h40 às 18h20 e das 18h40 às 19h30
-
 Sexta-Feira: das 13h00 às 15:30
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 17h30 às 18h20
-
 Quinta-Feira: das 8h20 às 10h00 e das 15h50 às 16h40
-
 Sexta-Feira: das 8h20 às 10h00
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/fpb-toei-asz
-
-
  Câmpus: Pato Branco
 Calculo Diferencial e Integral I CD21NB/CA31QB/CD21G/CD23M/CA31M
 Monitor: Adrean Souza Rafael
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Quarta-Feira:das 9h10 às 10h00 e das 10h20 às 12h00
-
 Quinta-Feira:das 9h10 às 10h00 e das 10h20 às 12h00
-
- 
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira:das 10h20 às 11h10 e das 12h00 às 12h50
-
 Terça-Feira: das 13h50 às 15h30
-
  Sexta-Feira: das 17h30 às 18h20 e das 18h40 Às 19h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/fow-ovbq-cwb
-
-
  Câmpus: Pato Branco
 Calculo Diferencial e Integral I CD21NB/CA31QB/CD21G/CD23M/CA31M
 Monitor: Davi Cantu Messias
-
-Dias e horários de atendimento remoto para a rede UTFPR: 
-
+Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 22h10
-
 Quarta-Feira: das 18h40 às 20h20
-
-Quinta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10   
-
+Quinta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: 17h30 às 18h20
-
 Terça-Feira: 17h30 às 18h20
-
 Quarta-Feira: das 13h00 às 14h40
-
 Quinta-Feira: das 13h00 às 13h50
-
 Sexta-Feira: das 13h50 às 14h40
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/rex-ognn-cgtt
-
-
  Câmpus: Dois Vizinhos
 QA12I; QA12R e QA31F - QUÍMICA ANALÍTICA QUANTITATIVA, QUÍMICA ANALÍTICA e QUÍMICA ANALÍTICA A
 Monitor: Stella Silva Mascarenhas Chaves
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 16:00 às 19:00
 quarta: das 15:00 às 17:00
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 13;00 às 16:00
 sexta: das 15:00 às 17:00
-
-
 Local do Atendimento Presencial: B3S3
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/jyh-vmrp-wbx
-
-
  Câmpus: Dois Vizinhos
 QUÍMICA ANALÍTICA QUANTITATIVA, QUÍMICA ANALÍTICA E QUÍMICA ANALÍTICA A, código(s) QA12I, QA12R
 Monitor: GUILHERME PEREIRA DE OLIVEIRA
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 18:00 às 20:00
 sexta: das 15:00 às 18:00
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 13:00 às 15:00
 quarta: das 16:00 às 18:00
 quinta: das 15:00 às 16:00
- 
-
-
 Local do Atendimento Presencial: sala B3S4
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/amd-cqdp-esm
-
-
  Câmpus: Dois Vizinhos
 CA32F, CA12R, MA41B - CÁLCULO A, Cálculo A, Matemática
 Monitor: Giovana Café Batista Lino
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 segunda: das 19:00 às 20:40
 terça: das 19:00 às 20:40
 sexta: das 09:10 às 10:00 e das 10h20 às 11h10
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 15:50 às 17:30 sala b3s4
 terça: das 13:00 às 14:40 sala b3s4
 quarta: das 13:00 s 14:40 sala b3s4
 sexta: das 09:10 às 10:00 e das 10h20 às 11h10
-
-
 Local do Atendimento Presencial: sala B3S3 ou B3S4
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/xjg-omec-wcm
-
-
  Câmpus: Dois Vizinhos
 GS15R - Geoprocessamento e Sensoriamento Remoto
 Monitor: Giovana Aparecida Calixto Dos Santos
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 quinta: das 8:00 às 11:00
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 13:00 às 15h:00
- 
-
-
 Local do Atendimento Presencial: Laboratório de Topografia e Geoprocessamento
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/rou-auyx-qqh
-
-
  Câmpus: Dois Vizinhos
 GP38C - Genética de populações
 Monitor: Camila Luiza Comelli
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 quarta: das 09:00 às 11:00
-
 Dias e horários de atendimento presencial no campus:
-
 terça: das 19:00 às 21:00
-
-
 Local do Atendimento Presencial: https://meet.google.com/gcv-oryx-qqs
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/gcv-oryx-qqs
-
-
  Câmpus: Dois Vizinhos
 BF35F
 Monitor: < escreve aqui o nome completo do monitor >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 19:00 às 21:00
 quarta: das 16:00 às 17:00
 sexta: das 16:00 às 17:00
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 08:00 às 10:00
 quinta: das 13:00 às 15:00
- 
-
-
 Local do Atendimento Presencial: Laboratório de Manejo Florestal LAMAF BLOCO E4
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/dbc-bpuw-pcj
-
-
  Câmpus: Dois Vizinhos
 GG34C - Genética Geral e Humana
 Monitor:  Isabela Pierozan Paludo
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 quinta: das 16:00 às 19:00
 sexta: das 17:00 às 19:00
-
 Dias e horários de atendimento presencial no campus:
-
 quarta: das 14:00 às 19:00
- 
-
-
 Local do Atendimento Presencial: Laboratório de biologia molecular no G10
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/trm-togt-kmr
-
-
  Câmpus: Dois Vizinhos
 TP13R - Topografia I
 Monitor: Marcos Felipe Dos Santos Bueno
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 18:00 às 19:00
 quarta: das 08:00 às 12:00
-
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 08:00 às 09:00 e das 13:00 às 17:00
- 
-
-
 Local do Atendimento Presencial: Laboratório de Topografia e Geoprocessamento
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/upw-htis-cbg
-
-
  Câmpus: Dois Vizinhos
 AH33C - Anatomia Humana
 Monitor: Marieli Zamprogna
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 segunda: das 15:00 às 17:00
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 17:00 às 19:00
-
-
 Local do Atendimento Presencial: Laboratório de Anatomia e Fisiologia Humana (Bloco E5).
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/cfh-ynfx-fcx
-
-
  Câmpus: Dois Vizinhos
 AG21S, CP34F, IN12I - ALGORITMOS 1, COMPUTAÇÃO, INFORMÁTICA
 Monitor: Guilherme Biava Rodrigues
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 segunda: das 07:30 às 8:30 e das 15:10 às 16:10
 terça: das 15:10 às 16:10
 quarta: das 08:30 às 09:30
 quinta: das 15:10 às 16:10
 sexta: das 15:10 às 16:10
-
 Dias e horários de atendimento presencial no campus:
-
 quarta: das 21:30 às 23:00
 sexta: 20:30 às 23:00
-
-
 Local do Atendimento Presencial: Centro de Convivência MONITORIA SALA 1.
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/zzi-xdcz-fwt
-
-
  Câmpus: Dois Vizinhos
 BT42B, FV43B - ZOOTECNIA
 Monitor: Luiza Fernanda da Silva
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 19:00 às 20:40
 sexta: das 15:50 ´s 18:20
- 
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 13:50 às 15:30
 quarta: das 10:20 às 12:00
 quinta: das 10:20 às 12:00
- 
-
-
 Local do Atendimento Presencial: Salas de monitoria - CENTRO DE CONVIVÊNCIA
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/azw-qxnc-que
-
-
  Câmpus: Dois Vizinhos
 AL11R, AL21S e MA31F - Álgebra linear, Álgebra linear e Matemática A
 Monitor: RICARDO MAX GONTARZ JUNIOR
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 13:30 às 16:30
 quinta: das 13:30 às 15:30
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 13:30 às 15:30 e das 16:30 às 18:30
 sexta: das 20:30 às 21:30
-
 Atendimento presencial sala: B5S2 (4 horas) (ATEND-P) - Segunda-feira
-
 Centro de convivência sala 2 (1 hora) (ATEND -P) - Sexta -feira
-
-
 Local do Atendimento Presencial: B5S2 e Centro de convivência sala 2
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/bot-bwxz-tyb?authuser=1
-
-
  Câmpus: Dois Vizinhos
 DT11R, DT31F e DT12 - Desenho Técnico e Desenho Técnico Aplicado
 Monitor: Jean Carlos Fries
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 19:00 às 21:00
 quarta: das 18:00 às 21:00
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 13:00 às 15:00
 sexta: das 13:00 às 16:00
-
-
 Local do Atendimento Presencial: Sala B8-S6
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
-
  Câmpus: Dois Vizinhos
 AG22S - Algoritmos 2
 Monitor: Caiki de Melo Milani
-
- 
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 16h00 às 17h00
-
 terça: das 16h00 às 17h00
-
 quarta: das 16h00 às 17h00
-
 quinta: das 16h00 às 17h00
-
 sexta: das 16h00 às 17h00
-
- 
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 18h00 às 19h00
-
 terça: das 18h00 às 19h00
-
 quarta: das 18h00 às 19h00
-
 quinta: das 18h00 às 19h00
-
 sexta: das 18h00 às 19h00
-
- 
-
-
 Local do Atendimento Presencial: Laboratório de Informática 1
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ucn-ktda-htj
-
-
  Câmpus: Londrina
 Gestão de Custos GE15A
 Monitor: Arthur Kreling Ozorio
-
 Dias e horários de atendimento remoto :
 terça: das 17:50 às 18:40 e das 22:00 às 22:50
 quarta: das 17:50 às 18:40
 quinta: das 17:50 às 20:20
 sexta: das  17:50 às 18:40 e das 21:10 às 22:50
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/fux-miev-grd
-
-
  Câmpus: Londrina
 Cálculo Diferencial e Integral I MA65A
 Monitora: Amanda Candido Ferreira
-
 Dias e horários de atendimento remoto:
 segunda: das 14h40 às 17h30  (Não haverá atendimento no dia 12/09/2022)
 terça: das 18h40 às 20h20   (Não haverá atendimento no dia 13/09/2022)
 sábado: das 8h20 às 13h
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ujz-ezes-dvn
-
-
  Câmpus: Londrina
 Pesquisa Operacional 1 AS15A
 Monitora: Ana Paula Barbosa de Morais
-
 Dias e horários de atendimento remoto:
-segunda: das 15:50 às 17:30 
+segunda: das 15:50 às 17:30
 quarta: das 17:50 às 19:30
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/tfd-wizx-qkd
-
-
  Câmpus: Londrina
 Química inorgânica 1 QM82C
 Monitora: Fernanda Roverato Moura
-
 Dias e horários de atendimento remoto para estudantes do campus Londrina:
 Segunda feira - das 13h50 as 17h30
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/xja-yixv-qxr
-
-
  Câmpus: Londrina
 Microbiologia AL32D
 Monitor: Gabriel José Couto
-
 Dias e horários de atendimento remoto:
-
 sexta-feira das 18:40 a 21:10
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://tel.meet/rbb-uzgk-ygz?pin=6660686858185
-
-
  Câmpus: Londrina
 Transferência de Massa EQ67A
 Monitor: Gabriel Spironelli Pinheiro
-
 Dias e horários de atendimento remoto:
 segunda: Das 20h20 as 22h00
-
 Terça: Das 13h00 as 14h40
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/wfp-vsqb-voe
-
-
  Câmpus: Londrina
 Física 3 FI94A, FI14A, FI64C, FI63C, FI63A, FI85A, FI85B
 Monitor: Guilherme Machado Loureiro Schmidt
-
 Dias e horários de atendimento remoto :
-
 segunda: Das 9h10min até às 11h10min e  das 19h30min até às 21h10min.
 terça: das 18h40min até às 20h20min
 quarta: das 19h30min até às 21h10min
 quinta: das 17h50min até às 19h30min
- 
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/zrk-rbby-hoa?authuser=1
-
-
  Câmpus: Londrina
 Introdução à Administração AD11A
 Monitor: Guilherme Morete Felix
-
 Dias e horários de atendimento remoto:
 quarta: das 18h40 até às 22h10
-
- 
-
-
 Local do Atendimento Presencial: Não há.
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/rjb-nymm-xkq
-
-
  Câmpus: Londrina
 Expressão Gráfica DE61B
 Monitor: Gustavo Moreira de Brito
-
 Dias e horários de atendimento remoto:
 quinta: das 18h40 até às  21h10
-
- 
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/quf-eymx-pir
-
-
  Câmpus: Londrina
 Física 1 FI92A; FI12A; FI83A
 Monitor: Ivan Carrega
-
 Dias e horários de atendimento remoto:
 segunda: das 9h30 às11h10
 terça: das 18h40 às20h20
 quarta: das 16h40 às 17h30
-
- 
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/swz-rjgf-mzs
-
-
  Câmpus: Londrina
 Fundamentos de Química Orgânica 1 & Química Orgânica 1 QM62A; QM83E
 Monitor: João Vítor do Nascimento
-
 Dias e horários de atendimento remoto:
 terça: das 15:50 às 17:30
 quinta: das 18:40 às 20:20
 sexta: das 18:40 às 20:20
- 
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/uwu-itnt-xtg
-
-
  Câmpus: Londrina
 Computação e Algoritmos IF62B
 Monitor: Kádimo Augusto da Silva Souza
-
 Dias e horários de atendimento remoto:
 terça: das 8h20 às 10h00
 quarta: das 13h50 às 17h30
 sábado: das 15h50 às 18h40
-
- 
-
-
 Local do Atendimento Presencial: Não há.
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/bmj-tsyp-rym
-
-
  Câmpus: Londrina
 (Cálculo Diferencial e Integral 1) e (Cálculo) MA61A e MA31-A
 Monitor: Leandro Correia Martins
-
 Dias e horários de atendimento remoto :
 segunda: das 14h40 às 17h30
 terça: das 14h40 às 17h30
 quarta: das 13h50 às 15h30
- 
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/hgq-augu-qgd
-
-
  Câmpus: Londrina
 Desenho de máquina assistido por computador IF62A
 Monitor: Leandro de Araujo Teixeira Leite
-
 Dias e horários de atendimento remoto:
 < escreva aqui os dias e horários, por exemplo: >
 segunda: das 10h20 às 12h
 terça: das das 10h20 às 12h
 quarta: das 21h20 as 22h10
 quinta: das 21h20 as 22h10
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/frm-inrg-fqt
-
-
  Câmpus: Londrina
 Cálculo Diferencial E Integral 1 MA61A
 Monitor: Leonardo Massayuki Fukuyama de Oliveira
-
 Dias e horários de atendimento remoto:
 segunda: das 20h20 às 22h
 terça: das 20h20 às 22h
 quarta: das 20h20 às 22h
 quinta: das 20h20 às 22h
 sexta: das 20h20 às 22h
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/vhn-misd-bpb
-
-
  Câmpus: Londrina
 Geometria Analítica e Álgebra Linear MA61C e MA91B
 Monitor: Luiz Fernando Baumann da Silva
-
 Dias e horários de atendimento remoto:
 terça: das 15h50 às 18h20
 quarta: das 18h40 às 20h20
 quinta:  das 18h40 às 20h20
 sabado: das 9:10 às12:00
- 
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/hsb-gyyt-tqj
-
-
  Câmpus: Londrina
 Instalações em Sistemas Industriais EQ66C
 Monitor: Marcus Pedrofeza de Andrade
-
 Dias e horários de atendimento remoto:
 terça: das 16:40 às 18:20
 quinta: das 16:40 às 18:20
 sexta: das 19:30 às 21:10
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/oya-cxwv-gwe
-
-
  Câmpus: Londrina
 Fundamentos de Química Orgânica 2 QM63B
 Monitora: Maria Eduarda Bueno Caldeira
-
 Dias e horários de atendimento remoto:
 segunda: das 9h30 às11h
 quarta: das 19h às 20h
-quinta: das 9h30 às11h 
+quinta: das 9h30 às11h
 sexta: das 13h50 às 15h30
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/zdg-gcsp-vxt
-
-
  Câmpus: Londrina
 Equações Diferenciais e Ordinárias MA63C-EQ31; MA63E-AS31; MA13A EP33
 Monitora: Júlia Canalli dos Santos
-
 Dias e horários de atendimento remoto:
-terça: das 16h40 às 18h20 
+terça: das 16h40 às 18h20
 quarta: das 18h40 às 20h20
 sexta: das 15:50 as 17:30
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/asn-wuoe-oyn
-
-
  Câmpus: Londrina
 Cálculo 3 MA63D
 Monitor: Samuel Ferraz Toledo
-
 Dias e horários de atendimento:
 segunda: das 20h20 às 22h00 (online - endereço no cabeçalho)
-
 terça: das 17h40 às 18h30 (presencial - sala k-211 - campus Londrina) e das  18h40 até 19h30 (k314)
 quinta: das 20h20 às 21h10 (online - endereço no cabeçalho)
-
-
 Local do Atendimento Presencial: K211
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ypr-pmbf-zok
-
-
  Câmpus: Londrina
 Mecânica dos Sólidos A MM64-A
 Monitor: Vinícius Fiori Souza
-
 Dias e horários de atendimento presencial na sala K 111 do Campus Londrina:
-segunda: das 8:20 as 10:00 e das 13:00 as 14:40 
+segunda: das 8:20 as 10:00 e das 13:00 as 14:40
 terça: das 15:50 às 17:30
 sexta: das 10:20 às 12:00
 OBS: Na semana de 12 a 16 de setembro de 2022 não haverá atendimento devido a Semana Acadêmica
- 
-
-
 Local do Atendimento Presencial: K111
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: Não há
-
-
  Câmpus: Londrina
 Qualidade da Água EA65A
 Monitor: Vitor Antonio Campos
-
 Dias e horários de atendimento:
 sexta: das10:20 às 12:00 (presencial, Sala S04, campus Londrina)
- 
-
-
 Local do Atendimento Presencial: S 04
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
-
  Câmpus: Londrina
 Topografia EA62B
 Monitora: Yasmin Santos Alves
-
 Dias e horários de atendimento remoto:
 segunda: das 18h40 até 20h20
 quarta: das 18h40 até 20h20
 quinta: das 18h40 até 20h20
- 
-
-
 Local do Atendimento Presencial: Não há
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/suu-aipi-ptq
-
-
  Câmpus: Londrina
 Mecânica Geral 1 EB13A
 Monitor:  Juan Manoel da Silva Blanes
-
 Dias e horários de atendimento remoto:
 Terça das 17h50 até 21h10
- 
-
-
 Local do Atendimento Presencial: Não há.
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ihq-ygvf-ofj?pli=1
-
-
  Câmpus: Toledo
 Equações Diferenciais Ordinárias CV43E / CP43C / ET43A / MA5B
 Monitor: Rafael Matheus Neckel
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda e terça: 18h40 às 21h10
-
 Dias e horários de atendimento presencial no campus:
-
 Quarta: 13h50 às 15h30
 Quinta e sexta: 10h20 às 12h00
-
-
 Local do Atendimento Presencial: C-304
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/v323n73Ebx
-
-
  Câmpus: Toledo
 Mecânica Geral 1 e 2 ET42H/CV43D
 Monitor: Gabriel Locatelli
-
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Quarta - feira: 17:30 às 19:30 e Quinta - feira: 13:50 às 15:50
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda e terça: 19:30 às 21:20, Quarta e Quinta: 15:50 às 17:30
-
-
 Local do Atendimento Presencial: C-304
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/vYAWn8nH; https://chat.whatsapp.com/CbRlbq54OF5ERZeeKYVTVd
-
-
  Câmpus: Toledo
 Cálculo Diferencial e Integral 1 CP41B
 Monitor: Marlon Roberto Varela Texeira
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Segunda e Quarta: 8h20 - 11h10, Terça: 18h40-21h20
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/Ws3x8Zuza7
-
-
  Câmpus: Toledo
 Matemática discreta CP41D
 Monitor: Rafaela de Oliveira Fernandes
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Segunda: 8h20 - 12h, Quarta: 7h30 - 11h10, Quinta: 7h30 - 12h, Sexta: 8h20 - 9h10
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/dyR2YAt4
-
-
  Câmpus: Toledo
 Fundamentos de Programação TSI31B
 Monitor: Rafael Farias Meneses
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Terça e Quinta: 15h50 - 18h20
-
 Dias e horários de atendimento presencial no campus:
-
 Quinta: 20h20 - 23h00
 Sexta 18h40 - 21h10
-
-
 Local do Atendimento Presencial: C-201
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://chat.whatsapp.com/GyDbmyu74DS3rNvoBEpX36 / https://meet.google.com/yzu-oyyr-aam
-
-
  Câmpus: Toledo
 Mecânica dos Solos I e II CV45B e CV46G
 Monitor: Sara Elen dos Santos
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Terça : 8:20 as 10:00
 Quarta e Quinta: 9:10 as 11:10
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda e Terça : 15:50 as 17:30 e
 Quarta : 16:40 as 18:20
-
-
 Local do Atendimento Presencial: C-304
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://chat.whatsapp.com/EPQSuJwoJa0Btgz7cvXm8z https://meet.google.com/tuq-qqpb-ppe
-
-
  Câmpus: Toledo
 Química Básica Teórica/ Química Geral Teórica CV41H/ ET42L/ PQ51H/ BP41H
 Monitor: Brenda Pommer de Araujo
-
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Terça-feira: 20h00 às 21h00
 Sexta-feira: 10h00 às 14h00
-
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-feira: 18:00 às 20:00
 Terça-feira: 09:00 ao 12:00
-
-
 Local do Atendimento Presencial: C-304
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/Qq2ck8J2
-
-
  Câmpus: Toledo
 Microbiologia Geral BP42C-BP42A
 Monitor: Vitória Durães Chlusewicz
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Sexta 13h00 às 17h30
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda 09h10 - 12h00
 Quinta 13h50 - 15h30
-
-
 Local do Atendimento Presencial: E107
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/toc-ftff-kbh
-
-
  Câmpus: Toledo
 Cálculo Diferencial e Integral 3 ET43B/CP43B/CV43B
 Monitor: Weslley Pereira da Silva
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda 21:20 - 23:00
 Quarta 14:40 - 16:40
 Quarta 19:30 - 21:20
-
 Dias e horários de atendimento presencial no campus:
-
 Quinta 12:00 - 14:40
 Sexta 9:10 - 12:00
-
-
 Local do Atendimento Presencial: C304
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/rph-jdmo-vzo
-
-
  Câmpus: Toledo
 Geometria Analítica e Álgebra Linear CV41D / CP41C / ET41D / BP41B / PQ51L
 Monitor: João Paulo Alflen Nunes
-
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Terça: 18h40 - 20h20
 Sexta: 18h40 - 21h20
-
-
 Dias e horários de atendimento presencial no campus:
-
 Terça: 15h50 - 18h20
 Sexta: 18h40 - 21h20
-
-
 Local do Atendimento Presencial: C-304
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/J9QPJadVh9
-
-
  Câmpus: Toledo
 Cálculo DIferencial e Integral 1 BP41A
 Monitor: Carlos Alexandre Frano Lima
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda: 19h 30 - 20h 20
-
 Dias e horários de atendimento presencial no campus:
-
 Quinta: 15h 50 - 16h 40 Sexta: 15h 50 - 16h 40
-
-
 Local do Atendimento Presencial: E - 107
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/YUNjHn5v
-
-
  Câmpus: Toledo
 Fundamentos de Programação CP41F
 Monitor: Augusto Miguel Barth
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Terça, Quarta e Quinta: 19h30 - 21h10
-
 Dias e horários de atendimento presencial no campus:
-
 Quarta: 9h10 - 11h10, Quinta: 13h00 - 16h40
-
-
 Local do Atendimento Presencial: E-107
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/X6BVJtppfZ
-
-
  Câmpus: Toledo
 Química Analítica/Fundamentos da Química Analítica BP43A / PQ52L
 Monitor: Hugo Leonardo Ribeiro dos Santos Lazari
-
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Quinta-feira : 11h10 - 12h00 // 15h50 - 18h40
-
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda : 17h30 - 19h30 // 21h20 - 23h00 Sexta : 19h30 - 23h00
-
-
 Local do Atendimento Presencial: Bloco A - 2º Andar
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/68emveUMeb
-
-
  Câmpus: Toledo
 Química Analítica/Fundamentos da Química Analítica BP43A / PQ52L
 Monitor: Hugo Leonardo Ribeiro dos Santos Lazari
-
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Quinta-feira : 11h10 - 12h00 // 15h50 - 18h40
-
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda : 17h30 - 19h30 // 21h20 - 23h00 Sexta : 19h30 - 23h00
-
-
 Local do Atendimento Presencial: Bloco A - 2º Andar
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/68emveUMeb
-
-
  Câmpus: Apucarana
 Transferência de Calor (TF66A)
 Monitor: Giovana Genari Carmona
-
-
-Dias e horários de atendimento: 
+Dias e horários de atendimento:
 segunda: das 10h30 às 12h00 (presencial)
 terça: das 09h30 às 12h00 (presencial)
 quarta: das 13h00 às 14h00 (remoto)
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/mng-grmn-jvs
-
-
  Câmpus: Apucarana
 Desenho Elétrico (DE61A)
 Monitor: Maria Gabriela Pereira Brito
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 10h00 às 11h00
-
 Dias e horários de atendimento presencial no campus:
 quarta: das 16h40 às 18h40
 quinta: das 17h30 às 19h30
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/xzu-fnso-cfn
-
-
  Câmpus: Apucarana
 Expressão Gráfica (EX61A e EX61B)
 Monitor: Tiago Navarro Bettanin
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 08h30 às 12h30
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 16h50 às 17h50
-
-
 Local do Atendimento Presencial: Laboratório de Desenho
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/smz-owsv-zvb
-
-
  Câmpus: Apucarana
 Expressão Gráfica (EX61A e EX61B)
 Monitor: Tiago Navarro Bettanin
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 08h30 às 12h30
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 16h50 às 17h50
-
-
 Local do Atendimento Presencial: Laboratório de Desenho
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/smz-owsv-zvb
-
-
  Câmpus: Apucarana
 Química Geral (QU61A, QQ61A, QM61A, QUCO4A, QU63A, QG71A) e Química Inorgânica (QI62A)
 Monitor: Marcos Gabriel Boiko
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 quarta: das 08h20 às 11h20
 quinta: das 18h40 às 19h40
 sexta: das 18h40 às 19h40
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 10h10 às 12h10
 terça: das 09h10 às 10h10 e das 16h40 às 17h40
 quinta: das 10h00 às 11h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/keq-hnjq-yxa
-
-
  Câmpus: Apucarana
 Sistemas Lineares (SL64A)
 Monitor: Anderson Clayton Gramacho da Silva Junior
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 19h00 às 22h00
 quarta: das 11h00 às 12h00
 sexta: das 11h00 às 12h00
-
 Dias e horários de atendimento presencial no campus:
 terça: das 09Xh00 às 12h00
 sexta: das 09Xh00 às 11h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/DB35uJK8cG
-
-
  Câmpus: Apucarana
 Física 1 (FC62A, FF62A, FS62A, FT61A, FX62A, FTCO2A, FECO3A, FI73A, FX74A)
 Monitor: Wesley Paulo Benetti
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 18h00 às 20h00
 sábado: das 14h00 às 17h00
-
 Dias e horários de atendimento presencial no campus:
 terça: das 10h00 às 12h00
 quinta: das 10h00 às 12h00 e das 18h00 às 19h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/hmi-nafb-apc
-
-
  Câmpus: Apucarana
 Fundamentos de Cálculo em Processos (FC64A)
 Monitor: Arnaldo Vinícius Dias Paes
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 19h30 às 21h30
 quinta: das 09h00 às 12h00
-
 Dias e horários de atendimento presencial no campus:
 terça: das 18h30 às 21h30
 sexta: das 10h00 às 12h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ava-wchs-oss
-
-
  Câmpus: Apucarana
 Modelagem tridimensional 1 (MO42A), Modelagem tridimensional 2 (MO43B), Modelagem tridimensional 3 (MB44C), Modelagem bidimensional 1 (MB42A), Modelagem bidimensional 2 (MB43B), Modelagem bidimensional 3 (MB44C), Técnicas de montagem (TM41A), Prototipia 1 (PT42A), Prototipia 2 (PT43B), Prototipia 3 (PT44C) e Modelagem e prototipia de acessórios (MD46A)
 Monitor: Elaine Cristina de Melo
-
 Dias e horários de atendimento:
 segunda: das 13h00 às 17h30
 terça: das 13h00 às 17h30
 quarta: das 13h00 às 17h30
-
-
 Local do Atendimento Presencial: Laboratório C006
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/gnc-pamt-ovz?authuser=0&pli=1
-
-
  Câmpus: Apucarana
 Cálculo Diferencial e Integral 1 (CF61A; CA61A)
 Monitor: Renato Bueno Bovo
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 08h00 às 11h00
 sexta: das 08h00 às 10h00
-
 Dias e horários de atendimento presencial no campus:
-
 quarta: das 08h00 às 10h00
 quinta: das 19h00 às 22h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/xau-hwjq-svr
-
-
  Câmpus: Apucarana
 Fundamentos de Programação 1, Fundamentos de Programação 2 e Estruturas de Dados 1 (FDCO1A, FDCO2B e EDCO3A)
 Monitor: Pedro Mian Parra
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 19h00 às 21h00
 terça: das 19h00 às 21h00
 quarta: das 19h00 às 20h00
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 12h00 às 12h50 (N103)
 quarta: das 13h00 às 15h30 (N007)
 quinta: das 09h10 às 11h10 (N103) e das 15h30 às 19h10 (N007)
-
-
 Local do Atendimento Presencial: Sala N007 ou N103
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/cNevnHuqhS
-
-
  Câmpus: Apucarana
 Expressão Gráfica (EG61A)
 Monitor: Isadora Frioli Nicolau
-
 Dias e horários de atendimento:
 segunda: das 15h00 às 17h00
 terça: das 09h00 às 12h00
-
-
 Local do Atendimento Presencial: BIMLab - Bloco P
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: somente presencial (monitoria voluntária)
-
-
  Câmpus: Apucarana
 Instalações Elétricas 1 (IE65A)
 Monitor: João Pedro Fagundes Matuzinho
-
 Dias e horários de atendimento:
 terça: das 14h20 às 17h40 e 18h40 às 20h20
-
-
 Local do Atendimento Presencial: Sala N202
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: somente presencial (monitoria voluntária)
-
-
  Câmpus: Apucarana
 Teoria das Estruturas 1 (TO65A)
 Monitor: Bruna Miki Tokutsune Tashiro
-
 Dias e horários de atendimento:
 segunda: das 08h00 às 10h00
 terça: das 17h30 às 19h00
 quarta: das 17h30 às 19h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: somente presencial (monitoria voluntária)
-
-
  Câmpus: Apucarana
 Teoria das Estruturas 2 (TO66B)
 Monitor: Luiz Henrique Stefanuto Mehlmann
-
 Dias e horários de atendimento:
 terça: das 19h30 às 21h30
 quarta: das 19h30 às 21h00
 quinta: das 19h30 às 21h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: somente presencial (monitoria voluntária)
-
-
  Câmpus: Apucarana
 Análise de Circuitos Elétricos 1 (AC64A)
 Monitor: Gianluca Treuko Muroni
-
 Dias e horários de atendimento:
 terça: das 09h00 às 12h00
 quarta: das 18h00 às 20h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: somente presencial (monitoria voluntária)
-
-
  Câmpus: Apucarana
 Química Orgânica 2 (QO64B), Química Orgânica B (QO74B), Química Orgânica 1 (QO63A), Química Orgânica A (QO73A) e Química Orgânica (QO62A)
 Monitor: Lucas Copelli Borges
-
 Dias e horários de atendimento:
 segunda: das 17h00 às 18h00
 terça: das 08h00 às 10h00 e das 19h00 às 20h00
 quinta: das 17h00 às 18h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: somente presencial (monitoria voluntária)
-
-
  Câmpus: Apucarana
 Cálculo Numérico (CLCO5A; CC64A)
 Monitor: Paulo Gabriel de Carvalho
-
 Dias e horários de atendimento:
 segunda: das 09h00 às 12h00
 sábado: das 10h00 às 11h00 e 13h00 às 14h00
-
-
 Local do Atendimento Presencial: Sala N009 ou N011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: somente presencial (monitoria voluntária)
-
-
  Câmpus: Apucarana
 Materiais e Equipamentos Elétricos (MECO1A)
 Monitor: Leonardo Trindade Sperandio
-
 Dias e horários de atendimento:
 terça: das 08h20 às 10h00, das 10h20 às 12h00, das 13h00 às 14h40 e das 16h40 às 18h20
-
-
 Local do Atendimento Presencial: Sala N009 ou n011
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: somente presencial (monitoria voluntária)
-
-
  Câmpus: Apucarana
 Expressão Gráfica (EX61A e EX61B)
 Monitor: Tiago Navarro Bettanin
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 08h30 às 12h30
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 16h50 às 17h50
-
-
 Local do Atendimento Presencial: Laboratório de Desenho
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/smz-owsv-zvb
-
-
  Câmpus: Apucarana
 Expressão Gráfica (EX61A e EX61B)
 Monitor: Tiago Navarro Bettanin
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 08h30 às 12h30
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 16h50 às 17h50
-
-
 Local do Atendimento Presencial: Laboratório de Desenho
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/smz-owsv-zvb
-
-
  Câmpus: Apucarana
 Expressão Gráfica (EX61A e EX61B)
 Monitor: Tiago Navarro Bettanin
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 08h30 às 12h30
-
 Dias e horários de atendimento presencial no campus:
 segunda: das 16h50 às 17h50
-
-
 Local do Atendimento Presencial: Laboratório de Desenho
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/smz-owsv-zvb
-
-
  Câmpus: Francisco Beltrão
 TERMODINÂMICA 2 (QUI008-5EQ)
 Monitor: João Vitor Fabian
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 quarta: T1 e T2;
-
-
 Dias e horários de atendimento presencial no campus:
 sexta: M4 e M5;
-
-
 Local do Atendimento Presencial: R204
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/zjz-okgp-yaf
-
-
  Câmpus: Francisco Beltrão
 QUI001(parte teórica da Eng. de Alimentos e Ambiental) QUI018- QUI084
 Monitor: Guilhermo Vicenzo Correa Portolann
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: N1 e N2;
 sexta: T3, T4 e T5;
-
 Dias e horários de atendimento presencial no campus:
 terça: T1 e T2
- 
-
-
 Local do Atendimento Presencial: R204
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/aqa.geue-kdv
-
-
  Câmpus: Francisco Beltrão
 Cálculo Diferencial e Integral 2 - MAT003 e CD32E
 Monitor: Pablo Hisao Cuchani Hamasaki
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: N2 e N3
 quarta: N2 e N3
 quinta: M4 e M5
-
-
 Dias e horários de atendimento presencial no campus:
 segunda: M4 e M5
 quarta: M4; M5; T1 e T2
- 
-
-
 Local do Atendimento Presencial: R204
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/usg-zgtx-zuh
-
-
  Câmpus: Francisco Beltrão
 Geometria Analítica e Álgebra Linear - MAT002
 Monitor: Airan Ribeiro Ramos
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: M3, M4, M5, T1 e T2;
-
-
 Dias e horários de atendimento presencial no campus:
 terça: M2 e M3;
 quarta: T1, T2 e T3;
 quinta: T1, T2;
- 
-
-
 Local do Atendimento Presencial: R204
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/scn-mogz-oim
-
-
  Câmpus: Francisco Beltrão
 Fenômenos de Transfêrencia 01/ QUI 007
 Monitor: Samuel Thiago Telles Rodrigues
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: T1, T2, T3, T4 e T5;
-
-
 Dias e horários de atendimento presencial no campus:
 quarta: T1, T2, T3, T4 e T5;
- 
-
-
 Local do Atendimento Presencial: R208
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ear-pyjd-hfs
-
-
  Câmpus: Francisco Beltrão
 QUI024 - INTRODUÇÃO AOS PROCESSOS QUÍMICOS
 Monitor: THAÍS ROSSETTO CORDEIRO DA SILVA
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 quinta: T6, N1 e N2;
 sexta: M4 e M5;
-
 Dias e horários de atendimento presencial no campus:
 segunda: M2 e M3;
- 
-
-
 Local do Atendimento Presencial: R204
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/aoi-ipmg-xfy
-
-
  Câmpus: Francisco Beltrão
 Cálculo Diferencial e Integral I - MAT001
 Monitor: Brendo Newton Sousa Rodrigues
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: T6 e N1
 quarta: T6 e N1
 quinta: T2
-sexta: T6 
-
+sexta: T6
 Dias e horários de atendimento presencial no campus:
 terça: N1 e N2
 quinta: N1 e N2
-
 sexta: N1 e N2
-
-
 Local do Atendimento Presencial: R207
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/eoa-gpgr-nop
-
-
  Câmpus: Francisco Beltrão
 Cálculo Diferencial e Integral I (MAT001)
 Monitor: Giovanna Gomes da Silva
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: N1 e N2
 sexta: T3, T4 e T5
-
 Dias e horários de atendimento presencial no campus:
 terça: T1 e T2
- 
-
-
 Local do Atendimento Presencial: R204
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/vvr-oqwu-bvh
-
-
  Câmpus: Guarapuava
 EC72F - Projeto de Edifícios
 Monitor: Alex Novak
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 17h50 às 20h20
 quinta: das 19h30 às 22h10
-
-
 Dias e horários de atendimento presencial no campus:
-
-
 segunda: das 14h40 às 17h30
 terça: das 14h40 às 17h30
- 
-
-
 Local do Atendimento Presencial: Sala em frente ao elevador, antiga maquetaria
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/idf-oooe-aba
-
-
  Câmpus: Guarapuava
 SI101B/SI101C - Pensamento Computacional e Fundamentos de Programação / Introdução à Orientação a Objetos
 Monitor: Pablo Martinez Slomp
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 17h50 às 22h10
 quarta: das 17h50 às 20h20
 quinta: das 20h20 às 22h10
 sexta: das 17h50 às 22h10
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 17h50 às 18h40
 quinta: das 17h50 às 18h40
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
-
  Câmpus: Guarapuava
 EM42E - Desenho de Máquinas
 Monitor: Nicollas Hamon Trevisan Verbaneck
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 segunda: das 9h10 às 12h
 quarta: das 14h40 às 17h30
-
-
 Dias e horários de atendimento presencial no campus:
 terça: das 10h20 às 12h
-quarta: das 10h20 às 12h  
+quarta: das 10h20 às 12h
 sexta: das 13h às 14h40
-
-
 Local do Atendimento Presencial: Biblioteca
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/iqg-zxpn-oyq
-
-
  Câmpus: Guarapuava
 EC71A / EM41D - Cálculo Diferencial e Integral 1
 Monitor: José Gabriel Pacheco de Araujo
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 7h30 às 10h e 13h às 14h40 e 16h40 às 17h30
-
-
 Dias e horários de atendimento presencial no campus:
-
-quinta: das 8h20 às 12h 
+quinta: das 8h20 às 12h
 sexta: das 10h20 às 12h
-
-
 Local do Atendimento Presencial: B2
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/xdu-umts-wcn
-
-
  Câmpus: Guarapuava
 EC71B/EM41E - Geometria Analítica e Álgebra Linear
 Monitor: Angelo Zanona Neto
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 7h30 às 10h
 quinta: das 7h30 às 9h10
- 
-
 Dias e horários de atendimento presencial no campus:
-
 segunda: das 14h40 às 17h30
-sexta: das 15h50 às 17h30 
-
-
+sexta: das 15h50 às 17h30
 Local do Atendimento Presencial: Sala F6A
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ktc-fvxn-hfz
-
-
  Câmpus: Santa Helena
-Cálculo Diferencial e Integral 1 - MA221A CC12H;Matemática Aplicada - MA61F AG1H; Cálculo Aplicado  - MA62A AG2HMatemática Aplicada à Biologia - MA61F AG1H 
+Cálculo Diferencial e Integral 1 - MA221A CC12H;Matemática Aplicada - MA61F AG1H; Cálculo Aplicado  - MA62A AG2HMatemática Aplicada à Biologia - MA61F AG1H
 Monitor: Pedro Henrique Teodoro de Mendonça
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 14h às 17h
 terça: das 14h às 16h
-
-
 Dias e horários de atendimento presencial no campus:
 terça: das 18h às 20h
-quinta: das 18h às 20h 
-
-
+quinta: das 18h às 20h
 Local do Atendimento Presencial: Sala de monitoria. Bloco L
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/sqe-wrvf-ahb
-
-
  Câmpus: Santa Helena
 Fundamentos da Eletricidade - FI221E
-Monitor: Daniel Theisges da Costa 
+Monitor: Daniel Theisges da Costa
 Dias e horários de atendimento remoto para a rede UTFPR:
 segunda: das 19h às 21h
-
 Dias e horários de atendimento presencial no campus:
 quinta: das 08h às10h
- 
-
-
 Local do Atendimento Presencial: Sala de Monitoria - Bloco L
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: Link Meet https://meet.google.com/ukr-qqit-mgb
-
-
  Câmpus: Santa Helena
 Estrutura de Dados - CC23C
 Monitor: Eduardo Rodrigues Baldini Filho
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 terça: das 14h às 16h e 20h às 22h
-quarta: das 10h às 12h 
+quarta: das 10h às 12h
 quinta: das 10h às 12h e 20h às 22h
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 24/08/2022 a 21/12/2022
-
 Sala Remota: Discord: https://discord.gg/wTKjKuDv5Y Meet: https://meet.google.com/zsr-kora-aju
-
-
  Câmpus: Cornélio Procópio
 Física Geral 2
 Monitor: < Fernando Lima Fernandes >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 <Segunda Feira: 15h50 - 18h40
-
 Sexta Feira: 13h - 15h30
-
 Dias e horários de atendimento presencial no campus:
-
 Terça Feira: 8h20 - 12h
-
-
 Local do Atendimento Presencial: Sala A134
-
 Monitoria de: 25/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/vyx-nhsw-qeg
-
-
  Câmpus: Cornélio Procópio
 Programação Orientada a Objetos
 Monitor: < Jean Alves Rocha >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-2ªfª [das 18h40 - 19h30 / das 19h30 - 20h20] 4ªfª [das 14h40 - 15h30] 5ªfª [das 13h50 - 14h40 / 14h40 - 15h30] 6ªfª [das 18h40 - 19h30] 
-
+2ªfª [das 18h40 - 19h30 / das 19h30 - 20h20] 4ªfª [das 14h40 - 15h30] 5ªfª [das 13h50 - 14h40 / 14h40 - 15h30] 6ªfª [das 18h40 - 19h30]
 Dias e horários de atendimento presencial no campus:
 3ªfª  [das 13h - 13h50 / das13h50 - 14h40 / das 18h40 - 19h30 / das 21h20 - 22h10]
-
-
 Local do Atendimento Presencial: A134
-
 Monitoria de: 25/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/qte-bypi-use
-
-
  Câmpus: Cornélio Procópio
 Eletrônica Digital
 Monitor: < Michele Oliveira de Campos >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Terça feira: 15h50 - 17h30;
-
 Sexta feira: 13h00 - 16h40
-
 Dias e horários de atendimento presencial no campus:
-
 Quarta feira: 13h - 16h40;
-
-
 Local do Atendimento Presencial: I102
-
 Monitoria de: 25/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/uns-ifkr-gcd
-
-
  Câmpus: Cornélio Procópio
 Análise de Circuitos Elétricos 1
 Monitor: < Óliver Pincelli Westin>
 Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda-feira: 19h30 - 22h10;
 Terça-feira: 19h30 - 22h10;
-
 Dias e horários de atendimento presencial no campus:
 Segunda-feira: 13h00 - 13h50;
 Terça-feira: 13h00 - 13h50;
 Quarta-feira: 13h00 - 14h40;
-
- 
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 25/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/jxc-voop-rgc
-
-
  Câmpus: Cornélio Procópio
 Mecânica Geral I
 Monitor: < Matheus dos Santos>
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda: 17:50 às 19:30 hrs;
 Terça: 17:50 às 19:30 hrs;
 Quinta:17:50 às 19:30 hrs;;
-
 Dias e horários de atendimento presencial no campus:
 Segunda: 13:50 às 15:30 hrs;
 Quinta: 13:50 às 15:30 hrs;
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 25/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/hur-uhan-vte
-
-
  Câmpus: Cornélio Procópio
 Inglês Instrumental
 Monitor: < Talita Aya Sakamoto Kuriki >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 < escreva aqui os dias e horários, por exemplo: >
 Terça-feira, das 8h20 às 10h00; quarta-feira, das 13h50 às 15h30; sexta-feira, das 8h20 às 10h00
- 
-
 Dias e horários de atendimento presencial no campus:
 Segunda: 13:50 às 15:30 hrs;
 Quinta: 13:50 às 15:30 hrs;
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 25/08/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/zhg-cerw-awr
-
-
  Câmpus: Cornélio Procópio
 Cálculo Diferencial e Integral 2
 Monitor: < Natã Brito Geraldo >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 < Terça-feira 18h40 às 22h10 e Quinta-feira 19h30 às 21h10
-
 Dias e horários de atendimento presencial no campus:
 Quarta-feira: 15h50 às 17h30 e Quinta-feira: 8h20 às 10h10
-
-
 Local do Atendimento Presencial: Sala A134
-
 Monitoria de: 25/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/gbj-evxd-ugr
-
-
  Câmpus: Cornélio Procópio
 Laboratório de Informática
 Monitor: < LEONARDO CANUTO JUNIOR >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 <Segunda feira: 21h20 - 23h00;
 Terça feira: 20h20 - 22h10;
 Quinta feira: 21h20 - 23h00;
-
-
 Dias e horários de atendimento presencial no campus:
 Terça feira: 15h50 - 17h30;
 Quarta feira: 07h30 - 11h10;
-
-
 Local do Atendimento Presencial: A134
-
 Monitoria de: 25/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/wdp-ivoa-ngc
-
-
  Câmpus: Cornélio Procópio
 Cálculo Diferencial e Integral 3
 Monitor: < Vinícius Fernandes Bessa >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Terça-feira 19h30 às 21h10
 Quarta-feira 19h30 às 21h10
 Quinta-feira 21h00 às 21h50
 Sexta-feira 19h30 às 20h20
-
 Dias e horários de atendimento presencial no campus
-
 Segunda-feira 17h50 às 19h30
 Quinta-feira 17h50 até 19h30
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 25/08/2022 a 22/12/2022
-
 Sala Remota: https://meet.google.com/cde-atdj-zne
-
-
  Câmpus: Cornélio Procópio
 Geometria Analítica e Álgebra Linear
 Monitor: <Mateus Matheus Prudêncio >
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 Segunda -feira : 19:30-21:10,
-
 terça-feira: 20:20-21:10,
-
 quarta:feira:20:20-21:10,
-
 quinta-feira:19:30-21:10
-
-
 Dias e horários de atendimento presencial no campus:
 segunda feira : 13:00-13:50,
-
 terça feira: 19:30-20:20,
-
 quarta-feira:13-13:50,
-
 quarta: 19:30-20:20
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 25/08/2022 a 22/11/2202
-
 Sala Remota: https://meet.google.com/ytk-hwsn-ftr?hs=122&authuser=0
-
-
  Câmpus: Ponta Grossa
 Algoritmos (CC51A)
 Monitor: GABRIEL STAWNY
-
-Dias e horários de atendimento presencial: Segunda das 15h50 às 18h20 | Terça das 12h50 às 13h40 e das 15h50 às 17h30  | Quarta das 12h50 às 13h40 
-
+Dias e horários de atendimento presencial: Segunda das 15h50 às 18h20 | Terça das 12h50 às 13h40 e das 15h50 às 17h30  | Quarta das 12h50 às 13h40
 Dias e horários de atendimento remoto: Quarta das 18h40 às 21h10 | Quinta das 18h40 às 21h10
-
- 
-
-
 Local do Atendimento Presencial: Sala C108
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/tcz-vpyz-tjb
-
-
  Câmpus: Ponta Grossa
 Biologia Celular e Molecular e Noções de Biotecnologia (CB31A)
 Monitor: LEONARDO MARTINS DELFINO
-
-Dias e horários de atendimento presencial: Segunda das 13:50 às 17:30 | Terça das 15:50 às 17:30 | Quinta 12:50 às 13:40 | 
-
-Dias e horários de atendimento remoto: Segunda das 20:20 às 21:10 | Terça das 15:50 às 17:30 | Quarta das 08:20 às 11:10 | Sexta das 12:00 às 14:40 
-
- 
-
-
+Dias e horários de atendimento presencial: Segunda das 13:50 às 17:30 | Terça das 15:50 às 17:30 | Quinta 12:50 às 13:40 |
+Dias e horários de atendimento remoto: Segunda das 20:20 às 21:10 | Terça das 15:50 às 17:30 | Quarta das 08:20 às 11:10 | Sexta das 12:00 às 14:40
 Local do Atendimento Presencial: Sala C108
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/sbp-sqit-cvs
-
-
  Câmpus: Ponta Grossa
 Cálculo Diferencial e Integral 1 (BP31A, CC51C, EP31A, EN31A, PG0001, QM31E, MA61A)
 Monitor: MATHEUS LUIZ BACH
-
 Dias e horários de atendimento presencial: Segunda-feira das 17:30 às 19:30 | Terça-feira das 15:50 às 17:30 | Quarta-feira das 15:50 às 17:30.
-
 Dias e horários de atendimento remoto: Quarta-feira das 19:30 às 21:10 | Sexta-feira das 14:40 às 18:20.
-
- 
-
-
 Local do Atendimento Presencial: Sala C108
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/rkx-jazf-dbw
-
-
  Câmpus: Ponta Grossa
 Cálculo Diferencial e Integral 2 (CC52E, BP32A, EP32A, EN32A, PG0008, QM32B)
 Monitor: THIAGO ROBERTO DOS SANTOS
-
-Dias e horários de atendimento presencial: Segunda-feira das 13h00 às 13h50 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira  das 18h20 às 20h00 
-
+Dias e horários de atendimento presencial: Segunda-feira das 13h00 às 13h50 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira  das 18h20 às 20h00
 Dias e horários de atendimento remoto: Segunda-feira das 17h30 às 20h50 | Terça-feira das 20h00 às 21h40
-
- 
-
-
 Local do Atendimento Presencial: Informações no grupo do Telegram https://t.me/+OcIPHJHanJFmOWY5
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://t.me/+OcIPHJHanJFmOWY5
-
-
  Câmpus: Ponta Grossa
 Cálculo Diferencial e Integral 3 (EN33A, PG0016, QM33B)
 Monitor: JOÃO PEDRO BUSNARDO DE SOUZA
-
-Dias e horários de atendimento presencial: Terça-feira das 18h20 às 20h00 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira das 13h00 às 13h50 
-
+Dias e horários de atendimento presencial: Terça-feira das 18h20 às 20h00 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira das 13h00 às 13h50
 Dias e horários de atendimento remoto: Segunda-feira das 13h00 às 15h30 | Quinta-feira das 18h20 às 19h10 | Sexta-feira das 13h50 às 15h30
-
- 
-
-
 Local do Atendimento Presencial: Informações no grupo do Telegram https://t.me/+PMTrer0rZdU3M2Ux
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://t.me/+PMTrer0rZdU3M2Ux
-
-
  Câmpus: Ponta Grossa
 Equações Diferenciais Ordinárias (EN33D BP33A EP33A PG0017 QM34B)
 Monitor: LEONARDO JOSÉ ROSSONI QUADROS
-
 Dias e horários de atendimento presencial: Segunda-feira das 7:30h às 10:00h e das 15:50h às 20:20h | Terça-feira das 7:30h às 9:10h e das 15:50h às 17:30h
-
 Dias e horários de atendimento remoto: Quarta-feira das 17:30h às 21:10h | Quinta-feira das 15:50h às 17:30h
-
- 
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/icv-wwau-grk
-
-
  Câmpus: Ponta Grossa
 Estruturas de Dados 1 e 2 (CC52A, CC53A)
 Monitor: LUIZ GUILHERME MONTEIRO PADILHA
-
-Dias e horários de atendimento presencial: Segunda-feira das 17h30 às 18h20 |  Quarta-feira das 17h30 às 18h20 |  Quinta-feira das 10h20 às 13h40 
-
+Dias e horários de atendimento presencial: Segunda-feira das 17h30 às 18h20 |  Quarta-feira das 17h30 às 18h20 |  Quinta-feira das 10h20 às 13h40
 Dias e horários de atendimento remoto: Segunda-feira das 10h20 às 12h00 | Terça-feira das 13h50 às 17h30
-
- 
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/zeq-yhus-rzo
-
-
  Câmpus: Ponta Grossa
 Física 1 e Física Geral I (BP32C EN31B PG0005 QM31A)
 Monitor:BIANCA RAFAELA FABRIS PLATH
-
 Dias e horários de atendimento presencial: segunda 13h às 14h40; sexta 12h às 12h50.
-
 Dias e horários de atendimento remoto: terça 18h40 às 20h20; quarta 11h20 às 13h50 e quinta 17h30 às 19h10.
-
- 
-
-
 Local do Atendimento Presencial: Sala C108
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ggy-oosx-qad
-
-
  Câmpus: Ponta Grossa
 Física 2 e Física Geral II (BP33B, EN32B, EP33B, PG0012, QM32A)
 Monitor: JORDANO LUIZ JANKOSKI
-
 Dias e horários de atendimento presencial: Segunda-feira, das 10h20 às 11h10 | Terça-feira, das 13h00 às 13h50 | Quarta-feira, das 13h00 às 13h50
-
 Dias e horários de atendimento remoto: Terça-feira, das 18h40 às 21h10 | Quarta-feira, das 18h40 às 21h10 | Quinta-feira, das 18h40 às 21h10
-
- 
-
-
 Local do Atendimento Presencial: Sala C108.
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/zub-mebg-ttj
-
-
  Câmpus: Ponta Grossa
 Física 3 e Física Geral 3 (PG0019, EN33B, BP34F, QM33A e EP34B)
 Monitor: HENZO EDUARDO MOREIRA MAGNINI
-
 Dias e horários de atendimento presencial: Segunda-Feira das 17h30 às 19h30 |Terça-Feira das 13h50 às 14h40 |Quinta-Feira das 12h00 às 12h50
-
 Dias e horários de atendimento remoto: Segunda-Feira das 21h20 às 22h50 |Terça-Feira das 19h30 às 22h50 |Quinta-Feira das 20h20 às 22h05
-
- 
-
-
 Local do Atendimento Presencial: Sala C108.
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/boc-rejf-pfq
-
-
  Câmpus: Ponta Grossa
 Geometria Analítica e Álgebra Linear (QM31B, PG0002, EN31D, EP31D, BP32F, CC51D, MA61B)
 Monitor: MARIELI TEIXEIRA STRESSER
-
 Dias e horários de atendimento presencial: Segunda-feira das 12h50 às 13h50, Quinta-feira das 12h00 às 13h50 e Sexta-feira das 10h05 às 12h15.
-
 Dias e horários de atendimento remoto: Segunda-feira das 20h00 às 21h00, Quarta-feira das 20h00 às 21h30, Quinta-feira das 20h00 às 21h30 e Sexta-feira das 20h00 às 21h00.
-
- 
-
-
 Local do Atendimento Presencial: Sala C108
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/onf-tbdm-crh
-
-
  Câmpus: Ponta Grossa
 Mecânica Geral I (EN32D, EP33C, QM32F e PG0021)
 Monitor:  BRUNA BALZER MACIEL
-
 Dias e horários de atendimento presencial: terça-feira das 12h00 às 14h40, Quinta-feira das 9h10 às 10h00, Sexta-feira das 7h30 às 09h10
-
 Dias e horários de atendimento remoto: Segunda-feira das 15h50 às 18h20, Sexta-feira das 13h50 às 16h40
-
- 
-
-
 Local do Atendimento Presencial: Sala C108.
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/xoe-mbxb-dbp
-
-
  Câmpus: Ponta Grossa
 Probabilidade e Estatística (BP33G CC52F PG0009 PG0116 CB35E EP32D QM35E EN32E)
 Monitor: TALITA BERGER DO COUTO
-
 Dias e horários de atendimento presencial: Segunda-feira das 10:20 as 12:50 e sexta-feira das 10:20 as 12:50.
-
 Dias e horários de atendimento remoto: Terça-feira das 17:30 as 20:20 e quinta-feira das 16:40 as 19:30
-
- 
-
-
 Local do Atendimento Presencial: --
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/fcv-jaod-obo
-
-
  Câmpus: Ponta Grossa
 Química Geral (BP31D PG0003 EN31E EP31E)
 Monitor: JOÃO HENRIQUE WICHNESKY STEPHANI
-
 Dias e horários de atendimento presencial: Segunda-feira das 12:50 às 15:30 |Terça-feira das 11:10 às 12:00 | Quarta-feira das 10:20 às 12:00.
-
 Dias e horários de atendimento remoto: Segunda-feira das 18:40 às 20:20 | Quinta-feira das 09:10 às 12:00 | Quinta-feira das 18:40 às 19:30.
-
- 
-
-
 Local do Atendimento Presencial: Sala C108
-
 Monitoria de: 29/08/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/iys-awrf-evv
-
-
  Câmpus: Campo Mourão
 Resistência dos Materiais 1
 Monitor: Pedro Lorenset
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 10:20 às 12:00
 quarta: das 10:20 às 12:00
 quinta: das 10:20 às 12:00
-
-
 Dias e horários de atendimento presencial no campus:
 sexta: das 13:50 às 15:30
-
-
 Local do Atendimento Presencial: CENT. CONVIVÊNCIA
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/ewo-xihk-taj
-
-
  Câmpus: Campo Mourão
 Linguagens Formais, Autômatos e Computabilidade
 Monitor: Geovana Figueiredo Silva
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 19:30 às 22:10
 quarta: das 19:30 às 22:10
-
 Dias e horários de atendimento presencial no campus:
 quarta: das 13:50 às 15:30
 quinta: das 15:50 às 17:30
-
-
 Local do Atendimento Presencial: CENT. CONVIVÊNCIA
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/kst-emrz-zsi
-
-
  Câmpus: Pato Branco
 Gestão e Certificação de Laboratórios- GC38QB
 Monitor: Ricardo da Silva Furlan
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
-Quarta-Feira:  das 13h00 às 14h40 
-
+Quarta-Feira:  das 13h00 às 14h40
 Quinta-Feira: das 15h50 às 17h30
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: das 13h00 às 14h40
-
 Terça-Feira: das 13h00 às 14h40
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/yxt-fqvj-kgx
-
-
  Câmpus: Pato Branco
 Expressão gráfica EG21NB
 Monitor: Murilo Luiz Bernardi
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
-Quinta-Feira: das 15h50 às 18h20 
-
+Quinta-Feira: das 15h50 às 18h20
 Dias e horários de atendimento presencial no campus:
-
 Terça-Feira: das 13h00 às 15h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: http://meet.google.com/yta-qedr-ydr?pli=1&authuser=0
-
-
  Câmpus: Pato Branco
 BQ22G - Bioquímica
 Monitor: Dielly Mayara Comelli Alves
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Segunda-Feira: das 8h20 às 10h00 e das 15h50 às 18h20
-
 Terça-Feira: das 13h00 às 13h50
-
 Dias e horários de atendimento presencial no campus:
-
 Terça-Feira: das 12h00 às 12h50
-
-Quarta-Feira: das 12h00 às 12h50 e das 13h00 às 13h50 
-
+Quarta-Feira: das 12h00 às 12h50 e das 13h00 às 13h50
 Quinta-Feira: das 13h00 às 13h50 e das 15h50 às 17h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/rcw-zdce-eep
-
-
  Câmpus: Pato Branco
 Computação 1 - CP21NB
 Monitor: Lauro Riboli Saraiva
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Quinta-Feira: das 11h10 às 12h50 e das 18h40 às 20h20
-
 Sexta-Feira: das 11h10 às 12h50
-
 Dias e horários de atendimento presencial no campus:
-
 Terça-Feira: das 13h00 às 15h30
-
 Sexta-Feira: das 15h50 às 18h20
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/sfp-iacr-oog
-
-
  Câmpus: Pato Branco
 Fundamentos De Programação- FP21NB / FP21S
 Monitor: Luan Filipe Finatto
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
-Terça-Feira: das 09h10 às 12h00 
-
-Quarta-Feira: das 09h10 às 12h00 
-
+Terça-Feira: das 09h10 às 12h00
+Quarta-Feira: das 09h10 às 12h00
 Dias e horários de atendimento presencial no campus:
-
-Quinta-Feira:das 09h10 às 12h00 
-
+Quinta-Feira:das 09h10 às 12h00
 Sexta-Feira: das 09h10 às 12h00
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/qre-ajho-xto
-
-
  Câmpus: Pato Branco
 Fundamentos de Banco de Dados - BD21S
 Monitor: Jorge Gabriel Bortoluzzi Dorio
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Terça-Feira: 10h20 às 12h50
-
-Quarta-Feira: 10h20 às 12h50  
-
+Quarta-Feira: 10h20 às 12h50
 Dias e horários de atendimento presencial no campus:
-
 Quinta-Feira: das 10h20 às 12h50
-
 Sexta-Feira: das 15h50 às 18h20
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/YwQFvJb3
-
-
  Câmpus: Pato Branco
 Física 3- FI23NB
 Monitor: Ana Julia Almeida Mass
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Segunda-Feira: das 8h20 às 10h00
-
 Quinta-Feira: das 8h20 às 10h00
-
 Sexta-Feira: das 8h20 às 10h00
-
 Dias e horários de atendimento presencial no campus:
-
 Terça-Feira: das 17h30 às 18h20 e das 18h40 às 19h30
-
 Quarta-Feira: das 15h50 às 17h30
-
 Quinta-Fiera: das 15h50 às 17h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/teu-fsrq-ncy
-
-
  Câmpus: Pato Branco
 GA21NB/ AL32QB/ AL22G/ GA22M/ GA24M/IA25M/AL26M - Álgebra Linear e Geometria Analítica/ Introdução à Álgebra Linear
 Monitor: Pedro Vinicius Yamamoto Agner de Faria
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Segunda-Feira: das 21h20 às 23h00
-
 Quarta-Feira: das 18h40 às 20h20
-
-Quinta-Feira: das 10h20 às 11h10  
-
+Quinta-Feira: das 10h20 às 11h10
 Dias e horários de atendimento presencial no campus:
-
 Terça-Feira: das 10h20 às 12h00
-
 Quarta-Feira: das 13h50 às 15h30
-
 Sexta-Feira: das 15h50 às 17h30
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://discord.gg/Q2QH9hJAKh
-
-
  Câmpus: Pato Branco
 Sistemas Microcontrolados - SM26EL SM26CP
 Monitor: Vitor Balbinot
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-
 Quinta-Feira:  das 7h30 às 10h00
-
 Dias e horários de atendimento presencial no campus:
-
 Segunda-Feira: 10h20 às 12h00
-
 Quinta-Feira: 10h20 às 12h00
-
-
 Local do Atendimento Presencial: Salas da monitoria no bloco W
-
 Monitoria de: 14/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/oyw-rkcz-qvs
-
-
  Câmpus: Medianeira
 Análise de Alimentos (TAL54F / EL55D)
 Monitor: FERNANDA CAROLINA POMPEU MENEGOLI
-
 Dias e horários de atendimento REMOTO para a rede UTFPR:
-
 Terça: das 20:20 às 22:05
-
 Dias e horários de atendimento PRESENCIAL no campus:
-
-Segunda: das 20:20 às 22:05 
+Segunda: das 20:20 às 22:05
 Quinta: das 15:50 às 17:30 e 19:30 às 21:10
 Sexta: das  19:30 às 21:10
-
-
 Local do Atendimento Presencial: Sala de Monitoria (E12)
-
 Monitoria de: 15/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/nyh-hzfu-ifc
-
-
  Câmpus: Cornélio Procópio
 Álgebra LM35A
 Monitor: Matheus Gonçalves Silveira
-
 Dias e horários de atendimento remoto para a rede UTFPR:
-quarta: das 09h10 às 12h00 
+quarta: das 09h10 às 12h00
 sexta: das 09h10 às 12h00
-
-
 Dias e horários de atendimento presencial no campus:
-segunda: das 09h10 às 11h10 
-terça: das 13h50 às 15h50 
- 
-
- 
-
-
+segunda: das 09h10 às 11h10
+terça: das 13h50 às 15h50
 Local do Atendimento Presencial: A 134
-
 Monitoria de: 19/09/2022 a 21/12/2022
-
 Sala Remota: https://meet.google.com/nnk-vnoi-tpb
-
-
  Câmpus: Cornélio Procópio
 Física Geral 1 EM32G
 Monitor: Elias Junio Muller Coelho
-
 Dias e horários de atendimento remoto para a rede UTFPR:
 terça: das 18h40 às 21h10
 quinta: das 18h40 às 21h10
-
-
 Dias e horários de atendimento presencial no campus:
-segunda: das 08h20 às 10h00 
-sexta: das 11h10 às 12h50 
-
- 
-
-
+segunda: das 08h20 às 10h00
+sexta: das 11h10 às 12h50
 Local do Atendimento Presencial: A134
-
 Monitoria de: 03/10/2022 a 21/12/2022
-
 Sala Remota: meet.google.com/nru-hmpy-skb
