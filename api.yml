@@ -16,21 +16,88 @@ paths:
 
   /monitoria/{id}:
     get:
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int32
+
+      responses:
+        "200":
+          description: "monitoria com o id especificado"
+          content:
+            application/json: {}
 
   /monitores:
     get:
+      responses:
+        "200":
+          description: "lista de todas os monitores"
+          content:
+            application/json: {}
 
   /monitor/{id}:
     get:
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int32
+
+      responses:
+        "200":
+          description: "monitor com o id especificado"
+          content:
+            application/json: {}
 
   /disciplinas:
     get:
+      responses:
+        "200":
+          description: "lista de todas as disciplinas"
+          content:
+            application/json: {}
 
   /disciplina/{id}:
     get:
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int32
+
+      responses:
+        "200":
+          description: "disciplina com o id especificado"
+          content:
+            application/json: {}
 
   /alunos:
     get:
+      responses:
+        "200":
+          description: "lista de todas os alunos"
+          content:
+            application/json: {}
 
   /aluno/{id}:
     get:
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int32
+
+      responses:
+        "200":
+          description: "aluno com o id especificado"
+          content:
+            application/json: {}
