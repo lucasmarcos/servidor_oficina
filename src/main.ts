@@ -1,6 +1,11 @@
 import express from "express";
 
-import { EXEMPLO_ALUNOS, EXEMPLO_MONITORES, EXEMPLO_MONITORIAS, EXMPLO_DISCIPLINAS } from "./data.js";
+import {
+  EXEMPLO_ALUNOS,
+  EXEMPLO_MONITORES,
+  EXMPLO_DISCIPLINAS,
+} from "./data.js";
+import { EXEMPLO_MONITORIAS } from "./exemplo.js";
 
 /*
 

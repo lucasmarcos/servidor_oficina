@@ -1,0 +1,2973 @@
+[
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Fundamentos dos Cálculos em Engenharia",
+    "monitor": "Leticia Cremonesi Ganacin",
+    "remoto": [
+      "terça: das 19:30 às 23:00"
+    ],
+    "resencial": [
+      "segunda: das 13:00 às 13:50",
+      "terça: das 13:00 às 13:50",
+      "quarta: das 08:20 às 12:00 e 18:40 às 20:20"
+    ],
+    "local": "H104",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/anm-aavk-hmt"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Fundamentos de Química/EL31I e Química Experimental/EL32K",
+    "monitor": "André Luiz Neres Zanella",
+    "remoto": [
+      "terça: das 19:30 às 23:00",
+      "quarta: das 18:40 às  20:20"
+    ],
+    "resencial": [
+      "quarta: das 13:00 às 15:30",
+      "quinta: das 13:00 às 15:30"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/czs-xqnn-vng"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Cálculo Diferencial e Integral 3",
+    "monitor": "Nathalie Ladares de Araujo",
+    "remoto": [
+      "terça: das 19:30 às 21:10",
+      "quinta: das 13:00 às 16:40"
+    ],
+    "resencial": [
+      "segunda: das 08:20 às 12:00",
+      "quarta: das 15:50 às 17:30"
+    ],
+    "local": "H104",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/wrt-jywf-imn"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Cálculo Número",
+    "monitor": "Emilli Fernanda Cruz de Oliveira",
+    "remoto": [
+      "terça: das 19:30 às 21:10",
+      "quinta: das 13:00 às 16:40"
+    ],
+    "resencial": [
+      "segunda: das 08:20 às 12:00",
+      "quarta: das 17:30 às 19:30"
+    ],
+    "local": "H104",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/sfw-dprr-npv"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Fundamentos de Programação (CV32A)",
+    "monitor": "Egon Stolte Neto",
+    "remoto": [
+      "segunda: das 18:40 às 21:10",
+      "terça: das 18:40 às 21:10",
+      "quinta: das 18:40 às 21:10"
+    ],
+    "resencial": [
+      "quarta: das 18:40 às 21:10"
+    ],
+    "local": "H104",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/osw-jpgq-kfu"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Física III / FS3X3; EA34C; LQM35A",
+    "monitor": "LUIZ GUSTAVO VIEIRA SAMPAIO",
+    "remoto": [
+      "segunda: das 07:30 às 09:10",
+      "quarta: das 10:20 às 12:00",
+      "sexta: das 10:20 às 12:00"
+    ],
+    "resencial": [
+      "terça: das 15:50 às 17:30",
+      "quarta: das 13:50  às 15:30",
+      "quinta: das 15:50 às 17:30"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/dno-unee-rja"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Física I",
+    "monitor": "Gustavo Honório dos Santos",
+    "remoto": [
+      "quarta: das  13:00 às 13:50",
+      "sexta: das  13:00 às 16:40"
+    ],
+    "resencial": [
+      "terça: das 15:50 às  17:30",
+      "quarta: das 13:50  às 15:30",
+      "quinta: das 13:00 às 15:30"
+    ],
+    "local": "H104",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ery-gcfj-mty"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Física 2",
+    "monitor": "Gabriel Pitondo Rossini",
+    "remoto": [
+      "segunda: das 16:40 às 19:30",
+      "terça: das 18:40 às 20:20",
+      "quarta: das 16:40 às 19:30"
+    ],
+    "resencial": [
+      "segunda: das 08:20 às 10:00",
+      "quarta: das 08:20 às 10:00",
+      "sexta: das 15:50 às 17:30"
+    ],
+    "local": "H104",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/qfi-eikn-mkh"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Mecânica Geral 1",
+    "monitor": "Marcos Vinicius Ferreira Da Silva",
+    "remoto": [
+      "segunda: das 18:40 às 21:10",
+      "quarta: das 18:40 às 21:10",
+      "sexta: das 18:40 às 21:10"
+    ],
+    "resencial": [
+      "segunda: das 09:10 às 10:00",
+      "terça: das 09:10 às 10:00",
+      "quarta: das 09:10 às 10:00"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/zpq-mayi-bnp e e-mail: marcossilva.2001@alunos.utfpr.edu.br"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Ciência Dos Materiais Para Engenharia Civil",
+    "monitor": "Gabriel Baiesteiro Lopes",
+    "remoto": [
+      "quinta: das 17:30 às 20:30",
+      "sexta: das 17:30 às 19:30"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/vty-hyzm-tpr"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Geoprocessamento",
+    "monitor": "Kelly Maria Coelho",
+    "remoto": [
+      "quarta: das 17:30 às 20:20",
+      "quinta: das 17:30 às 20:20"
+    ],
+    "resencial": [
+      "terça: das 15:50 às 18:20",
+      "sexta: das 08:20 às 11:10"
+    ],
+    "local": "F008",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/erd-yyck-psy"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Princípios de Máquinas Elétricas LT35D",
+    "monitor": "Jonatas Silva Tank",
+    "remoto": [
+      "segunda: das 10:20 às 12:00",
+      "sexta: das 13:50 às 17:30"
+    ],
+    "resencial": [
+      "terça: das 15:50 às 17:30",
+      "quarta: das 13:00 às 15:30"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/kmw-myrp-shi"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Probabilidade e Estatística/PB3XB",
+    "monitor": "Rhenan Batista Martins",
+    "remoto": [
+      "quarta: das 18:40 às 21:10",
+      "quinta: das 14:40 às 17:30"
+    ],
+    "resencial": [
+      "< escreva aqui os dias e horários, por exemplo: >",
+      "segunda: das 13:00 às 13:50 e 17:30  às  18:20",
+      "terça: das 13:00 às 13:50 e 16:40 às 18:20",
+      "quarta: das 13:00 às 13:50"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/bus-gcgw-oow"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Algoritmos, Algoritmos e Estruturas de Dados 1 e Algoritmos e Estruturas de Dados 2",
+    "monitor": "Gabriela Paola Sereniski",
+    "remoto": [
+      "quinta: das 10:20 às 12:00",
+      "sexta: das 19:30 às 23:00"
+    ],
+    "resencial": [
+      "segunda: das 17:30 às 18:20",
+      "terça: das 17:30 às 19:30",
+      "quarta: das 17:30 às 18:20",
+      "sexta: das 15:50 às 17:30"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/iqw-iiwe-git"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Viab. Econômica, Eng. Econômica, Adm. Financeira",
+    "monitor": "Ana Caroline Teixeira",
+    "remoto": [
+      "terça: das 14:00 às 17:00 e 19:00 às 21:00",
+      "quinta: das 14:00 às 16:00 e 18:00 às 20:00",
+      "sexta: das 14:00 às 17:00"
+    ],
+    "resencial": [],
+    "local": "H104",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/jbt-wqavekc?pli=1&authuser=0"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Arquitetura e Organização de Computadores/Elementos de Lógica Digital",
+    "monitor": "Breno Farias da Silva",
+    "remoto": [
+      "segunda: das 11:10 às 12:00",
+      "terça: das 07:30 às 08:20 e 11:10 às 12:00",
+      "quarta: das 11:10 às 12:00",
+      "quinta: das 11:10 às 12:00",
+      "sexta: das 11:10 às 12:00"
+    ],
+    "resencial": [
+      "segunda: das 17:30  às 19:30",
+      "quarta: das 19:30 às 21:10",
+      "quinta:  das 17:30  às 19:30"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/zic-mmox-cqa"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "CÁLCULO DIFERENCIAL E INTEGRAL 1",
+    "monitor": "Gustavo Cesar Moura Figueiredo",
+    "remoto": [
+      "segunda: das 08:20 às 09:10 e 17:30 às 19:30",
+      "quarta: das 13:00 às 13:50",
+      "sexta: das 09:10 às 11:10"
+    ],
+    "resencial": [
+      "terça: das 17:30 às 19:30",
+      "quarta: das 17:30 às 19:30",
+      "quinta:  das 17:30 às 19:30"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/jyg-eitu-jvy"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Geometria Analítica e Álgebra Linear",
+    "monitor": "Huesley Silva Candido",
+    "remoto": [
+      "terça: das 16:00 às 17:00",
+      "sexta: das 13:00 às 16:00 e 19:00 às 20:00"
+    ],
+    "resencial": [
+      "segunda: das 17:00 – 18:00",
+      "quinta: das 17:00 às 21:00"
+    ],
+    "local": "CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/ywy-hzgb-znw"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Cálculo Diferencial e Integral 2",
+    "monitor": "Daniel Marcelo Evangelista Da Silva",
+    "remoto": [
+      "terça:  das 13:00 às 15:30",
+      "sexta: das 18:40 às 21:10"
+    ],
+    "resencial": [
+      "segunda: das 13:00 às 15:30",
+      "sexta: das 13:00 às 15:30"
+    ],
+    "local": "H104",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/mre-tvdf-iiu"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "BANCO DE DADOS 1",
+    "monitor": "REGINALDO GREGÓRIO DE SOUZA NETO",
+    "remoto": [
+      "segunda: das 18:40 às 19:30 e 21:20 às 23:00",
+      "quarta: das  21:20 às 23:00"
+    ],
+    "resencial": [
+      "quarta: das 13:00 às 15:30",
+      "quinta: das 13:00 às 13:50 e 17:30 às 18:20"
+    ],
+    "local": "E003",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/oca-icgg-ujs"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Equações Diferenciais Ordinárias (PP54A)",
+    "monitor": "ATHOS VICTOR MORAES PELISSARI",
+    "remoto": [
+      "Terça: das 18:40 às 21:10",
+      "Quarta: das 18:40 às 21:10"
+    ],
+    "resencial": [
+      "Terça: das 16:40 às 18:40",
+      "Quarta: das 16:40 às 18:40",
+      "Quinta: das 16:40 às 18:40"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/vrq-qvbu-fbq"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Cálculo Diferencial e Integral I (PP51A)",
+    "monitor": "LETÍCIA MARTINS DOS SANTOS",
+    "remoto": [
+      "Quarta: das 18:40 às 20:20",
+      "Sexta: das 09:10 às 11:10 e 18:40 às 20:20"
+    ],
+    "resencial": [
+      "Segunda: das 19:30 às 21:10",
+      "Terça: das 18:40:10 às 20:20",
+      "Quinta: 09:10 às 10:00 e 19:30 às 20:20"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/crv-nbmd-amc"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Análise de Circuitos Elétricos 1 (EE54C)",
+    "monitor": "THIAGO RODRIGUES",
+    "remoto": [
+      "Quarta: 20:20 às 22:05",
+      "Quinta: das 20:20 às 22:05",
+      "Sexta: 19:30 às 20:20"
+    ],
+    "resencial": [
+      "Segunda: 07:30 às 08:20",
+      "Terça: das 10:20 às 12:00 e 15:50 às 17:30",
+      "Quinta: 07:30 às 09:10"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/ohx-rvcp-jkf"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Cálculo Diferencial e Integral I (PP51A)",
+    "monitor": "MARCOS ANTÔNIO SEDANO SOLETTI",
+    "remoto": [
+      "Quarta: das 18:40  às  21:10",
+      "Quinta: das 19:30 às  21:10"
+    ],
+    "resencial": [
+      "Segunda: 19:30 às 21:10",
+      "Terça: das 10:20 às 12:00",
+      "Quinta: das 13:00 às 14:40",
+      "Sexta: 13:00 às 13:50"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/abv-gqso-pup?authuser=1"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Desenho Técnico (TECN51E)",
+    "monitor": "VINICIUS LIMA PASSOLONGO",
+    "remoto": [
+      "Segunda: das 10:20 às 12:00",
+      "Terça: das 13:00 às 15:30"
+    ],
+    "resencial": [
+      "Quarta: das 18:40 às 20:20",
+      "Sexta: das  08:20 às 12:00 e 13:00 às 13:50"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/sck-axvi-wge"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Física 2 (PP52B) e Física B (Fis102)",
+    "monitor": "THIAGO FREIRE DE ALMEIDA",
+    "remoto": [
+      "Segunda: 17:50 às 18:40",
+      "Terça: das 13:00 às 13:50 e 17:50 às 18:40",
+      "Quarta: das 17:50 às 18:40",
+      "Quinta: das 13:00 às 13:50 e 17:50 às 18:40",
+      "Sexta: das 17:50 às 18:40"
+    ],
+    "resencial": [
+      "Segunda: das 07:30 às 08:20",
+      "Terça: das 07:30 às 09:10",
+      "Quarta: das 07:30 às 08:20",
+      "Quinta: das 07:30 às 08:20"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/nms-prbe-gqi"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Geometria Analítica e Álgebra Linear (PP51F)",
+    "monitor": "UELINTON SOTO SILVA",
+    "remoto": [
+      "Segunda: das 13:00 às 13:50 e 21:20 às 22:05",
+      "Quinta: das 13:00 às 13:50 e 19:30 às 20:20",
+      "Sexta: das 09:10 às 10:00"
+    ],
+    "resencial": [
+      "Segunda: das 08:20 às 10:00 e 19:30 às 21:10",
+      "Terça: das 20:20 às 22:05",
+      "Quinta: das 20:20 às 22:05",
+      "Sexta: 08:20 às 09:10 e 13:00 às 13:50"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ivn-miru-vsq"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Química Analítica (EG52C)",
+    "monitor": "ESTELA SALES HEILMANN",
+    "remoto": [
+      "Quarta: das 11:10 às 12:00",
+      "Quinta: das 18:40 às 20:20",
+      "Sábado: das 10:20 às 12:00"
+    ],
+    "resencial": [
+      "Segunda: das 08:20 às 11:10 e 15:50 às 16:40",
+      "Quarta: das  08:20 às 11:10",
+      "Quinta: das  08:20 às 11:10"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/hby-jjtw-vjq"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Química Geral (QUI102)",
+    "monitor": "NATHANA CAVALCANTI DE ALBUQUERQUE SÁ",
+    "remoto": [
+      "Segunda: das 18:40 às 20:20",
+      "Terça: das 08:20 às 10:00",
+      "Quarta: das 15:50 às 17:30"
+    ],
+    "resencial": [
+      "Quarta: das  10:20 às 12:00",
+      "Sexta: das  15:50 às 17:30 e 19:30 às 21:10"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/rti-pvvb-dkk"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Sistemas Dinâmicos Lineares (EE55E)",
+    "monitor": "VITOR FELIPE ALEBRANTE",
+    "remoto": [
+      "Terça: das 17:50 às 19:30",
+      "Quinta: das 17:50 às 18:40",
+      "Sexta: das 08:20 às 10:00"
+    ],
+    "resencial": [
+      "Segunda: das 17:50 às 19:30",
+      "Quarta: das 08:20 às 10:00",
+      "Quinta: das 18:40 às 19:30",
+      "Sexta: das 13:00 às 14:40"
+    ],
+    "local": "Sala Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/eek-uyzw-fuc"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Operações Unitárias I (PP57A) e II (EL57A)",
+    "monitor": "JORGE FURTADO FERREIRA",
+    "remoto": [
+      "Segunda: das 21:20 às 22:05",
+      "Quarta: das 18:40 às 20:20",
+      "Sexta: das 18:40 às 21:10"
+    ],
+    "resencial": [
+      "Terça: das 13:00 às 17:30",
+      "Quarta: das 13:00 às 15:30"
+    ],
+    "local": "Sala de Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/kna-xisw-hgs"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Fundamentos de Programação (CC51B); Lógica Matemática (CC51A); Ling. de Programação Estruturada (CC52A); Pesquisa e Ordenação de Dados (CC54C); Computação 1 (PP52G); Estrutura de Dados (CC53C)",
+    "monitor": "MARLON DANIEL ANGELI",
+    "remoto": [
+      "Segunda: das 09:10 às 12:00",
+      "Sábado: das 08:20 às 11:10"
+    ],
+    "resencial": [
+      "Segunda: das 18:40 às 21:10",
+      "Quarta: das 18:40 às 21:10",
+      "Sexta: das 18:40 às 21:10"
+    ],
+    "local": "Sala de monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/mbt-vueo-ynm"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Cálculo Diferencial e Integral II (PP52A)",
+    "monitor": "ALEXANDRE LIMA BRITO",
+    "remoto": [
+      "Segunda: das 13:00 às 15:30",
+      "Quinta: das 07:30 às 09:10"
+    ],
+    "resencial": [
+      "Segunda: das 10:20 às 12:00",
+      "Quinta: das 09:10 às 10:00",
+      "Sexta: das 11:10 às 12:00 e 18:40 às 21:10"
+    ],
+    "local": "Sala de Monitoria (E12)",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/vgg-uhdc-eri"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Sistemas de Controle 1 - SC25EL/ SC25CP e Sistemas Lineares - SL24EL/ SL24CP",
+    "monitor": "Jessica Miglioranza",
+    "remoto": [
+      "    Terça-Feira: das 19h30 às 20h20.",
+      "Quarta-Feira: das 10h20 às 12h00 e das 19h30 às 20h20.",
+      "Sexta-Feira: das 10h20 às 12h00."
+    ],
+    "resencial": [
+      "    Terça-Feira: das 10h20 às 12h00 e das 15h50 às 17h30.",
+      "Quinta-Feira: das 10h20 às 12h00."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ugz-ngds-qhs"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Estrutura de Dados, Pesquisa e Ordenação - ED22S Algoritmos e Estruturas de Dados 1 - AE22CP",
+    "monitor": "João Henrique Pereira Machado",
+    "remoto": [
+      "    Terça-Feira: das 15h50 às 18h20 e das 18h40 às 21h10."
+    ],
+    "resencial": [
+      "    Quarta-Feira: das 13h00 às 15h30.",
+      "Sexta-Feira:     das 13h00 às 15h30."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/dxR33q92"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Circuitos Digitais - CD24EL e CD24CP Sistemas Digitais- SD25EL e SD25CP",
+    "monitor": "Diego Ferreira Mafessoni",
+    "remoto": [
+      "    Sexta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00. das 13h50 as 15h30 e das 15h50 às",
+      "16h40."
+    ],
+    "resencial": [
+      "    Terça-Feira: das 14h40 às 15h30 e das 15h50 às 17h30.",
+      "Quinta-Feira:     das 14h40 às 15h30 e das 15h50 às 17h30."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/amr-acbu-pyz"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Análise de circuitos elétricos 1 - AC24NB e AC24MC",
+    "monitor": "Lauro Roberto Albuquerque",
+    "remoto": [
+      "    Segunda-Feira: das 09h10 às 10h00 e das 10h20 às 12h00.",
+      "Quinta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00."
+    ],
+    "resencial": [
+      "    Quarta-Feira: das 13h50 às 15h30.",
+      "Quinta-Feira: das 13h50 às 15h30.",
+      "Sexta-Feira: das 13h50 às 15h30."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/yhb-rwwu-sik"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Física 2 - FI22NB",
+    "monitor": "Pedro Alan Azevedo de Souza",
+    "remoto": [
+      "    Segunda-Feira: das 18h40 às 21h10.",
+      "Quinta-Feira: das 18h40 às 21h10."
+    ],
+    "resencial": [
+      "    Quarta-Feira: das 13h00 às 15h30.",
+      "Quinta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/dcw-sryv-yts"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Física 1 - FI21NB",
+    "monitor": "Arthur Bender Ferraz",
+    "remoto": [
+      "    Terça-Feira: das 18h40 às 21h10 e das 21h20 às 22h10.",
+      "Quarta-Feira: das 19h30 às 20h20."
+    ],
+    "resencial": [
+      "    Segunda-Feira: das 09h10 às 10h00.",
+      "Terça-Feira: das 13h00 às 13h50.",
+      "Quarta-Feira: das 13h00 às 15h30.",
+      "Sexta-Feira:     das 13h00 às 13h50."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/mpx-qdfm-wrb"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Física 1 - FI21NB",
+    "monitor": "Letícia Cruz",
+    "remoto": [
+      "    Quarta-Feira: das 18h40 às 20h20.",
+      "Quinta-Feira: das 18h40 às 20h20.",
+      "Sexta-Feira: das 13h00 às 14h40."
+    ],
+    "resencial": [
+      "    Segunda-Feira: das 13h00 às 13h50.",
+      "Quarta-Feira: das 13h00 às 13h50.",
+      "Quinta-Feira: das 08h20 às 10h00 e das 15h50 às 17h30."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/twm-mgsc-rkc"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Equações Diferenciais Ordinárias - ED23NB",
+    "monitor": "Renata Fernanda Nunes",
+    "remoto": [
+      "    Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 22h10.",
+      "Quarta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10.",
+      "Quinta-Feira: das 13h50 às 15h30."
+    ],
+    "resencial": [
+      "    Terça-Feira: das 13h00 às 13h50.",
+      "Quarta-Feira: das 13h00 às 13h50.",
+      "Quinta-Feira: das 17h30 às 18h20.",
+      "Sexta-Feira:     das 12h00 às 12h50. das 13h00 às 13h50 e das 17h30 às 18h20."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/zrp-jyqn-scq"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Geometria Analítica e Algebra Linear - GA21NB/ AL32QB/ AL22G/ GA22M/ GA24M/IA25M/AL26M",
+    "monitor": "Eduarda Amanda Schneider",
+    "remoto": [
+      "Segunda-Feira: das 18h40 às 21h10",
+      "Terça-Feira: das 18h40 às 21h10"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 07h30 às 08h20",
+      "sexta-feira: das 7h30 às 10h00 e 10h20 às 12h00."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/gzs-jucb-hsh"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Probabilidade e Estatística- PE22NB",
+    "monitor": "Vinícius Duarte Virtuoso",
+    "remoto": [
+      "Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 23h00",
+      "Terça-Feira: das 20h20 às 21h10 e das 21h20 às 23h00"
+    ],
+    "resencial": [
+      "Dias e horários de atendimento presencial no campus:",
+      "Segunda-Feira: das 15h50 às 17h30",
+      "Terça-Feira: das 13h00 às 13h50",
+      "Quarta-Feira: das 13h00 às 14h40",
+      "Sexta-Feira: das 13h00 às 13h50"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/kcw-bdmk-hsy"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Sistemática Vegetal - SV22G",
+    "monitor": "Eliane Magda Martelli",
+    "remoto": [
+      "Terça- Feira: das 18h40 às 19h30.",
+      "Quinta-Feira: das 18h40 às 19h30.",
+      "Sexta-Feira: das 13h50 às 15h30 e das 15h50 às 17h30."
+    ],
+    "resencial": [
+      "Segunda-Feira: das 13h00 às 15h30",
+      "Quarta-feira: e das 13h00 às 13h50.",
+      "Quinta-Feira: das 15h50 às 17h30."
+    ],
+    "local": "Laboratório de Botânica",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/tfq-wsmq-efp"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Física do Solo - FS23G",
+    "monitor": "Julia Balbinotti",
+    "remoto": [
+      "Segunda-Feira: das 17h30 às 18h20.",
+      "Quarta-Feira: das 09h10 às 10h00 e das 17h30 às 18h20."
+    ],
+    "resencial": [
+      "Segunda-Feira: das 16h40 às 17h30.",
+      "Terça-Feira: das 10h20 às 11h10.",
+      "Quarta-Feira: das 10h20 às 11h10."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/qgc-uyko-yvx"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Probabilidade e Estatística - PE22G",
+    "monitor": "Fernanda Scheibel Nascimento",
+    "remoto": [
+      "    Segunda-Feira: das 16h40 às 18h20 e das 18h40 às 19h30.",
+      "Sexta-Feira: das 16h40 às 18h20 e das 18h40 às 19h30."
+    ],
+    "resencial": [
+      "    Segunda-Feira: das 07h30 às 08h20.",
+      "Terça-Feira: das 12h00 às 12h50 e das 13h00 às 13h50.",
+      "Quarta-Feira: das 07h30 às 08h20.",
+      "Quinta-Feira: das 12h00 às 12h50 e das 13h00 às 13h50."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/pxy-wemp-wtv"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Experimentação Agrícola - EA25G",
+    "monitor": "Lahura Ignes Giongo",
+    "remoto": [
+      "Sábado: das 09h10 às 12h50."
+    ],
+    "resencial": [
+      "Terça-Feira: das 09h10 às 10h e das 13h às 13h50",
+      "Quinta-Feira: das 11h10 às 12h e das 13h às 13h50."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/rnp-gway-pva"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Mecânica Geral 1 - MG24NB",
+    "monitor": "Matheus Vilarinho Machado Brasilino",
+    "remoto": [
+      "    Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 16h40."
+    ],
+    "resencial": [
+      "    Quarta-Feira: das 10h20 às 12h00."
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/okg-rmnh-qzp"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Cálculo Diferencial e Integral 2 - CD22NB",
+    "monitor": "Murilo Antonio Severo",
+    "remoto": [
+      "Terça-Feira: das 21h20 às 23h00",
+      "Quarta-Feira: das 21h20 às 23h00",
+      "Quinta-Feira: das 21h20 às 23h00"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 13h00 às 13h50 e das 18h40 às 20h20",
+      "Terça-Feira: das 13h00 às 13h50",
+      "Quinta-Feira: das 11h10 às 12h00 e das 13h00 às 13h50"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://t.me/calculo2monitoria"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Cálculo Diferencial e Integral 3 - CD23NB",
+    "monitor": "Vinícius Ferraz Pacheco",
+    "remoto": [
+      "Segunda-Feira: das 8h20 às 10h00",
+      "Quarta-Feira: das 8h20 às 10h00",
+      "Sexta-Feira: das 8h20 às 10h00"
+    ],
+    "resencial": [
+      "Terça-Feira: das 13h50 às 15h30",
+      "Quarta-Feira: das 13h50 às 15h30",
+      "Quinta-Feira: das 13h50 às 15h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ium-xpum-uqv"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Variáveis Complexas - VC23NB",
+    "monitor": "Jeferson Vicari",
+    "remoto": [
+      "Segunda-Feira: das 7h30 às 9h10",
+      "Quinta-Feira:das 19h30 às 21h10 e das 21h20 às 22h10"
+    ],
+    "resencial": [
+      "Terça-Feira: das 18h40 às 21h10",
+      "Quarta-Feira: das 7h30 às 10h00"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/twy-vfkj-zuv"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Cálculo Diferencial e Integral 2 - CD22NB",
+    "monitor": "Letícia Ferreti",
+    "remoto": [
+      "Quinta-Feira: das 12h00 às 12h50 e das 13h00 às 15h30 e das 15h50 às 17h30"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 16h40 às 18h20",
+      "Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 17h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://t.me/calculo2monitoria"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Introdução À Análise Matemática - IA27M",
+    "monitor": "João Pedro Galdino Pillar",
+    "remoto": [
+      "Terça-Feira: das 13h50 às 15h30",
+      "               Sexta-Feira: das 13h50 às 15h30"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 21h20 às  23h00",
+      "Terça-Feira: das 18h40 às 19h30",
+      "Quinta-Feira: das 18h40 às 19h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.ge.com/rmx-pzqn-zxpoogl"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Cálculo Numérico - CN24NB",
+    "monitor": "Matheus Chaves de Almeida",
+    "remoto": [
+      "Terça-Feira: das 18h40 às 19h30",
+      "Quarta-Feira: 18h40 às 20h20"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 13h50 às 14h40",
+      "Quinta-Feira: das 13h50 às 15h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/fzn-ihao-dap"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Mecânica Geral 1 MG24NB",
+    "monitor": "Camila Poltroniere",
+    "remoto": [
+      "Segunda-Feira: das 18h40 às 20h20",
+      "Terça-Feira: das 18h40 às 20h20",
+      "Quinta-Feira: das 18h40 às 20h20"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 10h20 às 12h00 e das 13h00 às 13h50",
+      "Terça-Feira: das 7h30 às 9h10",
+      "Quarta-Feira: das 13h00 às 13h50"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/hkd-crxr-zdx"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Química Geral, Inorgânica 1 e Inorgânica 2 - QU22NB",
+    "monitor": "Vitor Sangalli Strabelli",
+    "remoto": [
+      "Segunda-Feira: das 13h00 às 14h40",
+      "Sexta-Feira: das 8h20 às 9h10 e das 13h00 às 15h30"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 14h40 às 15h30 e das 15h50 às 17h30",
+      "Terça-Feira: das 13h00 às 15h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/ovf-shrk-vhk"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Química Analítica 1/QA33QB",
+    "monitor": "Hodikson Paz",
+    "remoto": [
+      "Segunda-Feira: 13h50 às 15h30 e das 15h50 às 16h40"
+    ],
+    "resencial": [
+      "Quarta-Feira: das 11h10 às 12h00 e das 15h50 às 17h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/unu-nrph-ykt"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Operações Unitárias 1 e 2 OU34QB/ OU35QB",
+    "monitor": "Danilo Damico Brauna Avanso Urzulin",
+    "remoto": [
+      "Quinta-Feira: das 9h10 às 10h00 e das 10h20 ás 12h00"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 13h00 às 15h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/apt-ztog-vwn"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Resistência dos Materiais-RM25CV",
+    "monitor": "Andre Matheus",
+    "remoto": [
+      "Quarta-Feira: das 13H50 às 15h30 e das 15h50 às 16h40",
+      "        Quinta-Feira:  das 13H50 às 15h30 e das 15h50 às 16h40"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 13H50 às 15h30 e das 15h50 às 16h40",
+      "        Terça-Feira: das 13H50 às 15h30 e das 15h50 às 16h40"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ein-mawh-iyh"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Cálculo Numérico CN24NB / CN25M",
+    "monitor": "João Vitor Padoin",
+    "remoto": [
+      "Quarta-Feira: das 16h40 às 18h20 e das 18h40 às 19h30",
+      "Sexta-Feira: das 13h00 às 15:30"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 17h30 às 18h20",
+      "Quinta-Feira: das 8h20 às 10h00 e das 15h50 às 16h40",
+      "Sexta-Feira: das 8h20 às 10h00"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/fpb-toei-asz"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Calculo Diferencial e Integral I CD21NB/CA31QB/CD21G/CD23M/CA31M",
+    "monitor": "Adrean Souza Rafael",
+    "remoto": [
+      "Quarta-Feira:das 9h10 às 10h00 e das 10h20 às 12h00",
+      "Quinta-Feira:das 9h10 às 10h00 e das 10h20 às 12h00"
+    ],
+    "resencial": [
+      "Segunda-Feira:das 10h20 às 11h10 e das 12h00 às 12h50",
+      "Terça-Feira: das 13h50 às 15h30",
+      " Sexta-Feira: das 17h30 às 18h20 e das 18h40 Às 19h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/fow-ovbq-cwb"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Calculo Diferencial e Integral I CD21NB/CA31QB/CD21G/CD23M/CA31M",
+    "monitor": "Davi Cantu Messias",
+    "remoto": [
+      "Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 22h10",
+      "Quarta-Feira: das 18h40 às 20h20",
+      "Quinta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10"
+    ],
+    "resencial": [
+      "Segunda-Feira: 17h30 às 18h20",
+      "Terça-Feira: 17h30 às 18h20",
+      "Quarta-Feira: das 13h00 às 14h40",
+      "Quinta-Feira: das 13h00 às 13h50",
+      "Sexta-Feira: das 13h50 às 14h40"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/rex-ognn-cgtt"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "QA12I; QA12R e QA31F - QUÍMICA ANALÍTICA QUANTITATIVA, QUÍMICA ANALÍTICA e QUÍMICA ANALÍTICA A",
+    "monitor": "Stella Silva Mascarenhas Chaves",
+    "remoto": [
+      "terça: das 16:00 às 19:00",
+      "quarta: das 15:00 às 17:00"
+    ],
+    "resencial": [
+      "segunda: das 13;00 às 16:00",
+      "sexta: das 15:00 às 17:00"
+    ],
+    "local": "B3S3",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/jyh-vmrp-wbx"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "QUÍMICA ANALÍTICA QUANTITATIVA, QUÍMICA ANALÍTICA E QUÍMICA ANALÍTICA A, código(s) QA12I, QA12R",
+    "monitor": "GUILHERME PEREIRA DE OLIVEIRA",
+    "remoto": [
+      "terça: das 18:00 às 20:00",
+      "sexta: das 15:00 às 18:00"
+    ],
+    "resencial": [
+      "segunda: das 13:00 às 15:00",
+      "quarta: das 16:00 às 18:00",
+      "quinta: das 15:00 às 16:00"
+    ],
+    "local": "sala B3S4",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/amd-cqdp-esm"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "CA32F, CA12R, MA41B - CÁLCULO A, Cálculo A, Matemática",
+    "monitor": "Giovana Café Batista Lino",
+    "remoto": [
+      "segunda: das 19:00 às 20:40",
+      "terça: das 19:00 às 20:40",
+      "sexta: das 09:10 às 10:00 e das 10h20 às 11h10"
+    ],
+    "resencial": [
+      "segunda: das 15:50 às 17:30 sala b3s4",
+      "terça: das 13:00 às 14:40 sala b3s4",
+      "quarta: das 13:00 s 14:40 sala b3s4",
+      "sexta: das 09:10 às 10:00 e das 10h20 às 11h10"
+    ],
+    "local": "sala B3S3 ou B3S4",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/xjg-omec-wcm"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "GS15R - Geoprocessamento e Sensoriamento Remoto",
+    "monitor": "Giovana Aparecida Calixto Dos Santos",
+    "remoto": [
+      "quinta: das 8:00 às 11:00"
+    ],
+    "resencial": [
+      "segunda: das 13:00 às 15h:00"
+    ],
+    "local": "Laboratório de Topografia e Geoprocessamento",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/rou-auyx-qqh"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "GP38C - Genética de populações",
+    "monitor": "Camila Luiza Comelli",
+    "remoto": [
+      "quarta: das 09:00 às 11:00"
+    ],
+    "resencial": [
+      "terça: das 19:00 às 21:00"
+    ],
+    "local": "https",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/gcv-oryx-qqs"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "BF35F",
+    "monitor": "< escreve aqui o nome completo do monitor >",
+    "remoto": [
+      "terça: das 19:00 às 21:00",
+      "quarta: das 16:00 às 17:00",
+      "sexta: das 16:00 às 17:00"
+    ],
+    "resencial": [
+      "segunda: das 08:00 às 10:00",
+      "quinta: das 13:00 às 15:00"
+    ],
+    "local": "Laboratório de Manejo Florestal LAMAF BLOCO E4",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/dbc-bpuw-pcj"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "GG34C - Genética Geral e Humana",
+    "monitor": "Isabela Pierozan Paludo",
+    "remoto": [
+      "quinta: das 16:00 às 19:00",
+      "sexta: das 17:00 às 19:00"
+    ],
+    "resencial": [
+      "quarta: das 14:00 às 19:00"
+    ],
+    "local": "Laboratório de biologia molecular no G10",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/trm-togt-kmr"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "TP13R - Topografia I",
+    "monitor": "Marcos Felipe Dos Santos Bueno",
+    "remoto": [
+      "terça: das 18:00 às 19:00",
+      "quarta: das 08:00 às 12:00"
+    ],
+    "resencial": [
+      "segunda: das 08:00 às 09:00 e das 13:00 às 17:00"
+    ],
+    "local": "Laboratório de Topografia e Geoprocessamento",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/upw-htis-cbg"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "AH33C - Anatomia Humana",
+    "monitor": "Marieli Zamprogna",
+    "remoto": [
+      "segunda: das 15:00 às 17:00"
+    ],
+    "resencial": [
+      "segunda: das 17:00 às 19:00"
+    ],
+    "local": "Laboratório de Anatomia e Fisiologia Humana (Bloco E5).",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/cfh-ynfx-fcx"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "AG21S, CP34F, IN12I - ALGORITMOS 1, COMPUTAÇÃO, INFORMÁTICA",
+    "monitor": "Guilherme Biava Rodrigues",
+    "remoto": [
+      "segunda: das 07:30 às 8:30 e das 15:10 às 16:10",
+      "terça: das 15:10 às 16:10",
+      "quarta: das 08:30 às 09:30",
+      "quinta: das 15:10 às 16:10",
+      "sexta: das 15:10 às 16:10"
+    ],
+    "resencial": [
+      "quarta: das 21:30 às 23:00",
+      "sexta: 20:30 às 23:00"
+    ],
+    "local": "Centro de Convivência MONITORIA SALA 1.",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/zzi-xdcz-fwt"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "BT42B, FV43B - ZOOTECNIA",
+    "monitor": "Luiza Fernanda da Silva",
+    "remoto": [
+      "terça: das 19:00 às 20:40",
+      "sexta: das 15:50 ´s 18:20"
+    ],
+    "resencial": [
+      "segunda: das 13:50 às 15:30",
+      "quarta: das 10:20 às 12:00",
+      "quinta: das 10:20 às 12:00"
+    ],
+    "local": "Salas de monitoria - CENTRO DE CONVIVÊNCIA",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/azw-qxnc-que"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "AL11R, AL21S e MA31F - Álgebra linear, Álgebra linear e Matemática A",
+    "monitor": "RICARDO MAX GONTARZ JUNIOR",
+    "remoto": [
+      "terça: das 13:30 às 16:30",
+      "quinta: das 13:30 às 15:30"
+    ],
+    "resencial": [
+      "segunda: das 13:30 às 15:30 e das 16:30 às 18:30",
+      "sexta: das 20:30 às 21:30",
+      "Atendimento presencial sala: B5S2 (4 horas) (ATEND-P) - Segunda-feira",
+      "Centro de convivência sala 2 (1 hora) (ATEND -P) - Sexta -feira"
+    ],
+    "local": "B5S2 e Centro de convivência sala 2",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/bot-bwxz-tyb?authuser=1"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "DT11R, DT31F e DT12 - Desenho Técnico e Desenho Técnico Aplicado",
+    "monitor": "Jean Carlos Fries",
+    "remoto": [
+      "terça: das 19:00 às 21:00",
+      "quarta: das 18:00 às 21:00"
+    ],
+    "resencial": [
+      "segunda: das 13:00 às 15:00",
+      "sexta: das 13:00 às 16:00"
+    ],
+    "local": "Sala B8-S6",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "Sala Remota:"
+  },
+  {
+    "campus": "Dois Vizinhos",
+    "disciplina": "AG22S - Algoritmos 2",
+    "monitor": "Caiki de Melo Milani",
+    "remoto": [
+      "segunda: das 16h00 às 17h00",
+      "terça: das 16h00 às 17h00",
+      "quarta: das 16h00 às 17h00",
+      "quinta: das 16h00 às 17h00",
+      "sexta: das 16h00 às 17h00"
+    ],
+    "resencial": [
+      "segunda: das 18h00 às 19h00",
+      "terça: das 18h00 às 19h00",
+      "quarta: das 18h00 às 19h00",
+      "quinta: das 18h00 às 19h00",
+      "sexta: das 18h00 às 19h00"
+    ],
+    "local": "Laboratório de Informática 1",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ucn-ktda-htj"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Gestão de Custos GE15A",
+    "monitor": "Arthur Kreling Ozorio",
+    "remoto": [
+      "terça: das 17:50 às 18:40 e das 22:00 às 22:50",
+      "quarta: das 17:50 às 18:40",
+      "quinta: das 17:50 às 20:20",
+      "sexta: das  17:50 às 18:40 e das 21:10 às 22:50"
+    ],
+    "resencial": [],
+    "local": "",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/fux-miev-grd"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Cálculo Diferencial e Integral I MA65A",
+    "monitor": "Amanda Candido Ferreira",
+    "remoto": [
+      "segunda: das 14h40 às 17h30  (Não haverá atendimento no dia 12/09/2022)",
+      "terça: das 18h40 às 20h20   (Não haverá atendimento no dia 13/09/2022)",
+      "sábado: das 8h20 às 13h"
+    ],
+    "resencial": [],
+    "local": "",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ujz-ezes-dvn"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Pesquisa Operacional 1 AS15A",
+    "monitor": "Ana Paula Barbosa de Morais",
+    "remoto": [
+      "segunda: das 15:50 às 17:30",
+      "quarta: das 17:50 às 19:30"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/tfd-wizx-qkd"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Química inorgânica 1 QM82C",
+    "monitor": "Fernanda Roverato Moura",
+    "remoto": [
+      "Segunda feira - das 13h50 as 17h30"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/xja-yixv-qxr"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Microbiologia AL32D",
+    "monitor": "Gabriel José Couto",
+    "remoto": [
+      "sexta-feira das 18:40 a 21:10"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://tel.meet/rbb-uzgk-ygz?pin=6660686858185"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Transferência de Massa EQ67A",
+    "monitor": "Gabriel Spironelli Pinheiro",
+    "remoto": [
+      "segunda: Das 20h20 as 22h00",
+      "Terça: Das 13h00 as 14h40"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/wfp-vsqb-voe"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Física 3 FI94A, FI14A, FI64C, FI63C, FI63A, FI85A, FI85B",
+    "monitor": "Guilherme Machado Loureiro Schmidt",
+    "remoto": [
+      "segunda: Das 9h10min até às 11h10min e  das 19h30min até às 21h10min.",
+      "terça: das 18h40min até às 20h20min",
+      "quarta: das 19h30min até às 21h10min",
+      "quinta: das 17h50min até às 19h30min"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/zrk-rbby-hoa?authuser=1"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Introdução à Administração AD11A",
+    "monitor": "Guilherme Morete Felix",
+    "remoto": [
+      "quarta: das 18h40 até às 22h10"
+    ],
+    "resencial": [],
+    "local": "Não há.",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/rjb-nymm-xkq"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Expressão Gráfica DE61B",
+    "monitor": "Gustavo Moreira de Brito",
+    "remoto": [
+      "quinta: das 18h40 até às  21h10"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/quf-eymx-pir"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Física 1 FI92A; FI12A; FI83A",
+    "monitor": "Ivan Carrega",
+    "remoto": [
+      "segunda: das 9h30 às11h10",
+      "terça: das 18h40 às20h20",
+      "quarta: das 16h40 às 17h30"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/swz-rjgf-mzs"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Fundamentos de Química Orgânica 1 & Química Orgânica 1 QM62A; QM83E",
+    "monitor": "João Vítor do Nascimento",
+    "remoto": [
+      "terça: das 15:50 às 17:30",
+      "quinta: das 18:40 às 20:20",
+      "sexta: das 18:40 às 20:20"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/uwu-itnt-xtg"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Computação e Algoritmos IF62B",
+    "monitor": "Kádimo Augusto da Silva Souza",
+    "remoto": [
+      "terça: das 8h20 às 10h00",
+      "quarta: das 13h50 às 17h30",
+      "sábado: das 15h50 às 18h40"
+    ],
+    "resencial": [],
+    "local": "Não há.",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/bmj-tsyp-rym"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "(Cálculo Diferencial e Integral 1) e (Cálculo) MA61A e MA31-A",
+    "monitor": "Leandro Correia Martins",
+    "remoto": [
+      "segunda: das 14h40 às 17h30",
+      "terça: das 14h40 às 17h30",
+      "quarta: das 13h50 às 15h30"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/hgq-augu-qgd"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Desenho de máquina assistido por computador IF62A",
+    "monitor": "Leandro de Araujo Teixeira Leite",
+    "remoto": [
+      "< escreva aqui os dias e horários, por exemplo: >",
+      "segunda: das 10h20 às 12h",
+      "terça: das das 10h20 às 12h",
+      "quarta: das 21h20 as 22h10",
+      "quinta: das 21h20 as 22h10"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/frm-inrg-fqt"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Cálculo Diferencial E Integral 1 MA61A",
+    "monitor": "Leonardo Massayuki Fukuyama de Oliveira",
+    "remoto": [
+      "segunda: das 20h20 às 22h",
+      "terça: das 20h20 às 22h",
+      "quarta: das 20h20 às 22h",
+      "quinta: das 20h20 às 22h",
+      "sexta: das 20h20 às 22h"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/vhn-misd-bpb"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Geometria Analítica e Álgebra Linear MA61C e MA91B",
+    "monitor": "Luiz Fernando Baumann da Silva",
+    "remoto": [
+      "terça: das 15h50 às 18h20",
+      "quarta: das 18h40 às 20h20",
+      "quinta:  das 18h40 às 20h20",
+      "sabado: das 9:10 às12:00"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/hsb-gyyt-tqj"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Instalações em Sistemas Industriais EQ66C",
+    "monitor": "Marcus Pedrofeza de Andrade",
+    "remoto": [
+      "terça: das 16:40 às 18:20",
+      "quinta: das 16:40 às 18:20",
+      "sexta: das 19:30 às 21:10"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/oya-cxwv-gwe"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Fundamentos de Química Orgânica 2 QM63B",
+    "monitor": "Maria Eduarda Bueno Caldeira",
+    "remoto": [
+      "segunda: das 9h30 às11h",
+      "quarta: das 19h às 20h",
+      "quinta: das 9h30 às11h",
+      "sexta: das 13h50 às 15h30"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/zdg-gcsp-vxt"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Equações Diferenciais e Ordinárias MA63C-EQ31; MA63E-AS31; MA13A EP33",
+    "monitor": "Júlia Canalli dos Santos",
+    "remoto": [
+      "terça: das 16h40 às 18h20",
+      "quarta: das 18h40 às 20h20",
+      "sexta: das 15:50 as 17:30"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/asn-wuoe-oyn"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Cálculo 3 MA63D",
+    "monitor": "Samuel Ferraz Toledo",
+    "remoto": [
+      "segunda: das 20h20 às 22h00 (online - endereço no cabeçalho)",
+      "terça: das 17h40 às 18h30 (presencial - sala k-211 - campus Londrina) e das  18h40 até 19h30 (k314)",
+      "quinta: das 20h20 às 21h10 (online - endereço no cabeçalho)"
+    ],
+    "resencial": [],
+    "local": "K211",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ypr-pmbf-zok"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Mecânica dos Sólidos A MM64-A",
+    "monitor": "Vinícius Fiori Souza",
+    "remoto": [
+      "segunda: das 8:20 as 10:00 e das 13:00 as 14:40",
+      "terça: das 15:50 às 17:30",
+      "sexta: das 10:20 às 12:00",
+      "OBS: Na semana de 12 a 16 de setembro de 2022 não haverá atendimento devido a Semana Acadêmica"
+    ],
+    "resencial": [],
+    "local": "K111",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "Não há"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Qualidade da Água EA65A",
+    "monitor": "Vitor Antonio Campos",
+    "remoto": [
+      "sexta: das10:20 às 12:00 (presencial, Sala S04, campus Londrina)"
+    ],
+    "resencial": [],
+    "local": "S 04",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "Sala Remota:"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Topografia EA62B",
+    "monitor": "Yasmin Santos Alves",
+    "remoto": [
+      "segunda: das 18h40 até 20h20",
+      "quarta: das 18h40 até 20h20",
+      "quinta: das 18h40 até 20h20"
+    ],
+    "resencial": [],
+    "local": "Não há",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/suu-aipi-ptq"
+  },
+  {
+    "campus": "Londrina",
+    "disciplina": "Mecânica Geral 1 EB13A",
+    "monitor": "Juan Manoel da Silva Blanes",
+    "remoto": [
+      "Terça das 17h50 até 21h10"
+    ],
+    "resencial": [],
+    "local": "Não há.",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ihq-ygvf-ofj?pli=1"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Equações Diferenciais Ordinárias CV43E / CP43C / ET43A / MA5B",
+    "monitor": "Rafael Matheus Neckel",
+    "remoto": [
+      "Segunda e terça: 18h40 às 21h10"
+    ],
+    "resencial": [
+      "Quarta: 13h50 às 15h30",
+      "Quinta e sexta: 10h20 às 12h00"
+    ],
+    "local": "C-304",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/v323n73Ebx"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Mecânica Geral 1 e 2 ET42H/CV43D",
+    "monitor": "Gabriel Locatelli",
+    "remoto": [
+      "Quarta - feira: 17:30 às 19:30 e Quinta - feira: 13:50 às 15:50"
+    ],
+    "resencial": [
+      "Segunda e terça: 19:30 às 21:20, Quarta e Quinta: 15:50 às 17:30"
+    ],
+    "local": "C-304",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/vYAWn8nH; https://chat.whatsapp.com/CbRlbq54OF5ERZeeKYVTVd"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Cálculo Diferencial e Integral 1 CP41B",
+    "monitor": "Marlon Roberto Varela Texeira",
+    "remoto": [
+      "Segunda e Quarta: 8h20 - 11h10, Terça: 18h40-21h20"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/Ws3x8Zuza7"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Matemática discreta CP41D",
+    "monitor": "Rafaela de Oliveira Fernandes",
+    "remoto": [
+      "Segunda: 8h20 - 12h, Quarta: 7h30 - 11h10, Quinta: 7h30 - 12h, Sexta: 8h20 - 9h10"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/dyR2YAt4"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Fundamentos de Programação TSI31B",
+    "monitor": "Rafael Farias Meneses",
+    "remoto": [
+      "Terça e Quinta: 15h50 - 18h20"
+    ],
+    "resencial": [
+      "Quinta: 20h20 - 23h00",
+      "Sexta 18h40 - 21h10"
+    ],
+    "local": "C-201",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://chat.whatsapp.com/GyDbmyu74DS3rNvoBEpX36 / https://meet.google.com/yzu-oyyr-aam"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Mecânica dos Solos I e II CV45B e CV46G",
+    "monitor": "Sara Elen dos Santos",
+    "remoto": [
+      "Terça : 8:20 as 10:00",
+      "Quarta e Quinta: 9:10 as 11:10"
+    ],
+    "resencial": [
+      "Segunda e Terça : 15:50 as 17:30 e",
+      "Quarta : 16:40 as 18:20"
+    ],
+    "local": "C-304",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://chat.whatsapp.com/EPQSuJwoJa0Btgz7cvXm8z https://meet.google.com/tuq-qqpb-ppe"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Química Básica Teórica/ Química Geral Teórica CV41H/ ET42L/ PQ51H/ BP41H",
+    "monitor": "Brenda Pommer de Araujo",
+    "remoto": [
+      "Terça-feira: 20h00 às 21h00",
+      "Sexta-feira: 10h00 às 14h00"
+    ],
+    "resencial": [
+      "Segunda-feira: 18:00 às 20:00",
+      "Terça-feira: 09:00 ao 12:00"
+    ],
+    "local": "C-304",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/Qq2ck8J2"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Microbiologia Geral BP42C-BP42A",
+    "monitor": "Vitória Durães Chlusewicz",
+    "remoto": [
+      "Sexta 13h00 às 17h30"
+    ],
+    "resencial": [
+      "Segunda 09h10 - 12h00",
+      "Quinta 13h50 - 15h30"
+    ],
+    "local": "E107",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/toc-ftff-kbh"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Cálculo Diferencial e Integral 3 ET43B/CP43B/CV43B",
+    "monitor": "Weslley Pereira da Silva",
+    "remoto": [
+      "Segunda 21:20 - 23:00",
+      "Quarta 14:40 - 16:40",
+      "Quarta 19:30 - 21:20"
+    ],
+    "resencial": [
+      "Quinta 12:00 - 14:40",
+      "Sexta 9:10 - 12:00"
+    ],
+    "local": "C304",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/rph-jdmo-vzo"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Geometria Analítica e Álgebra Linear CV41D / CP41C / ET41D / BP41B / PQ51L",
+    "monitor": "João Paulo Alflen Nunes",
+    "remoto": [
+      "Terça: 18h40 - 20h20",
+      "Sexta: 18h40 - 21h20"
+    ],
+    "resencial": [
+      "Terça: 15h50 - 18h20",
+      "Sexta: 18h40 - 21h20"
+    ],
+    "local": "C-304",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/J9QPJadVh9"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Cálculo DIferencial e Integral 1 BP41A",
+    "monitor": "Carlos Alexandre Frano Lima",
+    "remoto": [
+      "Segunda: 19h 30 - 20h 20"
+    ],
+    "resencial": [
+      "Quinta: 15h 50 - 16h 40 Sexta: 15h 50 - 16h 40"
+    ],
+    "local": "E - 107",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/YUNjHn5v"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Fundamentos de Programação CP41F",
+    "monitor": "Augusto Miguel Barth",
+    "remoto": [
+      "Terça, Quarta e Quinta: 19h30 - 21h10"
+    ],
+    "resencial": [
+      "Quarta: 9h10 - 11h10, Quinta: 13h00 - 16h40"
+    ],
+    "local": "E-107",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/X6BVJtppfZ"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Química Analítica/Fundamentos da Química Analítica BP43A / PQ52L",
+    "monitor": "Hugo Leonardo Ribeiro dos Santos Lazari",
+    "remoto": [
+      "Quinta-feira : 11h10 - 12h00 // 15h50 - 18h40"
+    ],
+    "resencial": [
+      "Segunda : 17h30 - 19h30 // 21h20 - 23h00 Sexta : 19h30 - 23h00"
+    ],
+    "local": "Bloco A - 2º Andar",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/68emveUMeb"
+  },
+  {
+    "campus": "Toledo",
+    "disciplina": "Química Analítica/Fundamentos da Química Analítica BP43A / PQ52L",
+    "monitor": "Hugo Leonardo Ribeiro dos Santos Lazari",
+    "remoto": [
+      "Quinta-feira : 11h10 - 12h00 // 15h50 - 18h40"
+    ],
+    "resencial": [
+      "Segunda : 17h30 - 19h30 // 21h20 - 23h00 Sexta : 19h30 - 23h00"
+    ],
+    "local": "Bloco A - 2º Andar",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/68emveUMeb"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Transferência de Calor (TF66A)",
+    "monitor": "Giovana Genari Carmona",
+    "remoto": [
+      "segunda: das 10h30 às 12h00 (presencial)",
+      "terça: das 09h30 às 12h00 (presencial)",
+      "quarta: das 13h00 às 14h00 (remoto)"
+    ],
+    "resencial": [],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/mng-grmn-jvs"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Desenho Elétrico (DE61A)",
+    "monitor": "Maria Gabriela Pereira Brito",
+    "remoto": [
+      "segunda: das 10h00 às 11h00"
+    ],
+    "resencial": [
+      "quarta: das 16h40 às 18h40",
+      "quinta: das 17h30 às 19h30"
+    ],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/xzu-fnso-cfn"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Expressão Gráfica (EX61A e EX61B)",
+    "monitor": "Tiago Navarro Bettanin",
+    "remoto": [
+      "segunda: das 08h30 às 12h30"
+    ],
+    "resencial": [
+      "segunda: das 16h50 às 17h50"
+    ],
+    "local": "Laboratório de Desenho",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/smz-owsv-zvb"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Expressão Gráfica (EX61A e EX61B)",
+    "monitor": "Tiago Navarro Bettanin",
+    "remoto": [
+      "segunda: das 08h30 às 12h30"
+    ],
+    "resencial": [
+      "segunda: das 16h50 às 17h50"
+    ],
+    "local": "Laboratório de Desenho",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/smz-owsv-zvb"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Química Geral (QU61A, QQ61A, QM61A, QUCO4A, QU63A, QG71A) e Química Inorgânica (QI62A)",
+    "monitor": "Marcos Gabriel Boiko",
+    "remoto": [
+      "quarta: das 08h20 às 11h20",
+      "quinta: das 18h40 às 19h40",
+      "sexta: das 18h40 às 19h40"
+    ],
+    "resencial": [
+      "segunda: das 10h10 às 12h10",
+      "terça: das 09h10 às 10h10 e das 16h40 às 17h40",
+      "quinta: das 10h00 às 11h00"
+    ],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/keq-hnjq-yxa"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Sistemas Lineares (SL64A)",
+    "monitor": "Anderson Clayton Gramacho da Silva Junior",
+    "remoto": [
+      "segunda: das 19h00 às 22h00",
+      "quarta: das 11h00 às 12h00",
+      "sexta: das 11h00 às 12h00"
+    ],
+    "resencial": [
+      "terça: das 09Xh00 às 12h00",
+      "sexta: das 09Xh00 às 11h00"
+    ],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/DB35uJK8cG"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Física 1 (FC62A, FF62A, FS62A, FT61A, FX62A, FTCO2A, FECO3A, FI73A, FX74A)",
+    "monitor": "Wesley Paulo Benetti",
+    "remoto": [
+      "terça: das 18h00 às 20h00",
+      "sábado: das 14h00 às 17h00"
+    ],
+    "resencial": [
+      "terça: das 10h00 às 12h00",
+      "quinta: das 10h00 às 12h00 e das 18h00 às 19h00"
+    ],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/hmi-nafb-apc"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Fundamentos de Cálculo em Processos (FC64A)",
+    "monitor": "Arnaldo Vinícius Dias Paes",
+    "remoto": [
+      "terça: das 19h30 às 21h30",
+      "quinta: das 09h00 às 12h00"
+    ],
+    "resencial": [
+      "terça: das 18h30 às 21h30",
+      "sexta: das 10h00 às 12h00"
+    ],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ava-wchs-oss"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Modelagem tridimensional 1 (MO42A), Modelagem tridimensional 2 (MO43B), Modelagem tridimensional 3 (MB44C), Modelagem bidimensional 1 (MB42A), Modelagem bidimensional 2 (MB43B), Modelagem bidimensional 3 (MB44C), Técnicas de montagem (TM41A), Prototipia 1 (PT42A), Prototipia 2 (PT43B), Prototipia 3 (PT44C) e Modelagem e prototipia de acessórios (MD46A)",
+    "monitor": "Elaine Cristina de Melo",
+    "remoto": [
+      "segunda: das 13h00 às 17h30",
+      "terça: das 13h00 às 17h30",
+      "quarta: das 13h00 às 17h30"
+    ],
+    "resencial": [],
+    "local": "Laboratório C006",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/gnc-pamt-ovz?authuser=0&pli=1"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Cálculo Diferencial e Integral 1 (CF61A; CA61A)",
+    "monitor": "Renato Bueno Bovo",
+    "remoto": [
+      "terça: das 08h00 às 11h00",
+      "sexta: das 08h00 às 10h00"
+    ],
+    "resencial": [
+      "quarta: das 08h00 às 10h00",
+      "quinta: das 19h00 às 22h00"
+    ],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "http://meet.google.com/xau-hwjq-svr"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Fundamentos de Programação 1, Fundamentos de Programação 2 e Estruturas de Dados 1 (FDCO1A, FDCO2B e EDCO3A)",
+    "monitor": "Pedro Mian Parra",
+    "remoto": [
+      "segunda: das 19h00 às 21h00",
+      "terça: das 19h00 às 21h00",
+      "quarta: das 19h00 às 20h00"
+    ],
+    "resencial": [
+      "segunda: das 12h00 às 12h50 (N103)",
+      "quarta: das 13h00 às 15h30 (N007)",
+      "quinta: das 09h10 às 11h10 (N103) e das 15h30 às 19h10 (N007)"
+    ],
+    "local": "Sala N007 ou N103",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://discord.gg/cNevnHuqhS"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Expressão Gráfica (EG61A)",
+    "monitor": "Isadora Frioli Nicolau",
+    "remoto": [
+      "segunda: das 15h00 às 17h00",
+      "terça: das 09h00 às 12h00"
+    ],
+    "resencial": [],
+    "local": "BIMLab - Bloco P",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "somente presencial (monitoria voluntária)"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Instalações Elétricas 1 (IE65A)",
+    "monitor": "João Pedro Fagundes Matuzinho",
+    "remoto": [
+      "terça: das 14h20 às 17h40 e 18h40 às 20h20"
+    ],
+    "resencial": [],
+    "local": "Sala N202",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "somente presencial (monitoria voluntária)"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Teoria das Estruturas 1 (TO65A)",
+    "monitor": "Bruna Miki Tokutsune Tashiro",
+    "remoto": [
+      "segunda: das 08h00 às 10h00",
+      "terça: das 17h30 às 19h00",
+      "quarta: das 17h30 às 19h00"
+    ],
+    "resencial": [],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "somente presencial (monitoria voluntária)"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Teoria das Estruturas 2 (TO66B)",
+    "monitor": "Luiz Henrique Stefanuto Mehlmann",
+    "remoto": [
+      "terça: das 19h30 às 21h30",
+      "quarta: das 19h30 às 21h00",
+      "quinta: das 19h30 às 21h00"
+    ],
+    "resencial": [],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "somente presencial (monitoria voluntária)"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Análise de Circuitos Elétricos 1 (AC64A)",
+    "monitor": "Gianluca Treuko Muroni",
+    "remoto": [
+      "terça: das 09h00 às 12h00",
+      "quarta: das 18h00 às 20h00"
+    ],
+    "resencial": [],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "somente presencial (monitoria voluntária)"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Química Orgânica 2 (QO64B), Química Orgânica B (QO74B), Química Orgânica 1 (QO63A), Química Orgânica A (QO73A) e Química Orgânica (QO62A)",
+    "monitor": "Lucas Copelli Borges",
+    "remoto": [
+      "segunda: das 17h00 às 18h00",
+      "terça: das 08h00 às 10h00 e das 19h00 às 20h00",
+      "quinta: das 17h00 às 18h00"
+    ],
+    "resencial": [],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "somente presencial (monitoria voluntária)"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Cálculo Numérico (CLCO5A; CC64A)",
+    "monitor": "Paulo Gabriel de Carvalho",
+    "remoto": [
+      "segunda: das 09h00 às 12h00",
+      "sábado: das 10h00 às 11h00 e 13h00 às 14h00"
+    ],
+    "resencial": [],
+    "local": "Sala N009 ou N011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "somente presencial (monitoria voluntária)"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Materiais e Equipamentos Elétricos (MECO1A)",
+    "monitor": "Leonardo Trindade Sperandio",
+    "remoto": [
+      "terça: das 08h20 às 10h00, das 10h20 às 12h00, das 13h00 às 14h40 e das 16h40 às 18h20"
+    ],
+    "resencial": [],
+    "local": "Sala N009 ou n011",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "somente presencial (monitoria voluntária)"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Expressão Gráfica (EX61A e EX61B)",
+    "monitor": "Tiago Navarro Bettanin",
+    "remoto": [
+      "segunda: das 08h30 às 12h30"
+    ],
+    "resencial": [
+      "segunda: das 16h50 às 17h50"
+    ],
+    "local": "Laboratório de Desenho",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/smz-owsv-zvb"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Expressão Gráfica (EX61A e EX61B)",
+    "monitor": "Tiago Navarro Bettanin",
+    "remoto": [
+      "segunda: das 08h30 às 12h30"
+    ],
+    "resencial": [
+      "segunda: das 16h50 às 17h50"
+    ],
+    "local": "Laboratório de Desenho",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/smz-owsv-zvb"
+  },
+  {
+    "campus": "Apucarana",
+    "disciplina": "Expressão Gráfica (EX61A e EX61B)",
+    "monitor": "Tiago Navarro Bettanin",
+    "remoto": [
+      "segunda: das 08h30 às 12h30"
+    ],
+    "resencial": [
+      "segunda: das 16h50 às 17h50"
+    ],
+    "local": "Laboratório de Desenho",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/smz-owsv-zvb"
+  },
+  {
+    "campus": "Francisco Beltrão",
+    "disciplina": "TERMODINÂMICA 2 (QUI008-5EQ)",
+    "monitor": "João Vitor Fabian",
+    "remoto": [
+      "quarta: T1 e T2;"
+    ],
+    "resencial": [
+      "sexta: M4 e M5;"
+    ],
+    "local": "R204",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/zjz-okgp-yaf"
+  },
+  {
+    "campus": "Francisco Beltrão",
+    "disciplina": "QUI001(parte teórica da Eng. de Alimentos e Ambiental) QUI018- QUI084",
+    "monitor": "Guilhermo Vicenzo Correa Portolann",
+    "remoto": [
+      "segunda: N1 e N2;",
+      "sexta: T3, T4 e T5;"
+    ],
+    "resencial": [
+      "terça: T1 e T2"
+    ],
+    "local": "R204",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/aqa.geue-kdv"
+  },
+  {
+    "campus": "Francisco Beltrão",
+    "disciplina": "Cálculo Diferencial e Integral 2 - MAT003 e CD32E",
+    "monitor": "Pablo Hisao Cuchani Hamasaki",
+    "remoto": [
+      "segunda: N2 e N3",
+      "quarta: N2 e N3",
+      "quinta: M4 e M5"
+    ],
+    "resencial": [
+      "segunda: M4 e M5",
+      "quarta: M4; M5; T1 e T2"
+    ],
+    "local": "R204",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/usg-zgtx-zuh"
+  },
+  {
+    "campus": "Francisco Beltrão",
+    "disciplina": "Geometria Analítica e Álgebra Linear - MAT002",
+    "monitor": "Airan Ribeiro Ramos",
+    "remoto": [
+      "segunda: M3, M4, M5, T1 e T2;"
+    ],
+    "resencial": [
+      "terça: M2 e M3;",
+      "quarta: T1, T2 e T3;",
+      "quinta: T1, T2;"
+    ],
+    "local": "R204",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/scn-mogz-oim"
+  },
+  {
+    "campus": "Francisco Beltrão",
+    "disciplina": "Fenômenos de Transfêrencia 01/ QUI 007",
+    "monitor": "Samuel Thiago Telles Rodrigues",
+    "remoto": [
+      "terça: T1, T2, T3, T4 e T5;"
+    ],
+    "resencial": [
+      "quarta: T1, T2, T3, T4 e T5;"
+    ],
+    "local": "R208",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ear-pyjd-hfs"
+  },
+  {
+    "campus": "Francisco Beltrão",
+    "disciplina": "QUI024 - INTRODUÇÃO AOS PROCESSOS QUÍMICOS",
+    "monitor": "THAÍS ROSSETTO CORDEIRO DA SILVA",
+    "remoto": [
+      "quinta: T6, N1 e N2;",
+      "sexta: M4 e M5;"
+    ],
+    "resencial": [
+      "segunda: M2 e M3;"
+    ],
+    "local": "R204",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/aoi-ipmg-xfy"
+  },
+  {
+    "campus": "Francisco Beltrão",
+    "disciplina": "Cálculo Diferencial e Integral I - MAT001",
+    "monitor": "Brendo Newton Sousa Rodrigues",
+    "remoto": [
+      "segunda: T6 e N1",
+      "quarta: T6 e N1",
+      "quinta: T2",
+      "sexta: T6"
+    ],
+    "resencial": [
+      "terça: N1 e N2",
+      "quinta: N1 e N2",
+      "sexta: N1 e N2"
+    ],
+    "local": "R207",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/eoa-gpgr-nop"
+  },
+  {
+    "campus": "Francisco Beltrão",
+    "disciplina": "Cálculo Diferencial e Integral I (MAT001)",
+    "monitor": "Giovanna Gomes da Silva",
+    "remoto": [
+      "segunda: N1 e N2",
+      "sexta: T3, T4 e T5"
+    ],
+    "resencial": [
+      "terça: T1 e T2"
+    ],
+    "local": "R204",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/vvr-oqwu-bvh"
+  },
+  {
+    "campus": "Guarapuava",
+    "disciplina": "EC72F - Projeto de Edifícios",
+    "monitor": "Alex Novak",
+    "remoto": [
+      "terça: das 17h50 às 20h20",
+      "quinta: das 19h30 às 22h10"
+    ],
+    "resencial": [
+      "segunda: das 14h40 às 17h30",
+      "terça: das 14h40 às 17h30"
+    ],
+    "local": "Sala em frente ao elevador, antiga maquetaria",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/idf-oooe-aba"
+  },
+  {
+    "campus": "Guarapuava",
+    "disciplina": "SI101B/SI101C - Pensamento Computacional e Fundamentos de Programação / Introdução à Orientação a Objetos",
+    "monitor": "Pablo Martinez Slomp",
+    "remoto": [
+      "terça: das 17h50 às 22h10",
+      "quarta: das 17h50 às 20h20",
+      "quinta: das 20h20 às 22h10",
+      "sexta: das 17h50 às 22h10"
+    ],
+    "resencial": [
+      "segunda: das 17h50 às 18h40",
+      "quinta: das 17h50 às 18h40"
+    ],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "Sala Remota:"
+  },
+  {
+    "campus": "Guarapuava",
+    "disciplina": "EM42E - Desenho de Máquinas",
+    "monitor": "Nicollas Hamon Trevisan Verbaneck",
+    "remoto": [
+      "segunda: das 9h10 às 12h",
+      "quarta: das 14h40 às 17h30"
+    ],
+    "resencial": [
+      "terça: das 10h20 às 12h",
+      "quarta: das 10h20 às 12h",
+      "sexta: das 13h às 14h40"
+    ],
+    "local": "Biblioteca",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/iqg-zxpn-oyq"
+  },
+  {
+    "campus": "Guarapuava",
+    "disciplina": "EC71A / EM41D - Cálculo Diferencial e Integral 1",
+    "monitor": "José Gabriel Pacheco de Araujo",
+    "remoto": [
+      "terça: das 7h30 às 10h e 13h às 14h40 e 16h40 às 17h30"
+    ],
+    "resencial": [
+      "quinta: das 8h20 às 12h",
+      "sexta: das 10h20 às 12h"
+    ],
+    "local": "B2",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "meet.google.com/xdu-umts-wcn"
+  },
+  {
+    "campus": "Guarapuava",
+    "disciplina": "EC71B/EM41E - Geometria Analítica e Álgebra Linear",
+    "monitor": "Angelo Zanona Neto",
+    "remoto": [
+      "terça: das 7h30 às 10h",
+      "quinta: das 7h30 às 9h10"
+    ],
+    "resencial": [
+      "segunda: das 14h40 às 17h30",
+      "sexta: das 15h50 às 17h30"
+    ],
+    "local": "Sala F6A",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ktc-fvxn-hfz"
+  },
+  {
+    "campus": "Santa Helena",
+    "disciplina": "Cálculo Diferencial e Integral 1 - MA221A CC12H;Matemática Aplicada - MA61F AG1H; Cálculo Aplicado  - MA62A AG2HMatemática Aplicada à Biologia - MA61F AG1H",
+    "monitor": "Pedro Henrique Teodoro de Mendonça",
+    "remoto": [
+      "segunda: das 14h às 17h",
+      "terça: das 14h às 16h"
+    ],
+    "resencial": [
+      "terça: das 18h às 20h",
+      "quinta: das 18h às 20h"
+    ],
+    "local": "Sala de monitoria. Bloco L",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/sqe-wrvf-ahb"
+  },
+  {
+    "campus": "Santa Helena",
+    "disciplina": "Fundamentos da Eletricidade - FI221E",
+    "monitor": "Daniel Theisges da Costa",
+    "remoto": [
+      "segunda: das 19h às 21h"
+    ],
+    "resencial": [
+      "quinta: das 08h às10h"
+    ],
+    "local": "Sala de Monitoria - Bloco L",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "Link Meet https://meet.google.com/ukr-qqit-mgb"
+  },
+  {
+    "campus": "Santa Helena",
+    "disciplina": "Estrutura de Dados - CC23C",
+    "monitor": "Eduardo Rodrigues Baldini Filho",
+    "remoto": [
+      "terça: das 14h às 16h e 20h às 22h",
+      "quarta: das 10h às 12h",
+      "quinta: das 10h às 12h e 20h às 22h"
+    ],
+    "resencial": [],
+    "local": "--",
+    "data": "24/08/2022 a 21/12/2022",
+    "link": "Discord: https://discord.gg/wTKjKuDv5Y Meet: https://meet.google.com/zsr-kora-aju"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Física Geral 2",
+    "monitor": "< Fernando Lima Fernandes >",
+    "remoto": [
+      "<Segunda Feira: 15h50 - 18h40",
+      "Sexta Feira: 13h - 15h30"
+    ],
+    "resencial": [
+      "Terça Feira: 8h20 - 12h"
+    ],
+    "local": "Sala A134",
+    "data": "25/08/2022 a 21/12/2022",
+    "link": "meet.google.com/vyx-nhsw-qeg"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Programação Orientada a Objetos",
+    "monitor": "< Jean Alves Rocha >",
+    "remoto": [
+      "2ªfª [das 18h40 - 19h30 / das 19h30 - 20h20] 4ªfª [das 14h40 - 15h30] 5ªfª [das 13h50 - 14h40 / 14h40 - 15h30] 6ªfª [das 18h40 - 19h30]"
+    ],
+    "resencial": [
+      "3ªfª  [das 13h - 13h50 / das13h50 - 14h40 / das 18h40 - 19h30 / das 21h20 - 22h10]"
+    ],
+    "local": "A134",
+    "data": "25/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/qte-bypi-use"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Eletrônica Digital",
+    "monitor": "< Michele Oliveira de Campos >",
+    "remoto": [
+      "Terça feira: 15h50 - 17h30;",
+      "Sexta feira: 13h00 - 16h40"
+    ],
+    "resencial": [
+      "Quarta feira: 13h - 16h40;"
+    ],
+    "local": "I102",
+    "data": "25/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/uns-ifkr-gcd"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Análise de Circuitos Elétricos 1",
+    "monitor": "< Óliver Pincelli Westin>",
+    "remoto": [
+      "Segunda-feira: 19h30 - 22h10;",
+      "Terça-feira: 19h30 - 22h10;"
+    ],
+    "resencial": [
+      "Segunda-feira: 13h00 - 13h50;",
+      "Terça-feira: 13h00 - 13h50;",
+      "Quarta-feira: 13h00 - 14h40;"
+    ],
+    "local": "--",
+    "data": "25/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/jxc-voop-rgc"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Mecânica Geral I",
+    "monitor": "< Matheus dos Santos>",
+    "remoto": [
+      "Segunda: 17:50 às 19:30 hrs;",
+      "Terça: 17:50 às 19:30 hrs;",
+      "Quinta:17:50 às 19:30 hrs;;"
+    ],
+    "resencial": [
+      "Segunda: 13:50 às 15:30 hrs;",
+      "Quinta: 13:50 às 15:30 hrs;"
+    ],
+    "local": "--",
+    "data": "25/08/2022 a 21/12/2022",
+    "link": "meet.google.com/hur-uhan-vte"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Inglês Instrumental",
+    "monitor": "< Talita Aya Sakamoto Kuriki >",
+    "remoto": [
+      "< escreva aqui os dias e horários, por exemplo: >",
+      "Terça-feira, das 8h20 às 10h00; quarta-feira, das 13h50 às 15h30; sexta-feira, das 8h20 às 10h00"
+    ],
+    "resencial": [
+      "Segunda: 13:50 às 15:30 hrs;",
+      "Quinta: 13:50 às 15:30 hrs;"
+    ],
+    "local": "--",
+    "data": "25/08/2022 a 21/12/2022",
+    "link": "meet.google.com/zhg-cerw-awr"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Cálculo Diferencial e Integral 2",
+    "monitor": "< Natã Brito Geraldo >",
+    "remoto": [
+      "< Terça-feira 18h40 às 22h10 e Quinta-feira 19h30 às 21h10"
+    ],
+    "resencial": [
+      "Quarta-feira: 15h50 às 17h30 e Quinta-feira: 8h20 às 10h10"
+    ],
+    "local": "Sala A134",
+    "data": "25/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/gbj-evxd-ugr"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Laboratório de Informática",
+    "monitor": "< LEONARDO CANUTO JUNIOR >",
+    "remoto": [
+      "<Segunda feira: 21h20 - 23h00;",
+      "Terça feira: 20h20 - 22h10;",
+      "Quinta feira: 21h20 - 23h00;"
+    ],
+    "resencial": [
+      "Terça feira: 15h50 - 17h30;",
+      "Quarta feira: 07h30 - 11h10;"
+    ],
+    "local": "A134",
+    "data": "25/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/wdp-ivoa-ngc"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Cálculo Diferencial e Integral 3",
+    "monitor": "< Vinícius Fernandes Bessa >",
+    "remoto": [
+      "Terça-feira 19h30 às 21h10",
+      "Quarta-feira 19h30 às 21h10",
+      "Quinta-feira 21h00 às 21h50",
+      "Sexta-feira 19h30 às 20h20"
+    ],
+    "resencial": [
+      "Segunda-feira 17h50 às 19h30",
+      "Quinta-feira 17h50 até 19h30"
+    ],
+    "local": "--",
+    "data": "25/08/2022 a 22/12/2022",
+    "link": "https://meet.google.com/cde-atdj-zne"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Geometria Analítica e Álgebra Linear",
+    "monitor": "<Mateus Matheus Prudêncio >",
+    "remoto": [
+      "Segunda -feira : 19:30-21:10,",
+      "terça-feira: 20:20-21:10,",
+      "quarta:feira:20:20-21:10,",
+      "quinta-feira:19:30-21:10"
+    ],
+    "resencial": [
+      "segunda feira : 13:00-13:50,",
+      "terça feira: 19:30-20:20,",
+      "quarta-feira:13-13:50,",
+      "quarta: 19:30-20:20"
+    ],
+    "local": "--",
+    "data": "25/08/2022 a 22/11/2202",
+    "link": "https://meet.google.com/ytk-hwsn-ftr?hs=122&authuser=0"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Algoritmos (CC51A)",
+    "monitor": "GABRIEL STAWNY",
+    "remoto": [
+      "Segunda das 15h50 às 18h20 | Terça das 12h50 às 13h40 e das 15h50 às 17h30  | Quarta das 12h50 às 13h40"
+    ],
+    "resencial": [
+      "Quarta das 18h40 às 21h10 | Quinta das 18h40 às 21h10"
+    ],
+    "local": "Sala C108",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/tcz-vpyz-tjb"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Biologia Celular e Molecular e Noções de Biotecnologia (CB31A)",
+    "monitor": "LEONARDO MARTINS DELFINO",
+    "remoto": [
+      "Segunda das 13:50 às 17:30 | Terça das 15:50 às 17:30 | Quinta 12:50 às 13:40 |"
+    ],
+    "resencial": [
+      "Segunda das 20:20 às 21:10 | Terça das 15:50 às 17:30 | Quarta das 08:20 às 11:10 | Sexta das 12:00 às 14:40"
+    ],
+    "local": "Sala C108",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/sbp-sqit-cvs"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Cálculo Diferencial e Integral 1 (BP31A, CC51C, EP31A, EN31A, PG0001, QM31E, MA61A)",
+    "monitor": "MATHEUS LUIZ BACH",
+    "remoto": [
+      "Segunda-feira das 17:30 às 19:30 | Terça-feira das 15:50 às 17:30 | Quarta-feira das 15:50 às 17:30."
+    ],
+    "resencial": [
+      "Quarta-feira das 19:30 às 21:10 | Sexta-feira das 14:40 às 18:20."
+    ],
+    "local": "Sala C108",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/rkx-jazf-dbw"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Cálculo Diferencial e Integral 2 (CC52E, BP32A, EP32A, EN32A, PG0008, QM32B)",
+    "monitor": "THIAGO ROBERTO DOS SANTOS",
+    "remoto": [
+      "Segunda-feira das 13h00 às 13h50 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira  das 18h20 às 20h00"
+    ],
+    "resencial": [
+      "Segunda-feira das 17h30 às 20h50 | Terça-feira das 20h00 às 21h40"
+    ],
+    "local": "Informações no grupo do Telegram https",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://t.me/+OcIPHJHanJFmOWY5"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Cálculo Diferencial e Integral 3 (EN33A, PG0016, QM33B)",
+    "monitor": "JOÃO PEDRO BUSNARDO DE SOUZA",
+    "remoto": [
+      "Terça-feira das 18h20 às 20h00 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira das 13h00 às 13h50"
+    ],
+    "resencial": [
+      "Segunda-feira das 13h00 às 15h30 | Quinta-feira das 18h20 às 19h10 | Sexta-feira das 13h50 às 15h30"
+    ],
+    "local": "Informações no grupo do Telegram https",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://t.me/+PMTrer0rZdU3M2Ux"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Equações Diferenciais Ordinárias (EN33D BP33A EP33A PG0017 QM34B)",
+    "monitor": "LEONARDO JOSÉ ROSSONI QUADROS",
+    "remoto": [
+      "Segunda-feira das 7:30h às 10:00h e das 15:50h às 20:20h | Terça-feira das 7:30h às 9:10h e das 15:50h às 17:30h"
+    ],
+    "resencial": [
+      "Quarta-feira das 17:30h às 21:10h | Quinta-feira das 15:50h às 17:30h"
+    ],
+    "local": "--",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/icv-wwau-grk"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Estruturas de Dados 1 e 2 (CC52A, CC53A)",
+    "monitor": "LUIZ GUILHERME MONTEIRO PADILHA",
+    "remoto": [
+      "Segunda-feira das 17h30 às 18h20 |  Quarta-feira das 17h30 às 18h20 |  Quinta-feira das 10h20 às 13h40"
+    ],
+    "resencial": [
+      "Segunda-feira das 10h20 às 12h00 | Terça-feira das 13h50 às 17h30"
+    ],
+    "local": "--",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/zeq-yhus-rzo"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Física 1 e Física Geral I (BP32C EN31B PG0005 QM31A)",
+    "monitor": "BIANCA RAFAELA FABRIS PLATH",
+    "remoto": [
+      "segunda 13h às 14h40; sexta 12h às 12h50."
+    ],
+    "resencial": [
+      "terça 18h40 às 20h20; quarta 11h20 às 13h50 e quinta 17h30 às 19h10."
+    ],
+    "local": "Sala C108",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ggy-oosx-qad"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Física 2 e Física Geral II (BP33B, EN32B, EP33B, PG0012, QM32A)",
+    "monitor": "JORDANO LUIZ JANKOSKI",
+    "remoto": [
+      "Segunda-feira, das 10h20 às 11h10 | Terça-feira, das 13h00 às 13h50 | Quarta-feira, das 13h00 às 13h50"
+    ],
+    "resencial": [
+      "Terça-feira, das 18h40 às 21h10 | Quarta-feira, das 18h40 às 21h10 | Quinta-feira, das 18h40 às 21h10"
+    ],
+    "local": "Sala C108.",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/zub-mebg-ttj"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Física 3 e Física Geral 3 (PG0019, EN33B, BP34F, QM33A e EP34B)",
+    "monitor": "HENZO EDUARDO MOREIRA MAGNINI",
+    "remoto": [
+      "Segunda-Feira das 17h30 às 19h30 |Terça-Feira das 13h50 às 14h40 |Quinta-Feira das 12h00 às 12h50"
+    ],
+    "resencial": [
+      "Segunda-Feira das 21h20 às 22h50 |Terça-Feira das 19h30 às 22h50 |Quinta-Feira das 20h20 às 22h05"
+    ],
+    "local": "Sala C108.",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/boc-rejf-pfq"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Geometria Analítica e Álgebra Linear (QM31B, PG0002, EN31D, EP31D, BP32F, CC51D, MA61B)",
+    "monitor": "MARIELI TEIXEIRA STRESSER",
+    "remoto": [
+      "Segunda-feira das 12h50 às 13h50, Quinta-feira das 12h00 às 13h50 e Sexta-feira das 10h05 às 12h15."
+    ],
+    "resencial": [
+      "Segunda-feira das 20h00 às 21h00, Quarta-feira das 20h00 às 21h30, Quinta-feira das 20h00 às 21h30 e Sexta-feira das 20h00 às 21h00."
+    ],
+    "local": "Sala C108",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/onf-tbdm-crh"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Mecânica Geral I (EN32D, EP33C, QM32F e PG0021)",
+    "monitor": "BRUNA BALZER MACIEL",
+    "remoto": [
+      "terça-feira das 12h00 às 14h40, Quinta-feira das 9h10 às 10h00, Sexta-feira das 7h30 às 09h10"
+    ],
+    "resencial": [
+      "Segunda-feira das 15h50 às 18h20, Sexta-feira das 13h50 às 16h40"
+    ],
+    "local": "Sala C108.",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/xoe-mbxb-dbp"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Probabilidade e Estatística (BP33G CC52F PG0009 PG0116 CB35E EP32D QM35E EN32E)",
+    "monitor": "TALITA BERGER DO COUTO",
+    "remoto": [
+      "Segunda-feira das 10:20 as 12:50 e sexta-feira das 10:20 as 12:50."
+    ],
+    "resencial": [
+      "Terça-feira das 17:30 as 20:20 e quinta-feira das 16:40 as 19:30"
+    ],
+    "local": "--",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/fcv-jaod-obo"
+  },
+  {
+    "campus": "Ponta Grossa",
+    "disciplina": "Química Geral (BP31D PG0003 EN31E EP31E)",
+    "monitor": "JOÃO HENRIQUE WICHNESKY STEPHANI",
+    "remoto": [
+      "Segunda-feira das 12:50 às 15:30 |Terça-feira das 11:10 às 12:00 | Quarta-feira das 10:20 às 12:00."
+    ],
+    "resencial": [
+      "Segunda-feira das 18:40 às 20:20 | Quinta-feira das 09:10 às 12:00 | Quinta-feira das 18:40 às 19:30."
+    ],
+    "local": "Sala C108",
+    "data": "29/08/2022 a 21/12/2022",
+    "link": "https://meet.google.com/iys-awrf-evv"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Resistência dos Materiais 1",
+    "monitor": "Pedro Lorenset",
+    "remoto": [
+      "terça: das 10:20 às 12:00",
+      "quarta: das 10:20 às 12:00",
+      "quinta: das 10:20 às 12:00"
+    ],
+    "resencial": [
+      "sexta: das 13:50 às 15:30"
+    ],
+    "local": "CENT. CONVIVÊNCIA",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/ewo-xihk-taj"
+  },
+  {
+    "campus": "Campo Mourão",
+    "disciplina": "Linguagens Formais, Autômatos e Computabilidade",
+    "monitor": "Geovana Figueiredo Silva",
+    "remoto": [
+      "terça: das 19:30 às 22:10",
+      "quarta: das 19:30 às 22:10"
+    ],
+    "resencial": [
+      "quarta: das 13:50 às 15:30",
+      "quinta: das 15:50 às 17:30"
+    ],
+    "local": "CENT. CONVIVÊNCIA",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/kst-emrz-zsi"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Gestão e Certificação de Laboratórios- GC38QB",
+    "monitor": "Ricardo da Silva Furlan",
+    "remoto": [
+      "Quarta-Feira:  das 13h00 às 14h40",
+      "Quinta-Feira: das 15h50 às 17h30"
+    ],
+    "resencial": [
+      "Segunda-Feira: das 13h00 às 14h40",
+      "Terça-Feira: das 13h00 às 14h40"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/yxt-fqvj-kgx"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Expressão gráfica EG21NB",
+    "monitor": "Murilo Luiz Bernardi",
+    "remoto": [
+      "Quinta-Feira: das 15h50 às 18h20"
+    ],
+    "resencial": [
+      "Terça-Feira: das 13h00 às 15h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "http://meet.google.com/yta-qedr-ydr?pli=1&authuser=0"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "BQ22G - Bioquímica",
+    "monitor": "Dielly Mayara Comelli Alves",
+    "remoto": [
+      "Segunda-Feira: das 8h20 às 10h00 e das 15h50 às 18h20",
+      "Terça-Feira: das 13h00 às 13h50"
+    ],
+    "resencial": [
+      "Terça-Feira: das 12h00 às 12h50",
+      "Quarta-Feira: das 12h00 às 12h50 e das 13h00 às 13h50",
+      "Quinta-Feira: das 13h00 às 13h50 e das 15h50 às 17h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/rcw-zdce-eep"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Computação 1 - CP21NB",
+    "monitor": "Lauro Riboli Saraiva",
+    "remoto": [
+      "Quinta-Feira: das 11h10 às 12h50 e das 18h40 às 20h20",
+      "Sexta-Feira: das 11h10 às 12h50"
+    ],
+    "resencial": [
+      "Terça-Feira: das 13h00 às 15h30",
+      "Sexta-Feira: das 15h50 às 18h20"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/sfp-iacr-oog"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Fundamentos De Programação- FP21NB / FP21S",
+    "monitor": "Luan Filipe Finatto",
+    "remoto": [
+      "Terça-Feira: das 09h10 às 12h00",
+      "Quarta-Feira: das 09h10 às 12h00"
+    ],
+    "resencial": [
+      "Quinta-Feira:das 09h10 às 12h00",
+      "Sexta-Feira: das 09h10 às 12h00"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/qre-ajho-xto"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Fundamentos de Banco de Dados - BD21S",
+    "monitor": "Jorge Gabriel Bortoluzzi Dorio",
+    "remoto": [
+      "Terça-Feira: 10h20 às 12h50",
+      "Quarta-Feira: 10h20 às 12h50"
+    ],
+    "resencial": [
+      "Quinta-Feira: das 10h20 às 12h50",
+      "Sexta-Feira: das 15h50 às 18h20"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://discord.gg/YwQFvJb3"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Física 3- FI23NB",
+    "monitor": "Ana Julia Almeida Mass",
+    "remoto": [
+      "Segunda-Feira: das 8h20 às 10h00",
+      "Quinta-Feira: das 8h20 às 10h00",
+      "Sexta-Feira: das 8h20 às 10h00"
+    ],
+    "resencial": [
+      "Terça-Feira: das 17h30 às 18h20 e das 18h40 às 19h30",
+      "Quarta-Feira: das 15h50 às 17h30",
+      "Quinta-Fiera: das 15h50 às 17h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/teu-fsrq-ncy"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "GA21NB/ AL32QB/ AL22G/ GA22M/ GA24M/IA25M/AL26M - Álgebra Linear e Geometria Analítica/ Introdução à Álgebra Linear",
+    "monitor": "Pedro Vinicius Yamamoto Agner de Faria",
+    "remoto": [
+      "Segunda-Feira: das 21h20 às 23h00",
+      "Quarta-Feira: das 18h40 às 20h20",
+      "Quinta-Feira: das 10h20 às 11h10"
+    ],
+    "resencial": [
+      "Terça-Feira: das 10h20 às 12h00",
+      "Quarta-Feira: das 13h50 às 15h30",
+      "Sexta-Feira: das 15h50 às 17h30"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://discord.gg/Q2QH9hJAKh"
+  },
+  {
+    "campus": "Pato Branco",
+    "disciplina": "Sistemas Microcontrolados - SM26EL SM26CP",
+    "monitor": "Vitor Balbinot",
+    "remoto": [
+      "Quinta-Feira:  das 7h30 às 10h00"
+    ],
+    "resencial": [
+      "Segunda-Feira: 10h20 às 12h00",
+      "Quinta-Feira: 10h20 às 12h00"
+    ],
+    "local": "Salas da monitoria no bloco W",
+    "data": "14/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/oyw-rkcz-qvs"
+  },
+  {
+    "campus": "Medianeira",
+    "disciplina": "Análise de Alimentos (TAL54F / EL55D)",
+    "monitor": "FERNANDA CAROLINA POMPEU MENEGOLI",
+    "remoto": [
+      "Terça: das 20:20 às 22:05"
+    ],
+    "resencial": [
+      "Segunda: das 20:20 às 22:05",
+      "Quinta: das 15:50 às 17:30 e 19:30 às 21:10",
+      "Sexta: das  19:30 às 21:10"
+    ],
+    "local": "Sala de Monitoria (E12)",
+    "data": "15/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/nyh-hzfu-ifc"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Álgebra LM35A",
+    "monitor": "Matheus Gonçalves Silveira",
+    "remoto": [
+      "quarta: das 09h10 às 12h00",
+      "sexta: das 09h10 às 12h00"
+    ],
+    "resencial": [
+      "segunda: das 09h10 às 11h10",
+      "terça: das 13h50 às 15h50"
+    ],
+    "local": "A 134",
+    "data": "19/09/2022 a 21/12/2022",
+    "link": "https://meet.google.com/nnk-vnoi-tpb"
+  },
+  {
+    "campus": "Cornélio Procópio",
+    "disciplina": "Física Geral 1 EM32G",
+    "monitor": "Elias Junio Muller Coelho",
+    "remoto": [
+      "terça: das 18h40 às 21h10",
+      "quinta: das 18h40 às 21h10"
+    ],
+    "resencial": [
+      "segunda: das 08h20 às 10h00",
+      "sexta: das 11h10 às 12h50"
+    ],
+    "local": "A134",
+    "data": "03/10/2022 a 21/12/2022",
+    "link": "meet.google.com/nru-hmpy-skb"
+  }
+]
