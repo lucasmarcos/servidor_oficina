@@ -4,7 +4,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Fundamentos dos Cálculos em Engenharia",
     monitor: "Leticia Cremonesi Ganacin",
     remoto: ["terça: das 19:30 às 23:00"],
-    resencial: [
+    presencial: [
       "segunda: das 13:00 às 13:50",
       "terça: das 13:00 às 13:50",
       "quarta: das 08:20 às 12:00 e 18:40 às 20:20",
@@ -18,7 +18,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Fundamentos de Química/EL31I e Química Experimental/EL32K",
     monitor: "André Luiz Neres Zanella",
     remoto: ["terça: das 19:30 às 23:00", "quarta: das 18:40 às  20:20"],
-    resencial: ["quarta: das 13:00 às 15:30", "quinta: das 13:00 às 15:30"],
+    presencial: ["quarta: das 13:00 às 15:30", "quinta: das 13:00 às 15:30"],
     local: "CENTRO DE CONVIVÊNCIA",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/czs-xqnn-vng",
@@ -28,7 +28,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral 3",
     monitor: "Nathalie Ladares de Araujo",
     remoto: ["terça: das 19:30 às 21:10", "quinta: das 13:00 às 16:40"],
-    resencial: ["segunda: das 08:20 às 12:00", "quarta: das 15:50 às 17:30"],
+    presencial: ["segunda: das 08:20 às 12:00", "quarta: das 15:50 às 17:30"],
     local: "H104",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/wrt-jywf-imn",
@@ -38,7 +38,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Número",
     monitor: "Emilli Fernanda Cruz de Oliveira",
     remoto: ["terça: das 19:30 às 21:10", "quinta: das 13:00 às 16:40"],
-    resencial: ["segunda: das 08:20 às 12:00", "quarta: das 17:30 às 19:30"],
+    presencial: ["segunda: das 08:20 às 12:00", "quarta: das 17:30 às 19:30"],
     local: "H104",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/sfw-dprr-npv",
@@ -52,7 +52,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 18:40 às 21:10",
       "quinta: das 18:40 às 21:10",
     ],
-    resencial: ["quarta: das 18:40 às 21:10"],
+    presencial: ["quarta: das 18:40 às 21:10"],
     local: "H104",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/osw-jpgq-kfu",
@@ -66,7 +66,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 10:20 às 12:00",
       "sexta: das 10:20 às 12:00",
     ],
-    resencial: [
+    presencial: [
       "terça: das 15:50 às 17:30",
       "quarta: das 13:50  às 15:30",
       "quinta: das 15:50 às 17:30",
@@ -80,7 +80,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Física I",
     monitor: "Gustavo Honório dos Santos",
     remoto: ["quarta: das  13:00 às 13:50", "sexta: das  13:00 às 16:40"],
-    resencial: [
+    presencial: [
       "terça: das 15:50 às  17:30",
       "quarta: das 13:50  às 15:30",
       "quinta: das 13:00 às 15:30",
@@ -98,7 +98,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 18:40 às 20:20",
       "quarta: das 16:40 às 19:30",
     ],
-    resencial: [
+    presencial: [
       "segunda: das 08:20 às 10:00",
       "quarta: das 08:20 às 10:00",
       "sexta: das 15:50 às 17:30",
@@ -116,7 +116,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 18:40 às 21:10",
       "sexta: das 18:40 às 21:10",
     ],
-    resencial: [
+    presencial: [
       "segunda: das 09:10 às 10:00",
       "terça: das 09:10 às 10:00",
       "quarta: das 09:10 às 10:00",
@@ -130,7 +130,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Ciência Dos Materiais Para Engenharia Civil",
     monitor: "Gabriel Baiesteiro Lopes",
     remoto: ["quinta: das 17:30 às 20:30", "sexta: das 17:30 às 19:30"],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/vty-hyzm-tpr",
@@ -140,7 +140,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Geoprocessamento",
     monitor: "Kelly Maria Coelho",
     remoto: ["quarta: das 17:30 às 20:20", "quinta: das 17:30 às 20:20"],
-    resencial: ["terça: das 15:50 às 18:20", "sexta: das 08:20 às 11:10"],
+    presencial: ["terça: das 15:50 às 18:20", "sexta: das 08:20 às 11:10"],
     local: "F008",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/erd-yyck-psy",
@@ -150,7 +150,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Princípios de Máquinas Elétricas LT35D",
     monitor: "Jonatas Silva Tank",
     remoto: ["segunda: das 10:20 às 12:00", "sexta: das 13:50 às 17:30"],
-    resencial: ["terça: das 15:50 às 17:30", "quarta: das 13:00 às 15:30"],
+    presencial: ["terça: das 15:50 às 17:30", "quarta: das 13:00 às 15:30"],
     local: "CENTRO DE CONVIVÊNCIA",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/kmw-myrp-shi",
@@ -160,7 +160,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Probabilidade e Estatística/PB3XB",
     monitor: "Rhenan Batista Martins",
     remoto: ["quarta: das 18:40 às 21:10", "quinta: das 14:40 às 17:30"],
-    resencial: [
+    presencial: [
       "< escreva aqui os dias e horários, por exemplo: >",
       "segunda: das 13:00 às 13:50 e 17:30  às  18:20",
       "terça: das 13:00 às 13:50 e 16:40 às 18:20",
@@ -176,7 +176,7 @@ export const EXEMPLO_MONITORIAS = [
       "Algoritmos, Algoritmos e Estruturas de Dados 1 e Algoritmos e Estruturas de Dados 2",
     monitor: "Gabriela Paola Sereniski",
     remoto: ["quinta: das 10:20 às 12:00", "sexta: das 19:30 às 23:00"],
-    resencial: [
+    presencial: [
       "segunda: das 17:30 às 18:20",
       "terça: das 17:30 às 19:30",
       "quarta: das 17:30 às 18:20",
@@ -195,7 +195,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 14:00 às 16:00 e 18:00 às 20:00",
       "sexta: das 14:00 às 17:00",
     ],
-    resencial: [],
+    presencial: [],
     local: "H104",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/jbt-wqavekc?pli=1&authuser=0",
@@ -212,7 +212,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 11:10 às 12:00",
       "sexta: das 11:10 às 12:00",
     ],
-    resencial: [
+    presencial: [
       "segunda: das 17:30  às 19:30",
       "quarta: das 19:30 às 21:10",
       "quinta:  das 17:30  às 19:30",
@@ -230,7 +230,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 13:00 às 13:50",
       "sexta: das 09:10 às 11:10",
     ],
-    resencial: [
+    presencial: [
       "terça: das 17:30 às 19:30",
       "quarta: das 17:30 às 19:30",
       "quinta:  das 17:30 às 19:30",
@@ -247,7 +247,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 16:00 às 17:00",
       "sexta: das 13:00 às 16:00 e 19:00 às 20:00",
     ],
-    resencial: ["segunda: das 17:00 – 18:00", "quinta: das 17:00 às 21:00"],
+    presencial: ["segunda: das 17:00 – 18:00", "quinta: das 17:00 às 21:00"],
     local: "CENTRO DE CONVIVÊNCIA",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/ywy-hzgb-znw",
@@ -257,7 +257,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral 2",
     monitor: "Daniel Marcelo Evangelista Da Silva",
     remoto: ["terça:  das 13:00 às 15:30", "sexta: das 18:40 às 21:10"],
-    resencial: ["segunda: das 13:00 às 15:30", "sexta: das 13:00 às 15:30"],
+    presencial: ["segunda: das 13:00 às 15:30", "sexta: das 13:00 às 15:30"],
     local: "H104",
     data: "24/08/2022 a 21/12/2022",
     link: "http://meet.google.com/mre-tvdf-iiu",
@@ -270,7 +270,7 @@ export const EXEMPLO_MONITORIAS = [
       "segunda: das 18:40 às 19:30 e 21:20 às 23:00",
       "quarta: das  21:20 às 23:00",
     ],
-    resencial: [
+    presencial: [
       "quarta: das 13:00 às 15:30",
       "quinta: das 13:00 às 13:50 e 17:30 às 18:20",
     ],
@@ -283,7 +283,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Equações Diferenciais Ordinárias (PP54A)",
     monitor: "ATHOS VICTOR MORAES PELISSARI",
     remoto: ["Terça: das 18:40 às 21:10", "Quarta: das 18:40 às 21:10"],
-    resencial: [
+    presencial: [
       "Terça: das 16:40 às 18:40",
       "Quarta: das 16:40 às 18:40",
       "Quinta: das 16:40 às 18:40",
@@ -300,7 +300,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta: das 18:40 às 20:20",
       "Sexta: das 09:10 às 11:10 e 18:40 às 20:20",
     ],
-    resencial: [
+    presencial: [
       "Segunda: das 19:30 às 21:10",
       "Terça: das 18:40:10 às 20:20",
       "Quinta: 09:10 às 10:00 e 19:30 às 20:20",
@@ -318,7 +318,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta: das 20:20 às 22:05",
       "Sexta: 19:30 às 20:20",
     ],
-    resencial: [
+    presencial: [
       "Segunda: 07:30 às 08:20",
       "Terça: das 10:20 às 12:00 e 15:50 às 17:30",
       "Quinta: 07:30 às 09:10",
@@ -332,7 +332,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral I (PP51A)",
     monitor: "MARCOS ANTÔNIO SEDANO SOLETTI",
     remoto: ["Quarta: das 18:40  às  21:10", "Quinta: das 19:30 às  21:10"],
-    resencial: [
+    presencial: [
       "Segunda: 19:30 às 21:10",
       "Terça: das 10:20 às 12:00",
       "Quinta: das 13:00 às 14:40",
@@ -347,7 +347,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Desenho Técnico (TECN51E)",
     monitor: "VINICIUS LIMA PASSOLONGO",
     remoto: ["Segunda: das 10:20 às 12:00", "Terça: das 13:00 às 15:30"],
-    resencial: [
+    presencial: [
       "Quarta: das 18:40 às 20:20",
       "Sexta: das  08:20 às 12:00 e 13:00 às 13:50",
     ],
@@ -366,7 +366,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta: das 13:00 às 13:50 e 17:50 às 18:40",
       "Sexta: das 17:50 às 18:40",
     ],
-    resencial: [
+    presencial: [
       "Segunda: das 07:30 às 08:20",
       "Terça: das 07:30 às 09:10",
       "Quarta: das 07:30 às 08:20",
@@ -385,7 +385,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta: das 13:00 às 13:50 e 19:30 às 20:20",
       "Sexta: das 09:10 às 10:00",
     ],
-    resencial: [
+    presencial: [
       "Segunda: das 08:20 às 10:00 e 19:30 às 21:10",
       "Terça: das 20:20 às 22:05",
       "Quinta: das 20:20 às 22:05",
@@ -404,7 +404,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta: das 18:40 às 20:20",
       "Sábado: das 10:20 às 12:00",
     ],
-    resencial: [
+    presencial: [
       "Segunda: das 08:20 às 11:10 e 15:50 às 16:40",
       "Quarta: das  08:20 às 11:10",
       "Quinta: das  08:20 às 11:10",
@@ -422,7 +422,7 @@ export const EXEMPLO_MONITORIAS = [
       "Terça: das 08:20 às 10:00",
       "Quarta: das 15:50 às 17:30",
     ],
-    resencial: [
+    presencial: [
       "Quarta: das  10:20 às 12:00",
       "Sexta: das  15:50 às 17:30 e 19:30 às 21:10",
     ],
@@ -439,7 +439,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta: das 17:50 às 18:40",
       "Sexta: das 08:20 às 10:00",
     ],
-    resencial: [
+    presencial: [
       "Segunda: das 17:50 às 19:30",
       "Quarta: das 08:20 às 10:00",
       "Quinta: das 18:40 às 19:30",
@@ -458,7 +458,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta: das 18:40 às 20:20",
       "Sexta: das 18:40 às 21:10",
     ],
-    resencial: ["Terça: das 13:00 às 17:30", "Quarta: das 13:00 às 15:30"],
+    presencial: ["Terça: das 13:00 às 17:30", "Quarta: das 13:00 às 15:30"],
     local: "Sala de Monitoria (E12)",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/kna-xisw-hgs",
@@ -469,7 +469,7 @@ export const EXEMPLO_MONITORIAS = [
       "Fundamentos de Programação (CC51B); Lógica Matemática (CC51A); Ling. de Programação Estruturada (CC52A); Pesquisa e Ordenação de Dados (CC54C); Computação 1 (PP52G); Estrutura de Dados (CC53C)",
     monitor: "MARLON DANIEL ANGELI",
     remoto: ["Segunda: das 09:10 às 12:00", "Sábado: das 08:20 às 11:10"],
-    resencial: [
+    presencial: [
       "Segunda: das 18:40 às 21:10",
       "Quarta: das 18:40 às 21:10",
       "Sexta: das 18:40 às 21:10",
@@ -483,7 +483,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral II (PP52A)",
     monitor: "ALEXANDRE LIMA BRITO",
     remoto: ["Segunda: das 13:00 às 15:30", "Quinta: das 07:30 às 09:10"],
-    resencial: [
+    presencial: [
       "Segunda: das 10:20 às 12:00",
       "Quinta: das 09:10 às 10:00",
       "Sexta: das 11:10 às 12:00 e 18:40 às 21:10",
@@ -502,7 +502,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira: das 10h20 às 12h00 e das 19h30 às 20h20.",
       "Sexta-Feira: das 10h20 às 12h00.",
     ],
-    resencial: [
+    presencial: [
       "    Terça-Feira: das 10h20 às 12h00 e das 15h50 às 17h30.",
       "Quinta-Feira: das 10h20 às 12h00.",
     ],
@@ -516,7 +516,7 @@ export const EXEMPLO_MONITORIAS = [
       "Estrutura de Dados, Pesquisa e Ordenação - ED22S Algoritmos e Estruturas de Dados 1 - AE22CP",
     monitor: "João Henrique Pereira Machado",
     remoto: ["    Terça-Feira: das 15h50 às 18h20 e das 18h40 às 21h10."],
-    resencial: [
+    presencial: [
       "    Quarta-Feira: das 13h00 às 15h30.",
       "Sexta-Feira:     das 13h00 às 15h30.",
     ],
@@ -533,7 +533,7 @@ export const EXEMPLO_MONITORIAS = [
       "    Sexta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00. das 13h50 as 15h30 e das 15h50 às",
       "16h40.",
     ],
-    resencial: [
+    presencial: [
       "    Terça-Feira: das 14h40 às 15h30 e das 15h50 às 17h30.",
       "Quinta-Feira:     das 14h40 às 15h30 e das 15h50 às 17h30.",
     ],
@@ -549,7 +549,7 @@ export const EXEMPLO_MONITORIAS = [
       "    Segunda-Feira: das 09h10 às 10h00 e das 10h20 às 12h00.",
       "Quinta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00.",
     ],
-    resencial: [
+    presencial: [
       "    Quarta-Feira: das 13h50 às 15h30.",
       "Quinta-Feira: das 13h50 às 15h30.",
       "Sexta-Feira: das 13h50 às 15h30.",
@@ -566,7 +566,7 @@ export const EXEMPLO_MONITORIAS = [
       "    Segunda-Feira: das 18h40 às 21h10.",
       "Quinta-Feira: das 18h40 às 21h10.",
     ],
-    resencial: [
+    presencial: [
       "    Quarta-Feira: das 13h00 às 15h30.",
       "Quinta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00.",
     ],
@@ -582,7 +582,7 @@ export const EXEMPLO_MONITORIAS = [
       "    Terça-Feira: das 18h40 às 21h10 e das 21h20 às 22h10.",
       "Quarta-Feira: das 19h30 às 20h20.",
     ],
-    resencial: [
+    presencial: [
       "    Segunda-Feira: das 09h10 às 10h00.",
       "Terça-Feira: das 13h00 às 13h50.",
       "Quarta-Feira: das 13h00 às 15h30.",
@@ -601,7 +601,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta-Feira: das 18h40 às 20h20.",
       "Sexta-Feira: das 13h00 às 14h40.",
     ],
-    resencial: [
+    presencial: [
       "    Segunda-Feira: das 13h00 às 13h50.",
       "Quarta-Feira: das 13h00 às 13h50.",
       "Quinta-Feira: das 08h20 às 10h00 e das 15h50 às 17h30.",
@@ -619,7 +619,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10.",
       "Quinta-Feira: das 13h50 às 15h30.",
     ],
-    resencial: [
+    presencial: [
       "    Terça-Feira: das 13h00 às 13h50.",
       "Quarta-Feira: das 13h00 às 13h50.",
       "Quinta-Feira: das 17h30 às 18h20.",
@@ -638,7 +638,7 @@ export const EXEMPLO_MONITORIAS = [
       "Segunda-Feira: das 18h40 às 21h10",
       "Terça-Feira: das 18h40 às 21h10",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 07h30 às 08h20",
       "sexta-feira: das 7h30 às 10h00 e 10h20 às 12h00.",
     ],
@@ -654,8 +654,8 @@ export const EXEMPLO_MONITORIAS = [
       "Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 23h00",
       "Terça-Feira: das 20h20 às 21h10 e das 21h20 às 23h00",
     ],
-    resencial: [
-      "Dias e horários de atendimento presencial no campus:",
+    presencial: [
+      "Dias e horários de atendimento ppresencial no campus:",
       "Segunda-Feira: das 15h50 às 17h30",
       "Terça-Feira: das 13h00 às 13h50",
       "Quarta-Feira: das 13h00 às 14h40",
@@ -674,7 +674,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta-Feira: das 18h40 às 19h30.",
       "Sexta-Feira: das 13h50 às 15h30 e das 15h50 às 17h30.",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 13h00 às 15h30",
       "Quarta-feira: e das 13h00 às 13h50.",
       "Quinta-Feira: das 15h50 às 17h30.",
@@ -691,7 +691,7 @@ export const EXEMPLO_MONITORIAS = [
       "Segunda-Feira: das 17h30 às 18h20.",
       "Quarta-Feira: das 09h10 às 10h00 e das 17h30 às 18h20.",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 16h40 às 17h30.",
       "Terça-Feira: das 10h20 às 11h10.",
       "Quarta-Feira: das 10h20 às 11h10.",
@@ -708,7 +708,7 @@ export const EXEMPLO_MONITORIAS = [
       "    Segunda-Feira: das 16h40 às 18h20 e das 18h40 às 19h30.",
       "Sexta-Feira: das 16h40 às 18h20 e das 18h40 às 19h30.",
     ],
-    resencial: [
+    presencial: [
       "    Segunda-Feira: das 07h30 às 08h20.",
       "Terça-Feira: das 12h00 às 12h50 e das 13h00 às 13h50.",
       "Quarta-Feira: das 07h30 às 08h20.",
@@ -723,7 +723,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Experimentação Agrícola - EA25G",
     monitor: "Lahura Ignes Giongo",
     remoto: ["Sábado: das 09h10 às 12h50."],
-    resencial: [
+    presencial: [
       "Terça-Feira: das 09h10 às 10h e das 13h às 13h50",
       "Quinta-Feira: das 11h10 às 12h e das 13h às 13h50.",
     ],
@@ -736,7 +736,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Mecânica Geral 1 - MG24NB",
     monitor: "Matheus Vilarinho Machado Brasilino",
     remoto: ["    Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 16h40."],
-    resencial: ["    Quarta-Feira: das 10h20 às 12h00."],
+    presencial: ["    Quarta-Feira: das 10h20 às 12h00."],
     local: "Salas da monitoria no bloco W",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/okg-rmnh-qzp",
@@ -750,7 +750,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira: das 21h20 às 23h00",
       "Quinta-Feira: das 21h20 às 23h00",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 13h00 às 13h50 e das 18h40 às 20h20",
       "Terça-Feira: das 13h00 às 13h50",
       "Quinta-Feira: das 11h10 às 12h00 e das 13h00 às 13h50",
@@ -768,7 +768,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira: das 8h20 às 10h00",
       "Sexta-Feira: das 8h20 às 10h00",
     ],
-    resencial: [
+    presencial: [
       "Terça-Feira: das 13h50 às 15h30",
       "Quarta-Feira: das 13h50 às 15h30",
       "Quinta-Feira: das 13h50 às 15h30",
@@ -785,7 +785,7 @@ export const EXEMPLO_MONITORIAS = [
       "Segunda-Feira: das 7h30 às 9h10",
       "Quinta-Feira:das 19h30 às 21h10 e das 21h20 às 22h10",
     ],
-    resencial: [
+    presencial: [
       "Terça-Feira: das 18h40 às 21h10",
       "Quarta-Feira: das 7h30 às 10h00",
     ],
@@ -800,7 +800,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Quinta-Feira: das 12h00 às 12h50 e das 13h00 às 15h30 e das 15h50 às 17h30",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 16h40 às 18h20",
       "Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 17h30",
     ],
@@ -816,7 +816,7 @@ export const EXEMPLO_MONITORIAS = [
       "Terça-Feira: das 13h50 às 15h30",
       "               Sexta-Feira: das 13h50 às 15h30",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 21h20 às  23h00",
       "Terça-Feira: das 18h40 às 19h30",
       "Quinta-Feira: das 18h40 às 19h30",
@@ -830,7 +830,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Numérico - CN24NB",
     monitor: "Matheus Chaves de Almeida",
     remoto: ["Terça-Feira: das 18h40 às 19h30", "Quarta-Feira: 18h40 às 20h20"],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 13h50 às 14h40",
       "Quinta-Feira: das 13h50 às 15h30",
     ],
@@ -847,7 +847,7 @@ export const EXEMPLO_MONITORIAS = [
       "Terça-Feira: das 18h40 às 20h20",
       "Quinta-Feira: das 18h40 às 20h20",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 10h20 às 12h00 e das 13h00 às 13h50",
       "Terça-Feira: das 7h30 às 9h10",
       "Quarta-Feira: das 13h00 às 13h50",
@@ -864,7 +864,7 @@ export const EXEMPLO_MONITORIAS = [
       "Segunda-Feira: das 13h00 às 14h40",
       "Sexta-Feira: das 8h20 às 9h10 e das 13h00 às 15h30",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 14h40 às 15h30 e das 15h50 às 17h30",
       "Terça-Feira: das 13h00 às 15h30",
     ],
@@ -877,7 +877,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Química Analítica 1/QA33QB",
     monitor: "Hodikson Paz",
     remoto: ["Segunda-Feira: 13h50 às 15h30 e das 15h50 às 16h40"],
-    resencial: ["Quarta-Feira: das 11h10 às 12h00 e das 15h50 às 17h30"],
+    presencial: ["Quarta-Feira: das 11h10 às 12h00 e das 15h50 às 17h30"],
     local: "Salas da monitoria no bloco W",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/unu-nrph-ykt",
@@ -887,7 +887,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Operações Unitárias 1 e 2 OU34QB/ OU35QB",
     monitor: "Danilo Damico Brauna Avanso Urzulin",
     remoto: ["Quinta-Feira: das 9h10 às 10h00 e das 10h20 ás 12h00"],
-    resencial: ["Segunda-Feira: das 13h00 às 15h30"],
+    presencial: ["Segunda-Feira: das 13h00 às 15h30"],
     local: "Salas da monitoria no bloco W",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/apt-ztog-vwn",
@@ -900,7 +900,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira: das 13H50 às 15h30 e das 15h50 às 16h40",
       "        Quinta-Feira:  das 13H50 às 15h30 e das 15h50 às 16h40",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 13H50 às 15h30 e das 15h50 às 16h40",
       "        Terça-Feira: das 13H50 às 15h30 e das 15h50 às 16h40",
     ],
@@ -916,7 +916,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira: das 16h40 às 18h20 e das 18h40 às 19h30",
       "Sexta-Feira: das 13h00 às 15:30",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 17h30 às 18h20",
       "Quinta-Feira: das 8h20 às 10h00 e das 15h50 às 16h40",
       "Sexta-Feira: das 8h20 às 10h00",
@@ -934,7 +934,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira:das 9h10 às 10h00 e das 10h20 às 12h00",
       "Quinta-Feira:das 9h10 às 10h00 e das 10h20 às 12h00",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira:das 10h20 às 11h10 e das 12h00 às 12h50",
       "Terça-Feira: das 13h50 às 15h30",
       " Sexta-Feira: das 17h30 às 18h20 e das 18h40 Às 19h30",
@@ -953,7 +953,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira: das 18h40 às 20h20",
       "Quinta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: 17h30 às 18h20",
       "Terça-Feira: 17h30 às 18h20",
       "Quarta-Feira: das 13h00 às 14h40",
@@ -970,7 +970,7 @@ export const EXEMPLO_MONITORIAS = [
       "QA12I; QA12R e QA31F - QUÍMICA ANALÍTICA QUANTITATIVA, QUÍMICA ANALÍTICA e QUÍMICA ANALÍTICA A",
     monitor: "Stella Silva Mascarenhas Chaves",
     remoto: ["terça: das 16:00 às 19:00", "quarta: das 15:00 às 17:00"],
-    resencial: ["segunda: das 13;00 às 16:00", "sexta: das 15:00 às 17:00"],
+    presencial: ["segunda: das 13;00 às 16:00", "sexta: das 15:00 às 17:00"],
     local: "B3S3",
     data: "24/08/2022 a 21/12/2022",
     link: "http://meet.google.com/jyh-vmrp-wbx",
@@ -981,7 +981,7 @@ export const EXEMPLO_MONITORIAS = [
       "QUÍMICA ANALÍTICA QUANTITATIVA, QUÍMICA ANALÍTICA E QUÍMICA ANALÍTICA A, código(s) QA12I, QA12R",
     monitor: "GUILHERME PEREIRA DE OLIVEIRA",
     remoto: ["terça: das 18:00 às 20:00", "sexta: das 15:00 às 18:00"],
-    resencial: [
+    presencial: [
       "segunda: das 13:00 às 15:00",
       "quarta: das 16:00 às 18:00",
       "quinta: das 15:00 às 16:00",
@@ -999,7 +999,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 19:00 às 20:40",
       "sexta: das 09:10 às 10:00 e das 10h20 às 11h10",
     ],
-    resencial: [
+    presencial: [
       "segunda: das 15:50 às 17:30 sala b3s4",
       "terça: das 13:00 às 14:40 sala b3s4",
       "quarta: das 13:00 s 14:40 sala b3s4",
@@ -1014,7 +1014,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "GS15R - Geoprocessamento e Sensoriamento Remoto",
     monitor: "Giovana Aparecida Calixto Dos Santos",
     remoto: ["quinta: das 8:00 às 11:00"],
-    resencial: ["segunda: das 13:00 às 15h:00"],
+    presencial: ["segunda: das 13:00 às 15h:00"],
     local: "Laboratório de Topografia e Geoprocessamento",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/rou-auyx-qqh",
@@ -1024,7 +1024,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "GP38C - Genética de populações",
     monitor: "Camila Luiza Comelli",
     remoto: ["quarta: das 09:00 às 11:00"],
-    resencial: ["terça: das 19:00 às 21:00"],
+    presencial: ["terça: das 19:00 às 21:00"],
     local: "https",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/gcv-oryx-qqs",
@@ -1038,7 +1038,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 16:00 às 17:00",
       "sexta: das 16:00 às 17:00",
     ],
-    resencial: ["segunda: das 08:00 às 10:00", "quinta: das 13:00 às 15:00"],
+    presencial: ["segunda: das 08:00 às 10:00", "quinta: das 13:00 às 15:00"],
     local: "Laboratório de Manejo Florestal LAMAF BLOCO E4",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/dbc-bpuw-pcj",
@@ -1048,7 +1048,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "GG34C - Genética Geral e Humana",
     monitor: "Isabela Pierozan Paludo",
     remoto: ["quinta: das 16:00 às 19:00", "sexta: das 17:00 às 19:00"],
-    resencial: ["quarta: das 14:00 às 19:00"],
+    presencial: ["quarta: das 14:00 às 19:00"],
     local: "Laboratório de biologia molecular no G10",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/trm-togt-kmr",
@@ -1058,7 +1058,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "TP13R - Topografia I",
     monitor: "Marcos Felipe Dos Santos Bueno",
     remoto: ["terça: das 18:00 às 19:00", "quarta: das 08:00 às 12:00"],
-    resencial: ["segunda: das 08:00 às 09:00 e das 13:00 às 17:00"],
+    presencial: ["segunda: das 08:00 às 09:00 e das 13:00 às 17:00"],
     local: "Laboratório de Topografia e Geoprocessamento",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/upw-htis-cbg",
@@ -1068,7 +1068,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "AH33C - Anatomia Humana",
     monitor: "Marieli Zamprogna",
     remoto: ["segunda: das 15:00 às 17:00"],
-    resencial: ["segunda: das 17:00 às 19:00"],
+    presencial: ["segunda: das 17:00 às 19:00"],
     local: "Laboratório de Anatomia e Fisiologia Humana (Bloco E5).",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/cfh-ynfx-fcx",
@@ -1084,7 +1084,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 15:10 às 16:10",
       "sexta: das 15:10 às 16:10",
     ],
-    resencial: ["quarta: das 21:30 às 23:00", "sexta: 20:30 às 23:00"],
+    presencial: ["quarta: das 21:30 às 23:00", "sexta: 20:30 às 23:00"],
     local: "Centro de Convivência MONITORIA SALA 1.",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/zzi-xdcz-fwt",
@@ -1094,7 +1094,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "BT42B, FV43B - ZOOTECNIA",
     monitor: "Luiza Fernanda da Silva",
     remoto: ["terça: das 19:00 às 20:40", "sexta: das 15:50 ´s 18:20"],
-    resencial: [
+    presencial: [
       "segunda: das 13:50 às 15:30",
       "quarta: das 10:20 às 12:00",
       "quinta: das 10:20 às 12:00",
@@ -1109,10 +1109,10 @@ export const EXEMPLO_MONITORIAS = [
       "AL11R, AL21S e MA31F - Álgebra linear, Álgebra linear e Matemática A",
     monitor: "RICARDO MAX GONTARZ JUNIOR",
     remoto: ["terça: das 13:30 às 16:30", "quinta: das 13:30 às 15:30"],
-    resencial: [
+    presencial: [
       "segunda: das 13:30 às 15:30 e das 16:30 às 18:30",
       "sexta: das 20:30 às 21:30",
-      "Atendimento presencial sala: B5S2 (4 horas) (ATEND-P) - Segunda-feira",
+      "Atendimento ppresencial sala: B5S2 (4 horas) (ATEND-P) - Segunda-feira",
       "Centro de convivência sala 2 (1 hora) (ATEND -P) - Sexta -feira",
     ],
     local: "B5S2 e Centro de convivência sala 2",
@@ -1125,7 +1125,7 @@ export const EXEMPLO_MONITORIAS = [
       "DT11R, DT31F e DT12 - Desenho Técnico e Desenho Técnico Aplicado",
     monitor: "Jean Carlos Fries",
     remoto: ["terça: das 19:00 às 21:00", "quarta: das 18:00 às 21:00"],
-    resencial: ["segunda: das 13:00 às 15:00", "sexta: das 13:00 às 16:00"],
+    presencial: ["segunda: das 13:00 às 15:00", "sexta: das 13:00 às 16:00"],
     local: "Sala B8-S6",
     data: "24/08/2022 a 21/12/2022",
     link: "Sala Remota:",
@@ -1141,7 +1141,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 16h00 às 17h00",
       "sexta: das 16h00 às 17h00",
     ],
-    resencial: [
+    presencial: [
       "segunda: das 18h00 às 19h00",
       "terça: das 18h00 às 19h00",
       "quarta: das 18h00 às 19h00",
@@ -1162,7 +1162,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 17:50 às 20:20",
       "sexta: das  17:50 às 18:40 e das 21:10 às 22:50",
     ],
-    resencial: [],
+    presencial: [],
     local: "",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/fux-miev-grd",
@@ -1176,7 +1176,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 18h40 às 20h20   (Não haverá atendimento no dia 13/09/2022)",
       "sábado: das 8h20 às 13h",
     ],
-    resencial: [],
+    presencial: [],
     local: "",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/ujz-ezes-dvn",
@@ -1186,7 +1186,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Pesquisa Operacional 1 AS15A",
     monitor: "Ana Paula Barbosa de Morais",
     remoto: ["segunda: das 15:50 às 17:30", "quarta: das 17:50 às 19:30"],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/tfd-wizx-qkd",
@@ -1196,7 +1196,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Química inorgânica 1 QM82C",
     monitor: "Fernanda Roverato Moura",
     remoto: ["Segunda feira - das 13h50 as 17h30"],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/xja-yixv-qxr",
@@ -1206,7 +1206,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Microbiologia AL32D",
     monitor: "Gabriel José Couto",
     remoto: ["sexta-feira das 18:40 a 21:10"],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://tel.meet/rbb-uzgk-ygz?pin=6660686858185",
@@ -1216,7 +1216,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Transferência de Massa EQ67A",
     monitor: "Gabriel Spironelli Pinheiro",
     remoto: ["segunda: Das 20h20 as 22h00", "Terça: Das 13h00 as 14h40"],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/wfp-vsqb-voe",
@@ -1231,7 +1231,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 19h30min até às 21h10min",
       "quinta: das 17h50min até às 19h30min",
     ],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/zrk-rbby-hoa?authuser=1",
@@ -1241,7 +1241,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Introdução à Administração AD11A",
     monitor: "Guilherme Morete Felix",
     remoto: ["quarta: das 18h40 até às 22h10"],
-    resencial: [],
+    presencial: [],
     local: "Não há.",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/rjb-nymm-xkq",
@@ -1251,7 +1251,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Expressão Gráfica DE61B",
     monitor: "Gustavo Moreira de Brito",
     remoto: ["quinta: das 18h40 até às  21h10"],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/quf-eymx-pir",
@@ -1265,7 +1265,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 18h40 às20h20",
       "quarta: das 16h40 às 17h30",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/swz-rjgf-mzs",
@@ -1280,7 +1280,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 18:40 às 20:20",
       "sexta: das 18:40 às 20:20",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/uwu-itnt-xtg",
@@ -1294,7 +1294,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 13h50 às 17h30",
       "sábado: das 15h50 às 18h40",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há.",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/bmj-tsyp-rym",
@@ -1308,7 +1308,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 14h40 às 17h30",
       "quarta: das 13h50 às 15h30",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/hgq-augu-qgd",
@@ -1324,7 +1324,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 21h20 as 22h10",
       "quinta: das 21h20 as 22h10",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/frm-inrg-fqt",
@@ -1340,7 +1340,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 20h20 às 22h",
       "sexta: das 20h20 às 22h",
     ],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/vhn-misd-bpb",
@@ -1355,7 +1355,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta:  das 18h40 às 20h20",
       "sabado: das 9:10 às12:00",
     ],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/hsb-gyyt-tqj",
@@ -1369,7 +1369,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 16:40 às 18:20",
       "sexta: das 19:30 às 21:10",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/oya-cxwv-gwe",
@@ -1384,7 +1384,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 9h30 às11h",
       "sexta: das 13h50 às 15h30",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/zdg-gcsp-vxt",
@@ -1399,7 +1399,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 18h40 às 20h20",
       "sexta: das 15:50 as 17:30",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/asn-wuoe-oyn",
@@ -1410,10 +1410,10 @@ export const EXEMPLO_MONITORIAS = [
     monitor: "Samuel Ferraz Toledo",
     remoto: [
       "segunda: das 20h20 às 22h00 (online - endereço no cabeçalho)",
-      "terça: das 17h40 às 18h30 (presencial - sala k-211 - campus Londrina) e das  18h40 até 19h30 (k314)",
+      "terça: das 17h40 às 18h30 (ppresencial - sala k-211 - campus Londrina) e das  18h40 até 19h30 (k314)",
       "quinta: das 20h20 às 21h10 (online - endereço no cabeçalho)",
     ],
-    resencial: [],
+    presencial: [],
     local: "K211",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/ypr-pmbf-zok",
@@ -1428,7 +1428,7 @@ export const EXEMPLO_MONITORIAS = [
       "sexta: das 10:20 às 12:00",
       "OBS: Na semana de 12 a 16 de setembro de 2022 não haverá atendimento devido a Semana Acadêmica",
     ],
-    resencial: [],
+    presencial: [],
     local: "K111",
     data: "24/08/2022 a 21/12/2022",
     link: "Não há",
@@ -1438,9 +1438,9 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Qualidade da Água EA65A",
     monitor: "Vitor Antonio Campos",
     remoto: [
-      "sexta: das10:20 às 12:00 (presencial, Sala S04, campus Londrina)",
+      "sexta: das10:20 às 12:00 (ppresencial, Sala S04, campus Londrina)",
     ],
-    resencial: [],
+    presencial: [],
     local: "S 04",
     data: "24/08/2022 a 21/12/2022",
     link: "Sala Remota:",
@@ -1454,7 +1454,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 18h40 até 20h20",
       "quinta: das 18h40 até 20h20",
     ],
-    resencial: [],
+    presencial: [],
     local: "Não há",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/suu-aipi-ptq",
@@ -1464,7 +1464,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Mecânica Geral 1 EB13A",
     monitor: "Juan Manoel da Silva Blanes",
     remoto: ["Terça das 17h50 até 21h10"],
-    resencial: [],
+    presencial: [],
     local: "Não há.",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/ihq-ygvf-ofj?pli=1",
@@ -1474,7 +1474,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Equações Diferenciais Ordinárias CV43E / CP43C / ET43A / MA5B",
     monitor: "Rafael Matheus Neckel",
     remoto: ["Segunda e terça: 18h40 às 21h10"],
-    resencial: ["Quarta: 13h50 às 15h30", "Quinta e sexta: 10h20 às 12h00"],
+    presencial: ["Quarta: 13h50 às 15h30", "Quinta e sexta: 10h20 às 12h00"],
     local: "C-304",
     data: "24/08/2022 a 21/12/2022",
     link: "https://discord.gg/v323n73Ebx",
@@ -1484,7 +1484,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Mecânica Geral 1 e 2 ET42H/CV43D",
     monitor: "Gabriel Locatelli",
     remoto: ["Quarta - feira: 17:30 às 19:30 e Quinta - feira: 13:50 às 15:50"],
-    resencial: [
+    presencial: [
       "Segunda e terça: 19:30 às 21:20, Quarta e Quinta: 15:50 às 17:30",
     ],
     local: "C-304",
@@ -1496,7 +1496,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral 1 CP41B",
     monitor: "Marlon Roberto Varela Texeira",
     remoto: ["Segunda e Quarta: 8h20 - 11h10, Terça: 18h40-21h20"],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://discord.gg/Ws3x8Zuza7",
@@ -1508,7 +1508,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda: 8h20 - 12h, Quarta: 7h30 - 11h10, Quinta: 7h30 - 12h, Sexta: 8h20 - 9h10",
     ],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "https://discord.gg/dyR2YAt4",
@@ -1518,7 +1518,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Fundamentos de Programação TSI31B",
     monitor: "Rafael Farias Meneses",
     remoto: ["Terça e Quinta: 15h50 - 18h20"],
-    resencial: ["Quinta: 20h20 - 23h00", "Sexta 18h40 - 21h10"],
+    presencial: ["Quinta: 20h20 - 23h00", "Sexta 18h40 - 21h10"],
     local: "C-201",
     data: "24/08/2022 a 21/12/2022",
     link: "https://chat.whatsapp.com/GyDbmyu74DS3rNvoBEpX36 / https://meet.google.com/yzu-oyyr-aam",
@@ -1528,7 +1528,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Mecânica dos Solos I e II CV45B e CV46G",
     monitor: "Sara Elen dos Santos",
     remoto: ["Terça : 8:20 as 10:00", "Quarta e Quinta: 9:10 as 11:10"],
-    resencial: [
+    presencial: [
       "Segunda e Terça : 15:50 as 17:30 e",
       "Quarta : 16:40 as 18:20",
     ],
@@ -1542,7 +1542,7 @@ export const EXEMPLO_MONITORIAS = [
       "Química Básica Teórica/ Química Geral Teórica CV41H/ ET42L/ PQ51H/ BP41H",
     monitor: "Brenda Pommer de Araujo",
     remoto: ["Terça-feira: 20h00 às 21h00", "Sexta-feira: 10h00 às 14h00"],
-    resencial: ["Segunda-feira: 18:00 às 20:00", "Terça-feira: 09:00 ao 12:00"],
+    presencial: ["Segunda-feira: 18:00 às 20:00", "Terça-feira: 09:00 ao 12:00"],
     local: "C-304",
     data: "24/08/2022 a 21/12/2022",
     link: "https://discord.gg/Qq2ck8J2",
@@ -1552,7 +1552,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Microbiologia Geral BP42C-BP42A",
     monitor: "Vitória Durães Chlusewicz",
     remoto: ["Sexta 13h00 às 17h30"],
-    resencial: ["Segunda 09h10 - 12h00", "Quinta 13h50 - 15h30"],
+    presencial: ["Segunda 09h10 - 12h00", "Quinta 13h50 - 15h30"],
     local: "E107",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/toc-ftff-kbh",
@@ -1566,7 +1566,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta 14:40 - 16:40",
       "Quarta 19:30 - 21:20",
     ],
-    resencial: ["Quinta 12:00 - 14:40", "Sexta 9:10 - 12:00"],
+    presencial: ["Quinta 12:00 - 14:40", "Sexta 9:10 - 12:00"],
     local: "C304",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/rph-jdmo-vzo",
@@ -1577,7 +1577,7 @@ export const EXEMPLO_MONITORIAS = [
       "Geometria Analítica e Álgebra Linear CV41D / CP41C / ET41D / BP41B / PQ51L",
     monitor: "João Paulo Alflen Nunes",
     remoto: ["Terça: 18h40 - 20h20", "Sexta: 18h40 - 21h20"],
-    resencial: ["Terça: 15h50 - 18h20", "Sexta: 18h40 - 21h20"],
+    presencial: ["Terça: 15h50 - 18h20", "Sexta: 18h40 - 21h20"],
     local: "C-304",
     data: "24/08/2022 a 21/12/2022",
     link: "https://discord.gg/J9QPJadVh9",
@@ -1587,7 +1587,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo DIferencial e Integral 1 BP41A",
     monitor: "Carlos Alexandre Frano Lima",
     remoto: ["Segunda: 19h 30 - 20h 20"],
-    resencial: ["Quinta: 15h 50 - 16h 40 Sexta: 15h 50 - 16h 40"],
+    presencial: ["Quinta: 15h 50 - 16h 40 Sexta: 15h 50 - 16h 40"],
     local: "E - 107",
     data: "24/08/2022 a 21/12/2022",
     link: "https://discord.gg/YUNjHn5v",
@@ -1597,7 +1597,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Fundamentos de Programação CP41F",
     monitor: "Augusto Miguel Barth",
     remoto: ["Terça, Quarta e Quinta: 19h30 - 21h10"],
-    resencial: ["Quarta: 9h10 - 11h10, Quinta: 13h00 - 16h40"],
+    presencial: ["Quarta: 9h10 - 11h10, Quinta: 13h00 - 16h40"],
     local: "E-107",
     data: "24/08/2022 a 21/12/2022",
     link: "https://discord.gg/X6BVJtppfZ",
@@ -1608,7 +1608,7 @@ export const EXEMPLO_MONITORIAS = [
       "Química Analítica/Fundamentos da Química Analítica BP43A / PQ52L",
     monitor: "Hugo Leonardo Ribeiro dos Santos Lazari",
     remoto: ["Quinta-feira : 11h10 - 12h00 // 15h50 - 18h40"],
-    resencial: [
+    presencial: [
       "Segunda : 17h30 - 19h30 // 21h20 - 23h00 Sexta : 19h30 - 23h00",
     ],
     local: "Bloco A - 2º Andar",
@@ -1621,7 +1621,7 @@ export const EXEMPLO_MONITORIAS = [
       "Química Analítica/Fundamentos da Química Analítica BP43A / PQ52L",
     monitor: "Hugo Leonardo Ribeiro dos Santos Lazari",
     remoto: ["Quinta-feira : 11h10 - 12h00 // 15h50 - 18h40"],
-    resencial: [
+    presencial: [
       "Segunda : 17h30 - 19h30 // 21h20 - 23h00 Sexta : 19h30 - 23h00",
     ],
     local: "Bloco A - 2º Andar",
@@ -1633,11 +1633,11 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Transferência de Calor (TF66A)",
     monitor: "Giovana Genari Carmona",
     remoto: [
-      "segunda: das 10h30 às 12h00 (presencial)",
-      "terça: das 09h30 às 12h00 (presencial)",
+      "segunda: das 10h30 às 12h00 (ppresencial)",
+      "terça: das 09h30 às 12h00 (ppresencial)",
       "quarta: das 13h00 às 14h00 (remoto)",
     ],
-    resencial: [],
+    presencial: [],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/mng-grmn-jvs",
@@ -1647,7 +1647,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Desenho Elétrico (DE61A)",
     monitor: "Maria Gabriela Pereira Brito",
     remoto: ["segunda: das 10h00 às 11h00"],
-    resencial: ["quarta: das 16h40 às 18h40", "quinta: das 17h30 às 19h30"],
+    presencial: ["quarta: das 16h40 às 18h40", "quinta: das 17h30 às 19h30"],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/xzu-fnso-cfn",
@@ -1657,7 +1657,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Expressão Gráfica (EX61A e EX61B)",
     monitor: "Tiago Navarro Bettanin",
     remoto: ["segunda: das 08h30 às 12h30"],
-    resencial: ["segunda: das 16h50 às 17h50"],
+    presencial: ["segunda: das 16h50 às 17h50"],
     local: "Laboratório de Desenho",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/smz-owsv-zvb",
@@ -1667,7 +1667,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Expressão Gráfica (EX61A e EX61B)",
     monitor: "Tiago Navarro Bettanin",
     remoto: ["segunda: das 08h30 às 12h30"],
-    resencial: ["segunda: das 16h50 às 17h50"],
+    presencial: ["segunda: das 16h50 às 17h50"],
     local: "Laboratório de Desenho",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/smz-owsv-zvb",
@@ -1682,7 +1682,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 18h40 às 19h40",
       "sexta: das 18h40 às 19h40",
     ],
-    resencial: [
+    presencial: [
       "segunda: das 10h10 às 12h10",
       "terça: das 09h10 às 10h10 e das 16h40 às 17h40",
       "quinta: das 10h00 às 11h00",
@@ -1700,7 +1700,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 11h00 às 12h00",
       "sexta: das 11h00 às 12h00",
     ],
-    resencial: ["terça: das 09Xh00 às 12h00", "sexta: das 09Xh00 às 11h00"],
+    presencial: ["terça: das 09Xh00 às 12h00", "sexta: das 09Xh00 às 11h00"],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
     link: "https://discord.gg/DB35uJK8cG",
@@ -1711,7 +1711,7 @@ export const EXEMPLO_MONITORIAS = [
       "Física 1 (FC62A, FF62A, FS62A, FT61A, FX62A, FTCO2A, FECO3A, FI73A, FX74A)",
     monitor: "Wesley Paulo Benetti",
     remoto: ["terça: das 18h00 às 20h00", "sábado: das 14h00 às 17h00"],
-    resencial: [
+    presencial: [
       "terça: das 10h00 às 12h00",
       "quinta: das 10h00 às 12h00 e das 18h00 às 19h00",
     ],
@@ -1724,7 +1724,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Fundamentos de Cálculo em Processos (FC64A)",
     monitor: "Arnaldo Vinícius Dias Paes",
     remoto: ["terça: das 19h30 às 21h30", "quinta: das 09h00 às 12h00"],
-    resencial: ["terça: das 18h30 às 21h30", "sexta: das 10h00 às 12h00"],
+    presencial: ["terça: das 18h30 às 21h30", "sexta: das 10h00 às 12h00"],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/ava-wchs-oss",
@@ -1739,7 +1739,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 13h00 às 17h30",
       "quarta: das 13h00 às 17h30",
     ],
-    resencial: [],
+    presencial: [],
     local: "Laboratório C006",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/gnc-pamt-ovz?authuser=0&pli=1",
@@ -1749,7 +1749,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral 1 (CF61A; CA61A)",
     monitor: "Renato Bueno Bovo",
     remoto: ["terça: das 08h00 às 11h00", "sexta: das 08h00 às 10h00"],
-    resencial: ["quarta: das 08h00 às 10h00", "quinta: das 19h00 às 22h00"],
+    presencial: ["quarta: das 08h00 às 10h00", "quinta: das 19h00 às 22h00"],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
     link: "http://meet.google.com/xau-hwjq-svr",
@@ -1764,7 +1764,7 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 19h00 às 21h00",
       "quarta: das 19h00 às 20h00",
     ],
-    resencial: [
+    presencial: [
       "segunda: das 12h00 às 12h50 (N103)",
       "quarta: das 13h00 às 15h30 (N007)",
       "quinta: das 09h10 às 11h10 (N103) e das 15h30 às 19h10 (N007)",
@@ -1778,20 +1778,20 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Expressão Gráfica (EG61A)",
     monitor: "Isadora Frioli Nicolau",
     remoto: ["segunda: das 15h00 às 17h00", "terça: das 09h00 às 12h00"],
-    resencial: [],
+    presencial: [],
     local: "BIMLab - Bloco P",
     data: "24/08/2022 a 21/12/2022",
-    link: "somente presencial (monitoria voluntária)",
+    link: "somente ppresencial (monitoria voluntária)",
   },
   {
     campus: "Apucarana",
     disciplina: "Instalações Elétricas 1 (IE65A)",
     monitor: "João Pedro Fagundes Matuzinho",
     remoto: ["terça: das 14h20 às 17h40 e 18h40 às 20h20"],
-    resencial: [],
+    presencial: [],
     local: "Sala N202",
     data: "24/08/2022 a 21/12/2022",
-    link: "somente presencial (monitoria voluntária)",
+    link: "somente ppresencial (monitoria voluntária)",
   },
   {
     campus: "Apucarana",
@@ -1802,10 +1802,10 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 17h30 às 19h00",
       "quarta: das 17h30 às 19h00",
     ],
-    resencial: [],
+    presencial: [],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
-    link: "somente presencial (monitoria voluntária)",
+    link: "somente ppresencial (monitoria voluntária)",
   },
   {
     campus: "Apucarana",
@@ -1816,20 +1816,20 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 19h30 às 21h00",
       "quinta: das 19h30 às 21h00",
     ],
-    resencial: [],
+    presencial: [],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
-    link: "somente presencial (monitoria voluntária)",
+    link: "somente ppresencial (monitoria voluntária)",
   },
   {
     campus: "Apucarana",
     disciplina: "Análise de Circuitos Elétricos 1 (AC64A)",
     monitor: "Gianluca Treuko Muroni",
     remoto: ["terça: das 09h00 às 12h00", "quarta: das 18h00 às 20h00"],
-    resencial: [],
+    presencial: [],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
-    link: "somente presencial (monitoria voluntária)",
+    link: "somente ppresencial (monitoria voluntária)",
   },
   {
     campus: "Apucarana",
@@ -1841,10 +1841,10 @@ export const EXEMPLO_MONITORIAS = [
       "terça: das 08h00 às 10h00 e das 19h00 às 20h00",
       "quinta: das 17h00 às 18h00",
     ],
-    resencial: [],
+    presencial: [],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
-    link: "somente presencial (monitoria voluntária)",
+    link: "somente ppresencial (monitoria voluntária)",
   },
   {
     campus: "Apucarana",
@@ -1854,10 +1854,10 @@ export const EXEMPLO_MONITORIAS = [
       "segunda: das 09h00 às 12h00",
       "sábado: das 10h00 às 11h00 e 13h00 às 14h00",
     ],
-    resencial: [],
+    presencial: [],
     local: "Sala N009 ou N011",
     data: "24/08/2022 a 21/12/2022",
-    link: "somente presencial (monitoria voluntária)",
+    link: "somente ppresencial (monitoria voluntária)",
   },
   {
     campus: "Apucarana",
@@ -1866,17 +1866,17 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "terça: das 08h20 às 10h00, das 10h20 às 12h00, das 13h00 às 14h40 e das 16h40 às 18h20",
     ],
-    resencial: [],
+    presencial: [],
     local: "Sala N009 ou n011",
     data: "24/08/2022 a 21/12/2022",
-    link: "somente presencial (monitoria voluntária)",
+    link: "somente ppresencial (monitoria voluntária)",
   },
   {
     campus: "Apucarana",
     disciplina: "Expressão Gráfica (EX61A e EX61B)",
     monitor: "Tiago Navarro Bettanin",
     remoto: ["segunda: das 08h30 às 12h30"],
-    resencial: ["segunda: das 16h50 às 17h50"],
+    presencial: ["segunda: das 16h50 às 17h50"],
     local: "Laboratório de Desenho",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/smz-owsv-zvb",
@@ -1886,7 +1886,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Expressão Gráfica (EX61A e EX61B)",
     monitor: "Tiago Navarro Bettanin",
     remoto: ["segunda: das 08h30 às 12h30"],
-    resencial: ["segunda: das 16h50 às 17h50"],
+    presencial: ["segunda: das 16h50 às 17h50"],
     local: "Laboratório de Desenho",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/smz-owsv-zvb",
@@ -1896,7 +1896,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Expressão Gráfica (EX61A e EX61B)",
     monitor: "Tiago Navarro Bettanin",
     remoto: ["segunda: das 08h30 às 12h30"],
-    resencial: ["segunda: das 16h50 às 17h50"],
+    presencial: ["segunda: das 16h50 às 17h50"],
     local: "Laboratório de Desenho",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/smz-owsv-zvb",
@@ -1906,7 +1906,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "TERMODINÂMICA 2 (QUI008-5EQ)",
     monitor: "João Vitor Fabian",
     remoto: ["quarta: T1 e T2;"],
-    resencial: ["sexta: M4 e M5;"],
+    presencial: ["sexta: M4 e M5;"],
     local: "R204",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/zjz-okgp-yaf",
@@ -1917,7 +1917,7 @@ export const EXEMPLO_MONITORIAS = [
       "QUI001(parte teórica da Eng. de Alimentos e Ambiental) QUI018- QUI084",
     monitor: "Guilhermo Vicenzo Correa Portolann",
     remoto: ["segunda: N1 e N2;", "sexta: T3, T4 e T5;"],
-    resencial: ["terça: T1 e T2"],
+    presencial: ["terça: T1 e T2"],
     local: "R204",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/aqa.geue-kdv",
@@ -1927,7 +1927,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral 2 - MAT003 e CD32E",
     monitor: "Pablo Hisao Cuchani Hamasaki",
     remoto: ["segunda: N2 e N3", "quarta: N2 e N3", "quinta: M4 e M5"],
-    resencial: ["segunda: M4 e M5", "quarta: M4; M5; T1 e T2"],
+    presencial: ["segunda: M4 e M5", "quarta: M4; M5; T1 e T2"],
     local: "R204",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/usg-zgtx-zuh",
@@ -1937,7 +1937,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Geometria Analítica e Álgebra Linear - MAT002",
     monitor: "Airan Ribeiro Ramos",
     remoto: ["segunda: M3, M4, M5, T1 e T2;"],
-    resencial: ["terça: M2 e M3;", "quarta: T1, T2 e T3;", "quinta: T1, T2;"],
+    presencial: ["terça: M2 e M3;", "quarta: T1, T2 e T3;", "quinta: T1, T2;"],
     local: "R204",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/scn-mogz-oim",
@@ -1947,7 +1947,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Fenômenos de Transfêrencia 01/ QUI 007",
     monitor: "Samuel Thiago Telles Rodrigues",
     remoto: ["terça: T1, T2, T3, T4 e T5;"],
-    resencial: ["quarta: T1, T2, T3, T4 e T5;"],
+    presencial: ["quarta: T1, T2, T3, T4 e T5;"],
     local: "R208",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/ear-pyjd-hfs",
@@ -1957,7 +1957,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "QUI024 - INTRODUÇÃO AOS PROCESSOS QUÍMICOS",
     monitor: "THAÍS ROSSETTO CORDEIRO DA SILVA",
     remoto: ["quinta: T6, N1 e N2;", "sexta: M4 e M5;"],
-    resencial: ["segunda: M2 e M3;"],
+    presencial: ["segunda: M2 e M3;"],
     local: "R204",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/aoi-ipmg-xfy",
@@ -1967,7 +1967,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral I - MAT001",
     monitor: "Brendo Newton Sousa Rodrigues",
     remoto: ["segunda: T6 e N1", "quarta: T6 e N1", "quinta: T2", "sexta: T6"],
-    resencial: ["terça: N1 e N2", "quinta: N1 e N2", "sexta: N1 e N2"],
+    presencial: ["terça: N1 e N2", "quinta: N1 e N2", "sexta: N1 e N2"],
     local: "R207",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/eoa-gpgr-nop",
@@ -1977,7 +1977,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral I (MAT001)",
     monitor: "Giovanna Gomes da Silva",
     remoto: ["segunda: N1 e N2", "sexta: T3, T4 e T5"],
-    resencial: ["terça: T1 e T2"],
+    presencial: ["terça: T1 e T2"],
     local: "R204",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/vvr-oqwu-bvh",
@@ -1987,7 +1987,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "EC72F - Projeto de Edifícios",
     monitor: "Alex Novak",
     remoto: ["terça: das 17h50 às 20h20", "quinta: das 19h30 às 22h10"],
-    resencial: ["segunda: das 14h40 às 17h30", "terça: das 14h40 às 17h30"],
+    presencial: ["segunda: das 14h40 às 17h30", "terça: das 14h40 às 17h30"],
     local: "Sala em frente ao elevador, antiga maquetaria",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/idf-oooe-aba",
@@ -2003,7 +2003,7 @@ export const EXEMPLO_MONITORIAS = [
       "quinta: das 20h20 às 22h10",
       "sexta: das 17h50 às 22h10",
     ],
-    resencial: ["segunda: das 17h50 às 18h40", "quinta: das 17h50 às 18h40"],
+    presencial: ["segunda: das 17h50 às 18h40", "quinta: das 17h50 às 18h40"],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "Sala Remota:",
@@ -2013,7 +2013,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "EM42E - Desenho de Máquinas",
     monitor: "Nicollas Hamon Trevisan Verbaneck",
     remoto: ["segunda: das 9h10 às 12h", "quarta: das 14h40 às 17h30"],
-    resencial: [
+    presencial: [
       "terça: das 10h20 às 12h",
       "quarta: das 10h20 às 12h",
       "sexta: das 13h às 14h40",
@@ -2027,7 +2027,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "EC71A / EM41D - Cálculo Diferencial e Integral 1",
     monitor: "José Gabriel Pacheco de Araujo",
     remoto: ["terça: das 7h30 às 10h e 13h às 14h40 e 16h40 às 17h30"],
-    resencial: ["quinta: das 8h20 às 12h", "sexta: das 10h20 às 12h"],
+    presencial: ["quinta: das 8h20 às 12h", "sexta: das 10h20 às 12h"],
     local: "B2",
     data: "24/08/2022 a 21/12/2022",
     link: "meet.google.com/xdu-umts-wcn",
@@ -2037,7 +2037,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "EC71B/EM41E - Geometria Analítica e Álgebra Linear",
     monitor: "Angelo Zanona Neto",
     remoto: ["terça: das 7h30 às 10h", "quinta: das 7h30 às 9h10"],
-    resencial: ["segunda: das 14h40 às 17h30", "sexta: das 15h50 às 17h30"],
+    presencial: ["segunda: das 14h40 às 17h30", "sexta: das 15h50 às 17h30"],
     local: "Sala F6A",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/ktc-fvxn-hfz",
@@ -2048,7 +2048,7 @@ export const EXEMPLO_MONITORIAS = [
       "Cálculo Diferencial e Integral 1 - MA221A CC12H;Matemática Aplicada - MA61F AG1H; Cálculo Aplicado  - MA62A AG2HMatemática Aplicada à Biologia - MA61F AG1H",
     monitor: "Pedro Henrique Teodoro de Mendonça",
     remoto: ["segunda: das 14h às 17h", "terça: das 14h às 16h"],
-    resencial: ["terça: das 18h às 20h", "quinta: das 18h às 20h"],
+    presencial: ["terça: das 18h às 20h", "quinta: das 18h às 20h"],
     local: "Sala de monitoria. Bloco L",
     data: "24/08/2022 a 21/12/2022",
     link: "https://meet.google.com/sqe-wrvf-ahb",
@@ -2058,7 +2058,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Fundamentos da Eletricidade - FI221E",
     monitor: "Daniel Theisges da Costa",
     remoto: ["segunda: das 19h às 21h"],
-    resencial: ["quinta: das 08h às10h"],
+    presencial: ["quinta: das 08h às10h"],
     local: "Sala de Monitoria - Bloco L",
     data: "24/08/2022 a 21/12/2022",
     link: "Link Meet https://meet.google.com/ukr-qqit-mgb",
@@ -2072,7 +2072,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 10h às 12h",
       "quinta: das 10h às 12h e 20h às 22h",
     ],
-    resencial: [],
+    presencial: [],
     local: "--",
     data: "24/08/2022 a 21/12/2022",
     link: "Discord: https://discord.gg/wTKjKuDv5Y Meet: https://meet.google.com/zsr-kora-aju",
@@ -2082,7 +2082,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Física Geral 2",
     monitor: "< Fernando Lima Fernandes >",
     remoto: ["<Segunda Feira: 15h50 - 18h40", "Sexta Feira: 13h - 15h30"],
-    resencial: ["Terça Feira: 8h20 - 12h"],
+    presencial: ["Terça Feira: 8h20 - 12h"],
     local: "Sala A134",
     data: "25/08/2022 a 21/12/2022",
     link: "meet.google.com/vyx-nhsw-qeg",
@@ -2094,7 +2094,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "2ªfª [das 18h40 - 19h30 / das 19h30 - 20h20] 4ªfª [das 14h40 - 15h30] 5ªfª [das 13h50 - 14h40 / 14h40 - 15h30] 6ªfª [das 18h40 - 19h30]",
     ],
-    resencial: [
+    presencial: [
       "3ªfª  [das 13h - 13h50 / das13h50 - 14h40 / das 18h40 - 19h30 / das 21h20 - 22h10]",
     ],
     local: "A134",
@@ -2106,7 +2106,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Eletrônica Digital",
     monitor: "< Michele Oliveira de Campos >",
     remoto: ["Terça feira: 15h50 - 17h30;", "Sexta feira: 13h00 - 16h40"],
-    resencial: ["Quarta feira: 13h - 16h40;"],
+    presencial: ["Quarta feira: 13h - 16h40;"],
     local: "I102",
     data: "25/08/2022 a 21/12/2022",
     link: "https://meet.google.com/uns-ifkr-gcd",
@@ -2116,7 +2116,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Análise de Circuitos Elétricos 1",
     monitor: "< Óliver Pincelli Westin>",
     remoto: ["Segunda-feira: 19h30 - 22h10;", "Terça-feira: 19h30 - 22h10;"],
-    resencial: [
+    presencial: [
       "Segunda-feira: 13h00 - 13h50;",
       "Terça-feira: 13h00 - 13h50;",
       "Quarta-feira: 13h00 - 14h40;",
@@ -2134,7 +2134,7 @@ export const EXEMPLO_MONITORIAS = [
       "Terça: 17:50 às 19:30 hrs;",
       "Quinta:17:50 às 19:30 hrs;;",
     ],
-    resencial: ["Segunda: 13:50 às 15:30 hrs;", "Quinta: 13:50 às 15:30 hrs;"],
+    presencial: ["Segunda: 13:50 às 15:30 hrs;", "Quinta: 13:50 às 15:30 hrs;"],
     local: "--",
     data: "25/08/2022 a 21/12/2022",
     link: "meet.google.com/hur-uhan-vte",
@@ -2147,7 +2147,7 @@ export const EXEMPLO_MONITORIAS = [
       "< escreva aqui os dias e horários, por exemplo: >",
       "Terça-feira, das 8h20 às 10h00; quarta-feira, das 13h50 às 15h30; sexta-feira, das 8h20 às 10h00",
     ],
-    resencial: ["Segunda: 13:50 às 15:30 hrs;", "Quinta: 13:50 às 15:30 hrs;"],
+    presencial: ["Segunda: 13:50 às 15:30 hrs;", "Quinta: 13:50 às 15:30 hrs;"],
     local: "--",
     data: "25/08/2022 a 21/12/2022",
     link: "meet.google.com/zhg-cerw-awr",
@@ -2157,7 +2157,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Cálculo Diferencial e Integral 2",
     monitor: "< Natã Brito Geraldo >",
     remoto: ["< Terça-feira 18h40 às 22h10 e Quinta-feira 19h30 às 21h10"],
-    resencial: ["Quarta-feira: 15h50 às 17h30 e Quinta-feira: 8h20 às 10h10"],
+    presencial: ["Quarta-feira: 15h50 às 17h30 e Quinta-feira: 8h20 às 10h10"],
     local: "Sala A134",
     data: "25/08/2022 a 21/12/2022",
     link: "https://meet.google.com/gbj-evxd-ugr",
@@ -2171,7 +2171,7 @@ export const EXEMPLO_MONITORIAS = [
       "Terça feira: 20h20 - 22h10;",
       "Quinta feira: 21h20 - 23h00;",
     ],
-    resencial: ["Terça feira: 15h50 - 17h30;", "Quarta feira: 07h30 - 11h10;"],
+    presencial: ["Terça feira: 15h50 - 17h30;", "Quarta feira: 07h30 - 11h10;"],
     local: "A134",
     data: "25/08/2022 a 21/12/2022",
     link: "https://meet.google.com/wdp-ivoa-ngc",
@@ -2186,7 +2186,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta-feira 21h00 às 21h50",
       "Sexta-feira 19h30 às 20h20",
     ],
-    resencial: ["Segunda-feira 17h50 às 19h30", "Quinta-feira 17h50 até 19h30"],
+    presencial: ["Segunda-feira 17h50 às 19h30", "Quinta-feira 17h50 até 19h30"],
     local: "--",
     data: "25/08/2022 a 22/12/2022",
     link: "https://meet.google.com/cde-atdj-zne",
@@ -2201,7 +2201,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta:feira:20:20-21:10,",
       "quinta-feira:19:30-21:10",
     ],
-    resencial: [
+    presencial: [
       "segunda feira : 13:00-13:50,",
       "terça feira: 19:30-20:20,",
       "quarta-feira:13-13:50,",
@@ -2218,7 +2218,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda das 15h50 às 18h20 | Terça das 12h50 às 13h40 e das 15h50 às 17h30  | Quarta das 12h50 às 13h40",
     ],
-    resencial: ["Quarta das 18h40 às 21h10 | Quinta das 18h40 às 21h10"],
+    presencial: ["Quarta das 18h40 às 21h10 | Quinta das 18h40 às 21h10"],
     local: "Sala C108",
     data: "29/08/2022 a 21/12/2022",
     link: "https://meet.google.com/tcz-vpyz-tjb",
@@ -2231,7 +2231,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda das 13:50 às 17:30 | Terça das 15:50 às 17:30 | Quinta 12:50 às 13:40 |",
     ],
-    resencial: [
+    presencial: [
       "Segunda das 20:20 às 21:10 | Terça das 15:50 às 17:30 | Quarta das 08:20 às 11:10 | Sexta das 12:00 às 14:40",
     ],
     local: "Sala C108",
@@ -2246,7 +2246,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-feira das 17:30 às 19:30 | Terça-feira das 15:50 às 17:30 | Quarta-feira das 15:50 às 17:30.",
     ],
-    resencial: [
+    presencial: [
       "Quarta-feira das 19:30 às 21:10 | Sexta-feira das 14:40 às 18:20.",
     ],
     local: "Sala C108",
@@ -2261,7 +2261,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-feira das 13h00 às 13h50 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira  das 18h20 às 20h00",
     ],
-    resencial: [
+    presencial: [
       "Segunda-feira das 17h30 às 20h50 | Terça-feira das 20h00 às 21h40",
     ],
     local: "Informações no grupo do Telegram https",
@@ -2275,7 +2275,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Terça-feira das 18h20 às 20h00 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira das 13h00 às 13h50",
     ],
-    resencial: [
+    presencial: [
       "Segunda-feira das 13h00 às 15h30 | Quinta-feira das 18h20 às 19h10 | Sexta-feira das 13h50 às 15h30",
     ],
     local: "Informações no grupo do Telegram https",
@@ -2290,7 +2290,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-feira das 7:30h às 10:00h e das 15:50h às 20:20h | Terça-feira das 7:30h às 9:10h e das 15:50h às 17:30h",
     ],
-    resencial: [
+    presencial: [
       "Quarta-feira das 17:30h às 21:10h | Quinta-feira das 15:50h às 17:30h",
     ],
     local: "--",
@@ -2304,7 +2304,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-feira das 17h30 às 18h20 |  Quarta-feira das 17h30 às 18h20 |  Quinta-feira das 10h20 às 13h40",
     ],
-    resencial: [
+    presencial: [
       "Segunda-feira das 10h20 às 12h00 | Terça-feira das 13h50 às 17h30",
     ],
     local: "--",
@@ -2316,7 +2316,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Física 1 e Física Geral I (BP32C EN31B PG0005 QM31A)",
     monitor: "BIANCA RAFAELA FABRIS PLATH",
     remoto: ["segunda 13h às 14h40; sexta 12h às 12h50."],
-    resencial: [
+    presencial: [
       "terça 18h40 às 20h20; quarta 11h20 às 13h50 e quinta 17h30 às 19h10.",
     ],
     local: "Sala C108",
@@ -2331,7 +2331,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-feira, das 10h20 às 11h10 | Terça-feira, das 13h00 às 13h50 | Quarta-feira, das 13h00 às 13h50",
     ],
-    resencial: [
+    presencial: [
       "Terça-feira, das 18h40 às 21h10 | Quarta-feira, das 18h40 às 21h10 | Quinta-feira, das 18h40 às 21h10",
     ],
     local: "Sala C108.",
@@ -2346,7 +2346,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-Feira das 17h30 às 19h30 |Terça-Feira das 13h50 às 14h40 |Quinta-Feira das 12h00 às 12h50",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira das 21h20 às 22h50 |Terça-Feira das 19h30 às 22h50 |Quinta-Feira das 20h20 às 22h05",
     ],
     local: "Sala C108.",
@@ -2361,7 +2361,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-feira das 12h50 às 13h50, Quinta-feira das 12h00 às 13h50 e Sexta-feira das 10h05 às 12h15.",
     ],
-    resencial: [
+    presencial: [
       "Segunda-feira das 20h00 às 21h00, Quarta-feira das 20h00 às 21h30, Quinta-feira das 20h00 às 21h30 e Sexta-feira das 20h00 às 21h00.",
     ],
     local: "Sala C108",
@@ -2375,7 +2375,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "terça-feira das 12h00 às 14h40, Quinta-feira das 9h10 às 10h00, Sexta-feira das 7h30 às 09h10",
     ],
-    resencial: [
+    presencial: [
       "Segunda-feira das 15h50 às 18h20, Sexta-feira das 13h50 às 16h40",
     ],
     local: "Sala C108.",
@@ -2390,7 +2390,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-feira das 10:20 as 12:50 e sexta-feira das 10:20 as 12:50.",
     ],
-    resencial: [
+    presencial: [
       "Terça-feira das 17:30 as 20:20 e quinta-feira das 16:40 as 19:30",
     ],
     local: "--",
@@ -2404,7 +2404,7 @@ export const EXEMPLO_MONITORIAS = [
     remoto: [
       "Segunda-feira das 12:50 às 15:30 |Terça-feira das 11:10 às 12:00 | Quarta-feira das 10:20 às 12:00.",
     ],
-    resencial: [
+    presencial: [
       "Segunda-feira das 18:40 às 20:20 | Quinta-feira das 09:10 às 12:00 | Quinta-feira das 18:40 às 19:30.",
     ],
     local: "Sala C108",
@@ -2420,7 +2420,7 @@ export const EXEMPLO_MONITORIAS = [
       "quarta: das 10:20 às 12:00",
       "quinta: das 10:20 às 12:00",
     ],
-    resencial: ["sexta: das 13:50 às 15:30"],
+    presencial: ["sexta: das 13:50 às 15:30"],
     local: "CENT. CONVIVÊNCIA",
     data: "14/09/2022 a 21/12/2022",
     link: "https://meet.google.com/ewo-xihk-taj",
@@ -2430,7 +2430,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Linguagens Formais, Autômatos e Computabilidade",
     monitor: "Geovana Figueiredo Silva",
     remoto: ["terça: das 19:30 às 22:10", "quarta: das 19:30 às 22:10"],
-    resencial: ["quarta: das 13:50 às 15:30", "quinta: das 15:50 às 17:30"],
+    presencial: ["quarta: das 13:50 às 15:30", "quinta: das 15:50 às 17:30"],
     local: "CENT. CONVIVÊNCIA",
     data: "14/09/2022 a 21/12/2022",
     link: "https://meet.google.com/kst-emrz-zsi",
@@ -2443,7 +2443,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira:  das 13h00 às 14h40",
       "Quinta-Feira: das 15h50 às 17h30",
     ],
-    resencial: [
+    presencial: [
       "Segunda-Feira: das 13h00 às 14h40",
       "Terça-Feira: das 13h00 às 14h40",
     ],
@@ -2456,7 +2456,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Expressão gráfica EG21NB",
     monitor: "Murilo Luiz Bernardi",
     remoto: ["Quinta-Feira: das 15h50 às 18h20"],
-    resencial: ["Terça-Feira: das 13h00 às 15h30"],
+    presencial: ["Terça-Feira: das 13h00 às 15h30"],
     local: "Salas da monitoria no bloco W",
     data: "14/09/2022 a 21/12/2022",
     link: "http://meet.google.com/yta-qedr-ydr?pli=1&authuser=0",
@@ -2469,7 +2469,7 @@ export const EXEMPLO_MONITORIAS = [
       "Segunda-Feira: das 8h20 às 10h00 e das 15h50 às 18h20",
       "Terça-Feira: das 13h00 às 13h50",
     ],
-    resencial: [
+    presencial: [
       "Terça-Feira: das 12h00 às 12h50",
       "Quarta-Feira: das 12h00 às 12h50 e das 13h00 às 13h50",
       "Quinta-Feira: das 13h00 às 13h50 e das 15h50 às 17h30",
@@ -2486,7 +2486,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta-Feira: das 11h10 às 12h50 e das 18h40 às 20h20",
       "Sexta-Feira: das 11h10 às 12h50",
     ],
-    resencial: [
+    presencial: [
       "Terça-Feira: das 13h00 às 15h30",
       "Sexta-Feira: das 15h50 às 18h20",
     ],
@@ -2502,7 +2502,7 @@ export const EXEMPLO_MONITORIAS = [
       "Terça-Feira: das 09h10 às 12h00",
       "Quarta-Feira: das 09h10 às 12h00",
     ],
-    resencial: [
+    presencial: [
       "Quinta-Feira:das 09h10 às 12h00",
       "Sexta-Feira: das 09h10 às 12h00",
     ],
@@ -2515,7 +2515,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Fundamentos de Banco de Dados - BD21S",
     monitor: "Jorge Gabriel Bortoluzzi Dorio",
     remoto: ["Terça-Feira: 10h20 às 12h50", "Quarta-Feira: 10h20 às 12h50"],
-    resencial: [
+    presencial: [
       "Quinta-Feira: das 10h20 às 12h50",
       "Sexta-Feira: das 15h50 às 18h20",
     ],
@@ -2532,7 +2532,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quinta-Feira: das 8h20 às 10h00",
       "Sexta-Feira: das 8h20 às 10h00",
     ],
-    resencial: [
+    presencial: [
       "Terça-Feira: das 17h30 às 18h20 e das 18h40 às 19h30",
       "Quarta-Feira: das 15h50 às 17h30",
       "Quinta-Fiera: das 15h50 às 17h30",
@@ -2551,7 +2551,7 @@ export const EXEMPLO_MONITORIAS = [
       "Quarta-Feira: das 18h40 às 20h20",
       "Quinta-Feira: das 10h20 às 11h10",
     ],
-    resencial: [
+    presencial: [
       "Terça-Feira: das 10h20 às 12h00",
       "Quarta-Feira: das 13h50 às 15h30",
       "Sexta-Feira: das 15h50 às 17h30",
@@ -2565,7 +2565,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Sistemas Microcontrolados - SM26EL SM26CP",
     monitor: "Vitor Balbinot",
     remoto: ["Quinta-Feira:  das 7h30 às 10h00"],
-    resencial: [
+    presencial: [
       "Segunda-Feira: 10h20 às 12h00",
       "Quinta-Feira: 10h20 às 12h00",
     ],
@@ -2578,7 +2578,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Análise de Alimentos (TAL54F / EL55D)",
     monitor: "FERNANDA CAROLINA POMPEU MENEGOLI",
     remoto: ["Terça: das 20:20 às 22:05"],
-    resencial: [
+    presencial: [
       "Segunda: das 20:20 às 22:05",
       "Quinta: das 15:50 às 17:30 e 19:30 às 21:10",
       "Sexta: das  19:30 às 21:10",
@@ -2592,7 +2592,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Álgebra LM35A",
     monitor: "Matheus Gonçalves Silveira",
     remoto: ["quarta: das 09h10 às 12h00", "sexta: das 09h10 às 12h00"],
-    resencial: ["segunda: das 09h10 às 11h10", "terça: das 13h50 às 15h50"],
+    presencial: ["segunda: das 09h10 às 11h10", "terça: das 13h50 às 15h50"],
     local: "A 134",
     data: "19/09/2022 a 21/12/2022",
     link: "https://meet.google.com/nnk-vnoi-tpb",
@@ -2602,7 +2602,7 @@ export const EXEMPLO_MONITORIAS = [
     disciplina: "Física Geral 1 EM32G",
     monitor: "Elias Junio Muller Coelho",
     remoto: ["terça: das 18h40 às 21h10", "quinta: das 18h40 às 21h10"],
-    resencial: ["segunda: das 08h20 às 10h00", "sexta: das 11h10 às 12h50"],
+    presencial: ["segunda: das 08h20 às 10h00", "sexta: das 11h10 às 12h50"],
     local: "A134",
     data: "03/10/2022 a 21/12/2022",
     link: "meet.google.com/nru-hmpy-skb",

@@ -21,9 +21,9 @@ while(i < lines.length) {
   i++;
 
   i++;
-  monitoria.resencial = [];
+  monitoria.presencial = [];
   while(lines[i] != "") {
-    monitoria.resencial.push(lines[i++]);
+    monitoria.presencial.push(lines[i++]);
   }
   i++;
 

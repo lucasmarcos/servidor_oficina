@@ -6,7 +6,7 @@
     "remoto": [
       "terça: das 19:30 às 23:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 13:00 às 13:50",
       "terça: das 13:00 às 13:50",
       "quarta: das 08:20 às 12:00 e 18:40 às 20:20"
@@ -23,7 +23,7 @@
       "terça: das 19:30 às 23:00",
       "quarta: das 18:40 às  20:20"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: das 13:00 às 15:30",
       "quinta: das 13:00 às 15:30"
     ],
@@ -39,7 +39,7 @@
       "terça: das 19:30 às 21:10",
       "quinta: das 13:00 às 16:40"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 08:20 às 12:00",
       "quarta: das 15:50 às 17:30"
     ],
@@ -55,7 +55,7 @@
       "terça: das 19:30 às 21:10",
       "quinta: das 13:00 às 16:40"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 08:20 às 12:00",
       "quarta: das 17:30 às 19:30"
     ],
@@ -72,7 +72,7 @@
       "terça: das 18:40 às 21:10",
       "quinta: das 18:40 às 21:10"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: das 18:40 às 21:10"
     ],
     "local": "H104",
@@ -88,7 +88,7 @@
       "quarta: das 10:20 às 12:00",
       "sexta: das 10:20 às 12:00"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 15:50 às 17:30",
       "quarta: das 13:50  às 15:30",
       "quinta: das 15:50 às 17:30"
@@ -105,7 +105,7 @@
       "quarta: das  13:00 às 13:50",
       "sexta: das  13:00 às 16:40"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 15:50 às  17:30",
       "quarta: das 13:50  às 15:30",
       "quinta: das 13:00 às 15:30"
@@ -123,7 +123,7 @@
       "terça: das 18:40 às 20:20",
       "quarta: das 16:40 às 19:30"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 08:20 às 10:00",
       "quarta: das 08:20 às 10:00",
       "sexta: das 15:50 às 17:30"
@@ -141,7 +141,7 @@
       "quarta: das 18:40 às 21:10",
       "sexta: das 18:40 às 21:10"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 09:10 às 10:00",
       "terça: das 09:10 às 10:00",
       "quarta: das 09:10 às 10:00"
@@ -158,7 +158,7 @@
       "quinta: das 17:30 às 20:30",
       "sexta: das 17:30 às 19:30"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/vty-hyzm-tpr"
@@ -171,7 +171,7 @@
       "quarta: das 17:30 às 20:20",
       "quinta: das 17:30 às 20:20"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 15:50 às 18:20",
       "sexta: das 08:20 às 11:10"
     ],
@@ -187,7 +187,7 @@
       "segunda: das 10:20 às 12:00",
       "sexta: das 13:50 às 17:30"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 15:50 às 17:30",
       "quarta: das 13:00 às 15:30"
     ],
@@ -203,7 +203,7 @@
       "quarta: das 18:40 às 21:10",
       "quinta: das 14:40 às 17:30"
     ],
-    "resencial": [
+    "presencial": [
       "< escreva aqui os dias e horários, por exemplo: >",
       "segunda: das 13:00 às 13:50 e 17:30  às  18:20",
       "terça: das 13:00 às 13:50 e 16:40 às 18:20",
@@ -221,7 +221,7 @@
       "quinta: das 10:20 às 12:00",
       "sexta: das 19:30 às 23:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 17:30 às 18:20",
       "terça: das 17:30 às 19:30",
       "quarta: das 17:30 às 18:20",
@@ -240,7 +240,7 @@
       "quinta: das 14:00 às 16:00 e 18:00 às 20:00",
       "sexta: das 14:00 às 17:00"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "H104",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/jbt-wqavekc?pli=1&authuser=0"
@@ -256,7 +256,7 @@
       "quinta: das 11:10 às 12:00",
       "sexta: das 11:10 às 12:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 17:30  às 19:30",
       "quarta: das 19:30 às 21:10",
       "quinta:  das 17:30  às 19:30"
@@ -274,7 +274,7 @@
       "quarta: das 13:00 às 13:50",
       "sexta: das 09:10 às 11:10"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 17:30 às 19:30",
       "quarta: das 17:30 às 19:30",
       "quinta:  das 17:30 às 19:30"
@@ -291,7 +291,7 @@
       "terça: das 16:00 às 17:00",
       "sexta: das 13:00 às 16:00 e 19:00 às 20:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 17:00 – 18:00",
       "quinta: das 17:00 às 21:00"
     ],
@@ -307,7 +307,7 @@
       "terça:  das 13:00 às 15:30",
       "sexta: das 18:40 às 21:10"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 13:00 às 15:30",
       "sexta: das 13:00 às 15:30"
     ],
@@ -323,7 +323,7 @@
       "segunda: das 18:40 às 19:30 e 21:20 às 23:00",
       "quarta: das  21:20 às 23:00"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: das 13:00 às 15:30",
       "quinta: das 13:00 às 13:50 e 17:30 às 18:20"
     ],
@@ -339,7 +339,7 @@
       "Terça: das 18:40 às 21:10",
       "Quarta: das 18:40 às 21:10"
     ],
-    "resencial": [
+    "presencial": [
       "Terça: das 16:40 às 18:40",
       "Quarta: das 16:40 às 18:40",
       "Quinta: das 16:40 às 18:40"
@@ -356,7 +356,7 @@
       "Quarta: das 18:40 às 20:20",
       "Sexta: das 09:10 às 11:10 e 18:40 às 20:20"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: das 19:30 às 21:10",
       "Terça: das 18:40:10 às 20:20",
       "Quinta: 09:10 às 10:00 e 19:30 às 20:20"
@@ -374,7 +374,7 @@
       "Quinta: das 20:20 às 22:05",
       "Sexta: 19:30 às 20:20"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: 07:30 às 08:20",
       "Terça: das 10:20 às 12:00 e 15:50 às 17:30",
       "Quinta: 07:30 às 09:10"
@@ -391,7 +391,7 @@
       "Quarta: das 18:40  às  21:10",
       "Quinta: das 19:30 às  21:10"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: 19:30 às 21:10",
       "Terça: das 10:20 às 12:00",
       "Quinta: das 13:00 às 14:40",
@@ -409,7 +409,7 @@
       "Segunda: das 10:20 às 12:00",
       "Terça: das 13:00 às 15:30"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta: das 18:40 às 20:20",
       "Sexta: das  08:20 às 12:00 e 13:00 às 13:50"
     ],
@@ -428,7 +428,7 @@
       "Quinta: das 13:00 às 13:50 e 17:50 às 18:40",
       "Sexta: das 17:50 às 18:40"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: das 07:30 às 08:20",
       "Terça: das 07:30 às 09:10",
       "Quarta: das 07:30 às 08:20",
@@ -447,7 +447,7 @@
       "Quinta: das 13:00 às 13:50 e 19:30 às 20:20",
       "Sexta: das 09:10 às 10:00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: das 08:20 às 10:00 e 19:30 às 21:10",
       "Terça: das 20:20 às 22:05",
       "Quinta: das 20:20 às 22:05",
@@ -466,7 +466,7 @@
       "Quinta: das 18:40 às 20:20",
       "Sábado: das 10:20 às 12:00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: das 08:20 às 11:10 e 15:50 às 16:40",
       "Quarta: das  08:20 às 11:10",
       "Quinta: das  08:20 às 11:10"
@@ -484,7 +484,7 @@
       "Terça: das 08:20 às 10:00",
       "Quarta: das 15:50 às 17:30"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta: das  10:20 às 12:00",
       "Sexta: das  15:50 às 17:30 e 19:30 às 21:10"
     ],
@@ -501,7 +501,7 @@
       "Quinta: das 17:50 às 18:40",
       "Sexta: das 08:20 às 10:00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: das 17:50 às 19:30",
       "Quarta: das 08:20 às 10:00",
       "Quinta: das 18:40 às 19:30",
@@ -520,7 +520,7 @@
       "Quarta: das 18:40 às 20:20",
       "Sexta: das 18:40 às 21:10"
     ],
-    "resencial": [
+    "presencial": [
       "Terça: das 13:00 às 17:30",
       "Quarta: das 13:00 às 15:30"
     ],
@@ -536,7 +536,7 @@
       "Segunda: das 09:10 às 12:00",
       "Sábado: das 08:20 às 11:10"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: das 18:40 às 21:10",
       "Quarta: das 18:40 às 21:10",
       "Sexta: das 18:40 às 21:10"
@@ -553,7 +553,7 @@
       "Segunda: das 13:00 às 15:30",
       "Quinta: das 07:30 às 09:10"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: das 10:20 às 12:00",
       "Quinta: das 09:10 às 10:00",
       "Sexta: das 11:10 às 12:00 e 18:40 às 21:10"
@@ -571,7 +571,7 @@
       "Quarta-Feira: das 10h20 às 12h00 e das 19h30 às 20h20.",
       "Sexta-Feira: das 10h20 às 12h00."
     ],
-    "resencial": [
+    "presencial": [
       "    Terça-Feira: das 10h20 às 12h00 e das 15h50 às 17h30.",
       "Quinta-Feira: das 10h20 às 12h00."
     ],
@@ -586,7 +586,7 @@
     "remoto": [
       "    Terça-Feira: das 15h50 às 18h20 e das 18h40 às 21h10."
     ],
-    "resencial": [
+    "presencial": [
       "    Quarta-Feira: das 13h00 às 15h30.",
       "Sexta-Feira:     das 13h00 às 15h30."
     ],
@@ -602,7 +602,7 @@
       "    Sexta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00. das 13h50 as 15h30 e das 15h50 às",
       "16h40."
     ],
-    "resencial": [
+    "presencial": [
       "    Terça-Feira: das 14h40 às 15h30 e das 15h50 às 17h30.",
       "Quinta-Feira:     das 14h40 às 15h30 e das 15h50 às 17h30."
     ],
@@ -618,7 +618,7 @@
       "    Segunda-Feira: das 09h10 às 10h00 e das 10h20 às 12h00.",
       "Quinta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00."
     ],
-    "resencial": [
+    "presencial": [
       "    Quarta-Feira: das 13h50 às 15h30.",
       "Quinta-Feira: das 13h50 às 15h30.",
       "Sexta-Feira: das 13h50 às 15h30."
@@ -635,7 +635,7 @@
       "    Segunda-Feira: das 18h40 às 21h10.",
       "Quinta-Feira: das 18h40 às 21h10."
     ],
-    "resencial": [
+    "presencial": [
       "    Quarta-Feira: das 13h00 às 15h30.",
       "Quinta-Feira: das 09h10 às 10h00 e das 10h20 às 12h00."
     ],
@@ -651,7 +651,7 @@
       "    Terça-Feira: das 18h40 às 21h10 e das 21h20 às 22h10.",
       "Quarta-Feira: das 19h30 às 20h20."
     ],
-    "resencial": [
+    "presencial": [
       "    Segunda-Feira: das 09h10 às 10h00.",
       "Terça-Feira: das 13h00 às 13h50.",
       "Quarta-Feira: das 13h00 às 15h30.",
@@ -670,7 +670,7 @@
       "Quinta-Feira: das 18h40 às 20h20.",
       "Sexta-Feira: das 13h00 às 14h40."
     ],
-    "resencial": [
+    "presencial": [
       "    Segunda-Feira: das 13h00 às 13h50.",
       "Quarta-Feira: das 13h00 às 13h50.",
       "Quinta-Feira: das 08h20 às 10h00 e das 15h50 às 17h30."
@@ -688,7 +688,7 @@
       "Quarta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10.",
       "Quinta-Feira: das 13h50 às 15h30."
     ],
-    "resencial": [
+    "presencial": [
       "    Terça-Feira: das 13h00 às 13h50.",
       "Quarta-Feira: das 13h00 às 13h50.",
       "Quinta-Feira: das 17h30 às 18h20.",
@@ -706,7 +706,7 @@
       "Segunda-Feira: das 18h40 às 21h10",
       "Terça-Feira: das 18h40 às 21h10"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 07h30 às 08h20",
       "sexta-feira: das 7h30 às 10h00 e 10h20 às 12h00."
     ],
@@ -722,8 +722,8 @@
       "Segunda-Feira: das 20h20 às 21h10 e das 21h20 às 23h00",
       "Terça-Feira: das 20h20 às 21h10 e das 21h20 às 23h00"
     ],
-    "resencial": [
-      "Dias e horários de atendimento presencial no campus:",
+    "presencial": [
+      "Dias e horários de atendimento ppresencial no campus:",
       "Segunda-Feira: das 15h50 às 17h30",
       "Terça-Feira: das 13h00 às 13h50",
       "Quarta-Feira: das 13h00 às 14h40",
@@ -742,7 +742,7 @@
       "Quinta-Feira: das 18h40 às 19h30.",
       "Sexta-Feira: das 13h50 às 15h30 e das 15h50 às 17h30."
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 13h00 às 15h30",
       "Quarta-feira: e das 13h00 às 13h50.",
       "Quinta-Feira: das 15h50 às 17h30."
@@ -759,7 +759,7 @@
       "Segunda-Feira: das 17h30 às 18h20.",
       "Quarta-Feira: das 09h10 às 10h00 e das 17h30 às 18h20."
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 16h40 às 17h30.",
       "Terça-Feira: das 10h20 às 11h10.",
       "Quarta-Feira: das 10h20 às 11h10."
@@ -776,7 +776,7 @@
       "    Segunda-Feira: das 16h40 às 18h20 e das 18h40 às 19h30.",
       "Sexta-Feira: das 16h40 às 18h20 e das 18h40 às 19h30."
     ],
-    "resencial": [
+    "presencial": [
       "    Segunda-Feira: das 07h30 às 08h20.",
       "Terça-Feira: das 12h00 às 12h50 e das 13h00 às 13h50.",
       "Quarta-Feira: das 07h30 às 08h20.",
@@ -793,7 +793,7 @@
     "remoto": [
       "Sábado: das 09h10 às 12h50."
     ],
-    "resencial": [
+    "presencial": [
       "Terça-Feira: das 09h10 às 10h e das 13h às 13h50",
       "Quinta-Feira: das 11h10 às 12h e das 13h às 13h50."
     ],
@@ -808,7 +808,7 @@
     "remoto": [
       "    Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 16h40."
     ],
-    "resencial": [
+    "presencial": [
       "    Quarta-Feira: das 10h20 às 12h00."
     ],
     "local": "Salas da monitoria no bloco W",
@@ -824,7 +824,7 @@
       "Quarta-Feira: das 21h20 às 23h00",
       "Quinta-Feira: das 21h20 às 23h00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 13h00 às 13h50 e das 18h40 às 20h20",
       "Terça-Feira: das 13h00 às 13h50",
       "Quinta-Feira: das 11h10 às 12h00 e das 13h00 às 13h50"
@@ -842,7 +842,7 @@
       "Quarta-Feira: das 8h20 às 10h00",
       "Sexta-Feira: das 8h20 às 10h00"
     ],
-    "resencial": [
+    "presencial": [
       "Terça-Feira: das 13h50 às 15h30",
       "Quarta-Feira: das 13h50 às 15h30",
       "Quinta-Feira: das 13h50 às 15h30"
@@ -859,7 +859,7 @@
       "Segunda-Feira: das 7h30 às 9h10",
       "Quinta-Feira:das 19h30 às 21h10 e das 21h20 às 22h10"
     ],
-    "resencial": [
+    "presencial": [
       "Terça-Feira: das 18h40 às 21h10",
       "Quarta-Feira: das 7h30 às 10h00"
     ],
@@ -874,7 +874,7 @@
     "remoto": [
       "Quinta-Feira: das 12h00 às 12h50 e das 13h00 às 15h30 e das 15h50 às 17h30"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 16h40 às 18h20",
       "Quarta-Feira: das 13h50 às 15h30 e das 15h50 às 17h30"
     ],
@@ -890,7 +890,7 @@
       "Terça-Feira: das 13h50 às 15h30",
       "               Sexta-Feira: das 13h50 às 15h30"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 21h20 às  23h00",
       "Terça-Feira: das 18h40 às 19h30",
       "Quinta-Feira: das 18h40 às 19h30"
@@ -907,7 +907,7 @@
       "Terça-Feira: das 18h40 às 19h30",
       "Quarta-Feira: 18h40 às 20h20"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 13h50 às 14h40",
       "Quinta-Feira: das 13h50 às 15h30"
     ],
@@ -924,7 +924,7 @@
       "Terça-Feira: das 18h40 às 20h20",
       "Quinta-Feira: das 18h40 às 20h20"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 10h20 às 12h00 e das 13h00 às 13h50",
       "Terça-Feira: das 7h30 às 9h10",
       "Quarta-Feira: das 13h00 às 13h50"
@@ -941,7 +941,7 @@
       "Segunda-Feira: das 13h00 às 14h40",
       "Sexta-Feira: das 8h20 às 9h10 e das 13h00 às 15h30"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 14h40 às 15h30 e das 15h50 às 17h30",
       "Terça-Feira: das 13h00 às 15h30"
     ],
@@ -956,7 +956,7 @@
     "remoto": [
       "Segunda-Feira: 13h50 às 15h30 e das 15h50 às 16h40"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta-Feira: das 11h10 às 12h00 e das 15h50 às 17h30"
     ],
     "local": "Salas da monitoria no bloco W",
@@ -970,7 +970,7 @@
     "remoto": [
       "Quinta-Feira: das 9h10 às 10h00 e das 10h20 ás 12h00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 13h00 às 15h30"
     ],
     "local": "Salas da monitoria no bloco W",
@@ -985,7 +985,7 @@
       "Quarta-Feira: das 13H50 às 15h30 e das 15h50 às 16h40",
       "        Quinta-Feira:  das 13H50 às 15h30 e das 15h50 às 16h40"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 13H50 às 15h30 e das 15h50 às 16h40",
       "        Terça-Feira: das 13H50 às 15h30 e das 15h50 às 16h40"
     ],
@@ -1001,7 +1001,7 @@
       "Quarta-Feira: das 16h40 às 18h20 e das 18h40 às 19h30",
       "Sexta-Feira: das 13h00 às 15:30"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 17h30 às 18h20",
       "Quinta-Feira: das 8h20 às 10h00 e das 15h50 às 16h40",
       "Sexta-Feira: das 8h20 às 10h00"
@@ -1018,7 +1018,7 @@
       "Quarta-Feira:das 9h10 às 10h00 e das 10h20 às 12h00",
       "Quinta-Feira:das 9h10 às 10h00 e das 10h20 às 12h00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira:das 10h20 às 11h10 e das 12h00 às 12h50",
       "Terça-Feira: das 13h50 às 15h30",
       " Sexta-Feira: das 17h30 às 18h20 e das 18h40 Às 19h30"
@@ -1036,7 +1036,7 @@
       "Quarta-Feira: das 18h40 às 20h20",
       "Quinta-Feira: das 20h20 às 21h10 e das 21h20 às 22h10"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: 17h30 às 18h20",
       "Terça-Feira: 17h30 às 18h20",
       "Quarta-Feira: das 13h00 às 14h40",
@@ -1055,7 +1055,7 @@
       "terça: das 16:00 às 19:00",
       "quarta: das 15:00 às 17:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 13;00 às 16:00",
       "sexta: das 15:00 às 17:00"
     ],
@@ -1071,7 +1071,7 @@
       "terça: das 18:00 às 20:00",
       "sexta: das 15:00 às 18:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 13:00 às 15:00",
       "quarta: das 16:00 às 18:00",
       "quinta: das 15:00 às 16:00"
@@ -1089,7 +1089,7 @@
       "terça: das 19:00 às 20:40",
       "sexta: das 09:10 às 10:00 e das 10h20 às 11h10"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 15:50 às 17:30 sala b3s4",
       "terça: das 13:00 às 14:40 sala b3s4",
       "quarta: das 13:00 s 14:40 sala b3s4",
@@ -1106,7 +1106,7 @@
     "remoto": [
       "quinta: das 8:00 às 11:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 13:00 às 15h:00"
     ],
     "local": "Laboratório de Topografia e Geoprocessamento",
@@ -1120,7 +1120,7 @@
     "remoto": [
       "quarta: das 09:00 às 11:00"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 19:00 às 21:00"
     ],
     "local": "https",
@@ -1136,7 +1136,7 @@
       "quarta: das 16:00 às 17:00",
       "sexta: das 16:00 às 17:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 08:00 às 10:00",
       "quinta: das 13:00 às 15:00"
     ],
@@ -1152,7 +1152,7 @@
       "quinta: das 16:00 às 19:00",
       "sexta: das 17:00 às 19:00"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: das 14:00 às 19:00"
     ],
     "local": "Laboratório de biologia molecular no G10",
@@ -1167,7 +1167,7 @@
       "terça: das 18:00 às 19:00",
       "quarta: das 08:00 às 12:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 08:00 às 09:00 e das 13:00 às 17:00"
     ],
     "local": "Laboratório de Topografia e Geoprocessamento",
@@ -1181,7 +1181,7 @@
     "remoto": [
       "segunda: das 15:00 às 17:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 17:00 às 19:00"
     ],
     "local": "Laboratório de Anatomia e Fisiologia Humana (Bloco E5).",
@@ -1199,7 +1199,7 @@
       "quinta: das 15:10 às 16:10",
       "sexta: das 15:10 às 16:10"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: das 21:30 às 23:00",
       "sexta: 20:30 às 23:00"
     ],
@@ -1215,7 +1215,7 @@
       "terça: das 19:00 às 20:40",
       "sexta: das 15:50 ´s 18:20"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 13:50 às 15:30",
       "quarta: das 10:20 às 12:00",
       "quinta: das 10:20 às 12:00"
@@ -1232,10 +1232,10 @@
       "terça: das 13:30 às 16:30",
       "quinta: das 13:30 às 15:30"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 13:30 às 15:30 e das 16:30 às 18:30",
       "sexta: das 20:30 às 21:30",
-      "Atendimento presencial sala: B5S2 (4 horas) (ATEND-P) - Segunda-feira",
+      "Atendimento ppresencial sala: B5S2 (4 horas) (ATEND-P) - Segunda-feira",
       "Centro de convivência sala 2 (1 hora) (ATEND -P) - Sexta -feira"
     ],
     "local": "B5S2 e Centro de convivência sala 2",
@@ -1250,7 +1250,7 @@
       "terça: das 19:00 às 21:00",
       "quarta: das 18:00 às 21:00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 13:00 às 15:00",
       "sexta: das 13:00 às 16:00"
     ],
@@ -1269,7 +1269,7 @@
       "quinta: das 16h00 às 17h00",
       "sexta: das 16h00 às 17h00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 18h00 às 19h00",
       "terça: das 18h00 às 19h00",
       "quarta: das 18h00 às 19h00",
@@ -1290,7 +1290,7 @@
       "quinta: das 17:50 às 20:20",
       "sexta: das  17:50 às 18:40 e das 21:10 às 22:50"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/fux-miev-grd"
@@ -1304,7 +1304,7 @@
       "terça: das 18h40 às 20h20   (Não haverá atendimento no dia 13/09/2022)",
       "sábado: das 8h20 às 13h"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/ujz-ezes-dvn"
@@ -1317,7 +1317,7 @@
       "segunda: das 15:50 às 17:30",
       "quarta: das 17:50 às 19:30"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/tfd-wizx-qkd"
@@ -1329,7 +1329,7 @@
     "remoto": [
       "Segunda feira - das 13h50 as 17h30"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/xja-yixv-qxr"
@@ -1341,7 +1341,7 @@
     "remoto": [
       "sexta-feira das 18:40 a 21:10"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://tel.meet/rbb-uzgk-ygz?pin=6660686858185"
@@ -1354,7 +1354,7 @@
       "segunda: Das 20h20 as 22h00",
       "Terça: Das 13h00 as 14h40"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/wfp-vsqb-voe"
@@ -1369,7 +1369,7 @@
       "quarta: das 19h30min até às 21h10min",
       "quinta: das 17h50min até às 19h30min"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/zrk-rbby-hoa?authuser=1"
@@ -1381,7 +1381,7 @@
     "remoto": [
       "quarta: das 18h40 até às 22h10"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há.",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/rjb-nymm-xkq"
@@ -1393,7 +1393,7 @@
     "remoto": [
       "quinta: das 18h40 até às  21h10"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/quf-eymx-pir"
@@ -1407,7 +1407,7 @@
       "terça: das 18h40 às20h20",
       "quarta: das 16h40 às 17h30"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/swz-rjgf-mzs"
@@ -1421,7 +1421,7 @@
       "quinta: das 18:40 às 20:20",
       "sexta: das 18:40 às 20:20"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/uwu-itnt-xtg"
@@ -1435,7 +1435,7 @@
       "quarta: das 13h50 às 17h30",
       "sábado: das 15h50 às 18h40"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há.",
     "data": "24/08/2022 a 21/12/2022",
     "link": "meet.google.com/bmj-tsyp-rym"
@@ -1449,7 +1449,7 @@
       "terça: das 14h40 às 17h30",
       "quarta: das 13h50 às 15h30"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/hgq-augu-qgd"
@@ -1465,7 +1465,7 @@
       "quarta: das 21h20 as 22h10",
       "quinta: das 21h20 as 22h10"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "meet.google.com/frm-inrg-fqt"
@@ -1481,7 +1481,7 @@
       "quinta: das 20h20 às 22h",
       "sexta: das 20h20 às 22h"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/vhn-misd-bpb"
@@ -1496,7 +1496,7 @@
       "quinta:  das 18h40 às 20h20",
       "sabado: das 9:10 às12:00"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/hsb-gyyt-tqj"
@@ -1510,7 +1510,7 @@
       "quinta: das 16:40 às 18:20",
       "sexta: das 19:30 às 21:10"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/oya-cxwv-gwe"
@@ -1525,7 +1525,7 @@
       "quinta: das 9h30 às11h",
       "sexta: das 13h50 às 15h30"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/zdg-gcsp-vxt"
@@ -1539,7 +1539,7 @@
       "quarta: das 18h40 às 20h20",
       "sexta: das 15:50 as 17:30"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/asn-wuoe-oyn"
@@ -1550,10 +1550,10 @@
     "monitor": "Samuel Ferraz Toledo",
     "remoto": [
       "segunda: das 20h20 às 22h00 (online - endereço no cabeçalho)",
-      "terça: das 17h40 às 18h30 (presencial - sala k-211 - campus Londrina) e das  18h40 até 19h30 (k314)",
+      "terça: das 17h40 às 18h30 (ppresencial - sala k-211 - campus Londrina) e das  18h40 até 19h30 (k314)",
       "quinta: das 20h20 às 21h10 (online - endereço no cabeçalho)"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "K211",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/ypr-pmbf-zok"
@@ -1568,7 +1568,7 @@
       "sexta: das 10:20 às 12:00",
       "OBS: Na semana de 12 a 16 de setembro de 2022 não haverá atendimento devido a Semana Acadêmica"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "K111",
     "data": "24/08/2022 a 21/12/2022",
     "link": "Não há"
@@ -1578,9 +1578,9 @@
     "disciplina": "Qualidade da Água EA65A",
     "monitor": "Vitor Antonio Campos",
     "remoto": [
-      "sexta: das10:20 às 12:00 (presencial, Sala S04, campus Londrina)"
+      "sexta: das10:20 às 12:00 (ppresencial, Sala S04, campus Londrina)"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "S 04",
     "data": "24/08/2022 a 21/12/2022",
     "link": "Sala Remota:"
@@ -1594,7 +1594,7 @@
       "quarta: das 18h40 até 20h20",
       "quinta: das 18h40 até 20h20"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/suu-aipi-ptq"
@@ -1606,7 +1606,7 @@
     "remoto": [
       "Terça das 17h50 até 21h10"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Não há.",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/ihq-ygvf-ofj?pli=1"
@@ -1618,7 +1618,7 @@
     "remoto": [
       "Segunda e terça: 18h40 às 21h10"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta: 13h50 às 15h30",
       "Quinta e sexta: 10h20 às 12h00"
     ],
@@ -1633,7 +1633,7 @@
     "remoto": [
       "Quarta - feira: 17:30 às 19:30 e Quinta - feira: 13:50 às 15:50"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda e terça: 19:30 às 21:20, Quarta e Quinta: 15:50 às 17:30"
     ],
     "local": "C-304",
@@ -1647,7 +1647,7 @@
     "remoto": [
       "Segunda e Quarta: 8h20 - 11h10, Terça: 18h40-21h20"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://discord.gg/Ws3x8Zuza7"
@@ -1659,7 +1659,7 @@
     "remoto": [
       "Segunda: 8h20 - 12h, Quarta: 7h30 - 11h10, Quinta: 7h30 - 12h, Sexta: 8h20 - 9h10"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://discord.gg/dyR2YAt4"
@@ -1671,7 +1671,7 @@
     "remoto": [
       "Terça e Quinta: 15h50 - 18h20"
     ],
-    "resencial": [
+    "presencial": [
       "Quinta: 20h20 - 23h00",
       "Sexta 18h40 - 21h10"
     ],
@@ -1687,7 +1687,7 @@
       "Terça : 8:20 as 10:00",
       "Quarta e Quinta: 9:10 as 11:10"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda e Terça : 15:50 as 17:30 e",
       "Quarta : 16:40 as 18:20"
     ],
@@ -1703,7 +1703,7 @@
       "Terça-feira: 20h00 às 21h00",
       "Sexta-feira: 10h00 às 14h00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira: 18:00 às 20:00",
       "Terça-feira: 09:00 ao 12:00"
     ],
@@ -1718,7 +1718,7 @@
     "remoto": [
       "Sexta 13h00 às 17h30"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda 09h10 - 12h00",
       "Quinta 13h50 - 15h30"
     ],
@@ -1735,7 +1735,7 @@
       "Quarta 14:40 - 16:40",
       "Quarta 19:30 - 21:20"
     ],
-    "resencial": [
+    "presencial": [
       "Quinta 12:00 - 14:40",
       "Sexta 9:10 - 12:00"
     ],
@@ -1751,7 +1751,7 @@
       "Terça: 18h40 - 20h20",
       "Sexta: 18h40 - 21h20"
     ],
-    "resencial": [
+    "presencial": [
       "Terça: 15h50 - 18h20",
       "Sexta: 18h40 - 21h20"
     ],
@@ -1766,7 +1766,7 @@
     "remoto": [
       "Segunda: 19h 30 - 20h 20"
     ],
-    "resencial": [
+    "presencial": [
       "Quinta: 15h 50 - 16h 40 Sexta: 15h 50 - 16h 40"
     ],
     "local": "E - 107",
@@ -1780,7 +1780,7 @@
     "remoto": [
       "Terça, Quarta e Quinta: 19h30 - 21h10"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta: 9h10 - 11h10, Quinta: 13h00 - 16h40"
     ],
     "local": "E-107",
@@ -1794,7 +1794,7 @@
     "remoto": [
       "Quinta-feira : 11h10 - 12h00 // 15h50 - 18h40"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda : 17h30 - 19h30 // 21h20 - 23h00 Sexta : 19h30 - 23h00"
     ],
     "local": "Bloco A - 2º Andar",
@@ -1808,7 +1808,7 @@
     "remoto": [
       "Quinta-feira : 11h10 - 12h00 // 15h50 - 18h40"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda : 17h30 - 19h30 // 21h20 - 23h00 Sexta : 19h30 - 23h00"
     ],
     "local": "Bloco A - 2º Andar",
@@ -1820,11 +1820,11 @@
     "disciplina": "Transferência de Calor (TF66A)",
     "monitor": "Giovana Genari Carmona",
     "remoto": [
-      "segunda: das 10h30 às 12h00 (presencial)",
-      "terça: das 09h30 às 12h00 (presencial)",
+      "segunda: das 10h30 às 12h00 (ppresencial)",
+      "terça: das 09h30 às 12h00 (ppresencial)",
       "quarta: das 13h00 às 14h00 (remoto)"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Sala N009 ou N011",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/mng-grmn-jvs"
@@ -1836,7 +1836,7 @@
     "remoto": [
       "segunda: das 10h00 às 11h00"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: das 16h40 às 18h40",
       "quinta: das 17h30 às 19h30"
     ],
@@ -1851,7 +1851,7 @@
     "remoto": [
       "segunda: das 08h30 às 12h30"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 16h50 às 17h50"
     ],
     "local": "Laboratório de Desenho",
@@ -1865,7 +1865,7 @@
     "remoto": [
       "segunda: das 08h30 às 12h30"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 16h50 às 17h50"
     ],
     "local": "Laboratório de Desenho",
@@ -1881,7 +1881,7 @@
       "quinta: das 18h40 às 19h40",
       "sexta: das 18h40 às 19h40"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 10h10 às 12h10",
       "terça: das 09h10 às 10h10 e das 16h40 às 17h40",
       "quinta: das 10h00 às 11h00"
@@ -1899,7 +1899,7 @@
       "quarta: das 11h00 às 12h00",
       "sexta: das 11h00 às 12h00"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 09Xh00 às 12h00",
       "sexta: das 09Xh00 às 11h00"
     ],
@@ -1915,7 +1915,7 @@
       "terça: das 18h00 às 20h00",
       "sábado: das 14h00 às 17h00"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 10h00 às 12h00",
       "quinta: das 10h00 às 12h00 e das 18h00 às 19h00"
     ],
@@ -1931,7 +1931,7 @@
       "terça: das 19h30 às 21h30",
       "quinta: das 09h00 às 12h00"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 18h30 às 21h30",
       "sexta: das 10h00 às 12h00"
     ],
@@ -1948,7 +1948,7 @@
       "terça: das 13h00 às 17h30",
       "quarta: das 13h00 às 17h30"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Laboratório C006",
     "data": "24/08/2022 a 21/12/2022",
     "link": "https://meet.google.com/gnc-pamt-ovz?authuser=0&pli=1"
@@ -1961,7 +1961,7 @@
       "terça: das 08h00 às 11h00",
       "sexta: das 08h00 às 10h00"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: das 08h00 às 10h00",
       "quinta: das 19h00 às 22h00"
     ],
@@ -1978,7 +1978,7 @@
       "terça: das 19h00 às 21h00",
       "quarta: das 19h00 às 20h00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 12h00 às 12h50 (N103)",
       "quarta: das 13h00 às 15h30 (N007)",
       "quinta: das 09h10 às 11h10 (N103) e das 15h30 às 19h10 (N007)"
@@ -1995,10 +1995,10 @@
       "segunda: das 15h00 às 17h00",
       "terça: das 09h00 às 12h00"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "BIMLab - Bloco P",
     "data": "24/08/2022 a 21/12/2022",
-    "link": "somente presencial (monitoria voluntária)"
+    "link": "somente ppresencial (monitoria voluntária)"
   },
   {
     "campus": "Apucarana",
@@ -2007,10 +2007,10 @@
     "remoto": [
       "terça: das 14h20 às 17h40 e 18h40 às 20h20"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Sala N202",
     "data": "24/08/2022 a 21/12/2022",
-    "link": "somente presencial (monitoria voluntária)"
+    "link": "somente ppresencial (monitoria voluntária)"
   },
   {
     "campus": "Apucarana",
@@ -2021,10 +2021,10 @@
       "terça: das 17h30 às 19h00",
       "quarta: das 17h30 às 19h00"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Sala N009 ou N011",
     "data": "24/08/2022 a 21/12/2022",
-    "link": "somente presencial (monitoria voluntária)"
+    "link": "somente ppresencial (monitoria voluntária)"
   },
   {
     "campus": "Apucarana",
@@ -2035,10 +2035,10 @@
       "quarta: das 19h30 às 21h00",
       "quinta: das 19h30 às 21h00"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Sala N009 ou N011",
     "data": "24/08/2022 a 21/12/2022",
-    "link": "somente presencial (monitoria voluntária)"
+    "link": "somente ppresencial (monitoria voluntária)"
   },
   {
     "campus": "Apucarana",
@@ -2048,10 +2048,10 @@
       "terça: das 09h00 às 12h00",
       "quarta: das 18h00 às 20h00"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Sala N009 ou N011",
     "data": "24/08/2022 a 21/12/2022",
-    "link": "somente presencial (monitoria voluntária)"
+    "link": "somente ppresencial (monitoria voluntária)"
   },
   {
     "campus": "Apucarana",
@@ -2062,10 +2062,10 @@
       "terça: das 08h00 às 10h00 e das 19h00 às 20h00",
       "quinta: das 17h00 às 18h00"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Sala N009 ou N011",
     "data": "24/08/2022 a 21/12/2022",
-    "link": "somente presencial (monitoria voluntária)"
+    "link": "somente ppresencial (monitoria voluntária)"
   },
   {
     "campus": "Apucarana",
@@ -2075,10 +2075,10 @@
       "segunda: das 09h00 às 12h00",
       "sábado: das 10h00 às 11h00 e 13h00 às 14h00"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Sala N009 ou N011",
     "data": "24/08/2022 a 21/12/2022",
-    "link": "somente presencial (monitoria voluntária)"
+    "link": "somente ppresencial (monitoria voluntária)"
   },
   {
     "campus": "Apucarana",
@@ -2087,10 +2087,10 @@
     "remoto": [
       "terça: das 08h20 às 10h00, das 10h20 às 12h00, das 13h00 às 14h40 e das 16h40 às 18h20"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "Sala N009 ou n011",
     "data": "24/08/2022 a 21/12/2022",
-    "link": "somente presencial (monitoria voluntária)"
+    "link": "somente ppresencial (monitoria voluntária)"
   },
   {
     "campus": "Apucarana",
@@ -2099,7 +2099,7 @@
     "remoto": [
       "segunda: das 08h30 às 12h30"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 16h50 às 17h50"
     ],
     "local": "Laboratório de Desenho",
@@ -2113,7 +2113,7 @@
     "remoto": [
       "segunda: das 08h30 às 12h30"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 16h50 às 17h50"
     ],
     "local": "Laboratório de Desenho",
@@ -2127,7 +2127,7 @@
     "remoto": [
       "segunda: das 08h30 às 12h30"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 16h50 às 17h50"
     ],
     "local": "Laboratório de Desenho",
@@ -2141,7 +2141,7 @@
     "remoto": [
       "quarta: T1 e T2;"
     ],
-    "resencial": [
+    "presencial": [
       "sexta: M4 e M5;"
     ],
     "local": "R204",
@@ -2156,7 +2156,7 @@
       "segunda: N1 e N2;",
       "sexta: T3, T4 e T5;"
     ],
-    "resencial": [
+    "presencial": [
       "terça: T1 e T2"
     ],
     "local": "R204",
@@ -2172,7 +2172,7 @@
       "quarta: N2 e N3",
       "quinta: M4 e M5"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: M4 e M5",
       "quarta: M4; M5; T1 e T2"
     ],
@@ -2187,7 +2187,7 @@
     "remoto": [
       "segunda: M3, M4, M5, T1 e T2;"
     ],
-    "resencial": [
+    "presencial": [
       "terça: M2 e M3;",
       "quarta: T1, T2 e T3;",
       "quinta: T1, T2;"
@@ -2203,7 +2203,7 @@
     "remoto": [
       "terça: T1, T2, T3, T4 e T5;"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: T1, T2, T3, T4 e T5;"
     ],
     "local": "R208",
@@ -2218,7 +2218,7 @@
       "quinta: T6, N1 e N2;",
       "sexta: M4 e M5;"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: M2 e M3;"
     ],
     "local": "R204",
@@ -2235,7 +2235,7 @@
       "quinta: T2",
       "sexta: T6"
     ],
-    "resencial": [
+    "presencial": [
       "terça: N1 e N2",
       "quinta: N1 e N2",
       "sexta: N1 e N2"
@@ -2252,7 +2252,7 @@
       "segunda: N1 e N2",
       "sexta: T3, T4 e T5"
     ],
-    "resencial": [
+    "presencial": [
       "terça: T1 e T2"
     ],
     "local": "R204",
@@ -2267,7 +2267,7 @@
       "terça: das 17h50 às 20h20",
       "quinta: das 19h30 às 22h10"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 14h40 às 17h30",
       "terça: das 14h40 às 17h30"
     ],
@@ -2285,7 +2285,7 @@
       "quinta: das 20h20 às 22h10",
       "sexta: das 17h50 às 22h10"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 17h50 às 18h40",
       "quinta: das 17h50 às 18h40"
     ],
@@ -2301,7 +2301,7 @@
       "segunda: das 9h10 às 12h",
       "quarta: das 14h40 às 17h30"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 10h20 às 12h",
       "quarta: das 10h20 às 12h",
       "sexta: das 13h às 14h40"
@@ -2317,7 +2317,7 @@
     "remoto": [
       "terça: das 7h30 às 10h e 13h às 14h40 e 16h40 às 17h30"
     ],
-    "resencial": [
+    "presencial": [
       "quinta: das 8h20 às 12h",
       "sexta: das 10h20 às 12h"
     ],
@@ -2333,7 +2333,7 @@
       "terça: das 7h30 às 10h",
       "quinta: das 7h30 às 9h10"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 14h40 às 17h30",
       "sexta: das 15h50 às 17h30"
     ],
@@ -2349,7 +2349,7 @@
       "segunda: das 14h às 17h",
       "terça: das 14h às 16h"
     ],
-    "resencial": [
+    "presencial": [
       "terça: das 18h às 20h",
       "quinta: das 18h às 20h"
     ],
@@ -2364,7 +2364,7 @@
     "remoto": [
       "segunda: das 19h às 21h"
     ],
-    "resencial": [
+    "presencial": [
       "quinta: das 08h às10h"
     ],
     "local": "Sala de Monitoria - Bloco L",
@@ -2380,7 +2380,7 @@
       "quarta: das 10h às 12h",
       "quinta: das 10h às 12h e 20h às 22h"
     ],
-    "resencial": [],
+    "presencial": [],
     "local": "--",
     "data": "24/08/2022 a 21/12/2022",
     "link": "Discord: https://discord.gg/wTKjKuDv5Y Meet: https://meet.google.com/zsr-kora-aju"
@@ -2393,7 +2393,7 @@
       "<Segunda Feira: 15h50 - 18h40",
       "Sexta Feira: 13h - 15h30"
     ],
-    "resencial": [
+    "presencial": [
       "Terça Feira: 8h20 - 12h"
     ],
     "local": "Sala A134",
@@ -2407,7 +2407,7 @@
     "remoto": [
       "2ªfª [das 18h40 - 19h30 / das 19h30 - 20h20] 4ªfª [das 14h40 - 15h30] 5ªfª [das 13h50 - 14h40 / 14h40 - 15h30] 6ªfª [das 18h40 - 19h30]"
     ],
-    "resencial": [
+    "presencial": [
       "3ªfª  [das 13h - 13h50 / das13h50 - 14h40 / das 18h40 - 19h30 / das 21h20 - 22h10]"
     ],
     "local": "A134",
@@ -2422,7 +2422,7 @@
       "Terça feira: 15h50 - 17h30;",
       "Sexta feira: 13h00 - 16h40"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta feira: 13h - 16h40;"
     ],
     "local": "I102",
@@ -2437,7 +2437,7 @@
       "Segunda-feira: 19h30 - 22h10;",
       "Terça-feira: 19h30 - 22h10;"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira: 13h00 - 13h50;",
       "Terça-feira: 13h00 - 13h50;",
       "Quarta-feira: 13h00 - 14h40;"
@@ -2455,7 +2455,7 @@
       "Terça: 17:50 às 19:30 hrs;",
       "Quinta:17:50 às 19:30 hrs;;"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: 13:50 às 15:30 hrs;",
       "Quinta: 13:50 às 15:30 hrs;"
     ],
@@ -2471,7 +2471,7 @@
       "< escreva aqui os dias e horários, por exemplo: >",
       "Terça-feira, das 8h20 às 10h00; quarta-feira, das 13h50 às 15h30; sexta-feira, das 8h20 às 10h00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: 13:50 às 15:30 hrs;",
       "Quinta: 13:50 às 15:30 hrs;"
     ],
@@ -2486,7 +2486,7 @@
     "remoto": [
       "< Terça-feira 18h40 às 22h10 e Quinta-feira 19h30 às 21h10"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta-feira: 15h50 às 17h30 e Quinta-feira: 8h20 às 10h10"
     ],
     "local": "Sala A134",
@@ -2502,7 +2502,7 @@
       "Terça feira: 20h20 - 22h10;",
       "Quinta feira: 21h20 - 23h00;"
     ],
-    "resencial": [
+    "presencial": [
       "Terça feira: 15h50 - 17h30;",
       "Quarta feira: 07h30 - 11h10;"
     ],
@@ -2520,7 +2520,7 @@
       "Quinta-feira 21h00 às 21h50",
       "Sexta-feira 19h30 às 20h20"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira 17h50 às 19h30",
       "Quinta-feira 17h50 até 19h30"
     ],
@@ -2538,7 +2538,7 @@
       "quarta:feira:20:20-21:10,",
       "quinta-feira:19:30-21:10"
     ],
-    "resencial": [
+    "presencial": [
       "segunda feira : 13:00-13:50,",
       "terça feira: 19:30-20:20,",
       "quarta-feira:13-13:50,",
@@ -2555,7 +2555,7 @@
     "remoto": [
       "Segunda das 15h50 às 18h20 | Terça das 12h50 às 13h40 e das 15h50 às 17h30  | Quarta das 12h50 às 13h40"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta das 18h40 às 21h10 | Quinta das 18h40 às 21h10"
     ],
     "local": "Sala C108",
@@ -2569,7 +2569,7 @@
     "remoto": [
       "Segunda das 13:50 às 17:30 | Terça das 15:50 às 17:30 | Quinta 12:50 às 13:40 |"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda das 20:20 às 21:10 | Terça das 15:50 às 17:30 | Quarta das 08:20 às 11:10 | Sexta das 12:00 às 14:40"
     ],
     "local": "Sala C108",
@@ -2583,7 +2583,7 @@
     "remoto": [
       "Segunda-feira das 17:30 às 19:30 | Terça-feira das 15:50 às 17:30 | Quarta-feira das 15:50 às 17:30."
     ],
-    "resencial": [
+    "presencial": [
       "Quarta-feira das 19:30 às 21:10 | Sexta-feira das 14:40 às 18:20."
     ],
     "local": "Sala C108",
@@ -2597,7 +2597,7 @@
     "remoto": [
       "Segunda-feira das 13h00 às 13h50 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira  das 18h20 às 20h00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira das 17h30 às 20h50 | Terça-feira das 20h00 às 21h40"
     ],
     "local": "Informações no grupo do Telegram https",
@@ -2611,7 +2611,7 @@
     "remoto": [
       "Terça-feira das 18h20 às 20h00 | Quarta-feira das 13h00 às 13h50 e das 18h20 às 20h00 | Quinta-feira das 13h00 às 13h50"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira das 13h00 às 15h30 | Quinta-feira das 18h20 às 19h10 | Sexta-feira das 13h50 às 15h30"
     ],
     "local": "Informações no grupo do Telegram https",
@@ -2625,7 +2625,7 @@
     "remoto": [
       "Segunda-feira das 7:30h às 10:00h e das 15:50h às 20:20h | Terça-feira das 7:30h às 9:10h e das 15:50h às 17:30h"
     ],
-    "resencial": [
+    "presencial": [
       "Quarta-feira das 17:30h às 21:10h | Quinta-feira das 15:50h às 17:30h"
     ],
     "local": "--",
@@ -2639,7 +2639,7 @@
     "remoto": [
       "Segunda-feira das 17h30 às 18h20 |  Quarta-feira das 17h30 às 18h20 |  Quinta-feira das 10h20 às 13h40"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira das 10h20 às 12h00 | Terça-feira das 13h50 às 17h30"
     ],
     "local": "--",
@@ -2653,7 +2653,7 @@
     "remoto": [
       "segunda 13h às 14h40; sexta 12h às 12h50."
     ],
-    "resencial": [
+    "presencial": [
       "terça 18h40 às 20h20; quarta 11h20 às 13h50 e quinta 17h30 às 19h10."
     ],
     "local": "Sala C108",
@@ -2667,7 +2667,7 @@
     "remoto": [
       "Segunda-feira, das 10h20 às 11h10 | Terça-feira, das 13h00 às 13h50 | Quarta-feira, das 13h00 às 13h50"
     ],
-    "resencial": [
+    "presencial": [
       "Terça-feira, das 18h40 às 21h10 | Quarta-feira, das 18h40 às 21h10 | Quinta-feira, das 18h40 às 21h10"
     ],
     "local": "Sala C108.",
@@ -2681,7 +2681,7 @@
     "remoto": [
       "Segunda-Feira das 17h30 às 19h30 |Terça-Feira das 13h50 às 14h40 |Quinta-Feira das 12h00 às 12h50"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira das 21h20 às 22h50 |Terça-Feira das 19h30 às 22h50 |Quinta-Feira das 20h20 às 22h05"
     ],
     "local": "Sala C108.",
@@ -2695,7 +2695,7 @@
     "remoto": [
       "Segunda-feira das 12h50 às 13h50, Quinta-feira das 12h00 às 13h50 e Sexta-feira das 10h05 às 12h15."
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira das 20h00 às 21h00, Quarta-feira das 20h00 às 21h30, Quinta-feira das 20h00 às 21h30 e Sexta-feira das 20h00 às 21h00."
     ],
     "local": "Sala C108",
@@ -2709,7 +2709,7 @@
     "remoto": [
       "terça-feira das 12h00 às 14h40, Quinta-feira das 9h10 às 10h00, Sexta-feira das 7h30 às 09h10"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira das 15h50 às 18h20, Sexta-feira das 13h50 às 16h40"
     ],
     "local": "Sala C108.",
@@ -2723,7 +2723,7 @@
     "remoto": [
       "Segunda-feira das 10:20 as 12:50 e sexta-feira das 10:20 as 12:50."
     ],
-    "resencial": [
+    "presencial": [
       "Terça-feira das 17:30 as 20:20 e quinta-feira das 16:40 as 19:30"
     ],
     "local": "--",
@@ -2737,7 +2737,7 @@
     "remoto": [
       "Segunda-feira das 12:50 às 15:30 |Terça-feira das 11:10 às 12:00 | Quarta-feira das 10:20 às 12:00."
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-feira das 18:40 às 20:20 | Quinta-feira das 09:10 às 12:00 | Quinta-feira das 18:40 às 19:30."
     ],
     "local": "Sala C108",
@@ -2753,7 +2753,7 @@
       "quarta: das 10:20 às 12:00",
       "quinta: das 10:20 às 12:00"
     ],
-    "resencial": [
+    "presencial": [
       "sexta: das 13:50 às 15:30"
     ],
     "local": "CENT. CONVIVÊNCIA",
@@ -2768,7 +2768,7 @@
       "terça: das 19:30 às 22:10",
       "quarta: das 19:30 às 22:10"
     ],
-    "resencial": [
+    "presencial": [
       "quarta: das 13:50 às 15:30",
       "quinta: das 15:50 às 17:30"
     ],
@@ -2784,7 +2784,7 @@
       "Quarta-Feira:  das 13h00 às 14h40",
       "Quinta-Feira: das 15h50 às 17h30"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: das 13h00 às 14h40",
       "Terça-Feira: das 13h00 às 14h40"
     ],
@@ -2799,7 +2799,7 @@
     "remoto": [
       "Quinta-Feira: das 15h50 às 18h20"
     ],
-    "resencial": [
+    "presencial": [
       "Terça-Feira: das 13h00 às 15h30"
     ],
     "local": "Salas da monitoria no bloco W",
@@ -2814,7 +2814,7 @@
       "Segunda-Feira: das 8h20 às 10h00 e das 15h50 às 18h20",
       "Terça-Feira: das 13h00 às 13h50"
     ],
-    "resencial": [
+    "presencial": [
       "Terça-Feira: das 12h00 às 12h50",
       "Quarta-Feira: das 12h00 às 12h50 e das 13h00 às 13h50",
       "Quinta-Feira: das 13h00 às 13h50 e das 15h50 às 17h30"
@@ -2831,7 +2831,7 @@
       "Quinta-Feira: das 11h10 às 12h50 e das 18h40 às 20h20",
       "Sexta-Feira: das 11h10 às 12h50"
     ],
-    "resencial": [
+    "presencial": [
       "Terça-Feira: das 13h00 às 15h30",
       "Sexta-Feira: das 15h50 às 18h20"
     ],
@@ -2847,7 +2847,7 @@
       "Terça-Feira: das 09h10 às 12h00",
       "Quarta-Feira: das 09h10 às 12h00"
     ],
-    "resencial": [
+    "presencial": [
       "Quinta-Feira:das 09h10 às 12h00",
       "Sexta-Feira: das 09h10 às 12h00"
     ],
@@ -2863,7 +2863,7 @@
       "Terça-Feira: 10h20 às 12h50",
       "Quarta-Feira: 10h20 às 12h50"
     ],
-    "resencial": [
+    "presencial": [
       "Quinta-Feira: das 10h20 às 12h50",
       "Sexta-Feira: das 15h50 às 18h20"
     ],
@@ -2880,7 +2880,7 @@
       "Quinta-Feira: das 8h20 às 10h00",
       "Sexta-Feira: das 8h20 às 10h00"
     ],
-    "resencial": [
+    "presencial": [
       "Terça-Feira: das 17h30 às 18h20 e das 18h40 às 19h30",
       "Quarta-Feira: das 15h50 às 17h30",
       "Quinta-Fiera: das 15h50 às 17h30"
@@ -2898,7 +2898,7 @@
       "Quarta-Feira: das 18h40 às 20h20",
       "Quinta-Feira: das 10h20 às 11h10"
     ],
-    "resencial": [
+    "presencial": [
       "Terça-Feira: das 10h20 às 12h00",
       "Quarta-Feira: das 13h50 às 15h30",
       "Sexta-Feira: das 15h50 às 17h30"
@@ -2914,7 +2914,7 @@
     "remoto": [
       "Quinta-Feira:  das 7h30 às 10h00"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda-Feira: 10h20 às 12h00",
       "Quinta-Feira: 10h20 às 12h00"
     ],
@@ -2929,7 +2929,7 @@
     "remoto": [
       "Terça: das 20:20 às 22:05"
     ],
-    "resencial": [
+    "presencial": [
       "Segunda: das 20:20 às 22:05",
       "Quinta: das 15:50 às 17:30 e 19:30 às 21:10",
       "Sexta: das  19:30 às 21:10"
@@ -2946,7 +2946,7 @@
       "quarta: das 09h10 às 12h00",
       "sexta: das 09h10 às 12h00"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 09h10 às 11h10",
       "terça: das 13h50 às 15h50"
     ],
@@ -2962,7 +2962,7 @@
       "terça: das 18h40 às 21h10",
       "quinta: das 18h40 às 21h10"
     ],
-    "resencial": [
+    "presencial": [
       "segunda: das 08h20 às 10h00",
       "sexta: das 11h10 às 12h50"
     ],
